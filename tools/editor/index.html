@@ -1,0 +1,669 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8" />
+  <title>个性化旅游系统 - 地图数据路网编辑器</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      display: flex;
+      font-family: "Microsoft YaHei", sans-serif;
+    }
+
+    #map {
+      width: 78vw;
+      height: 100vh;
+    }
+
+    #sidebar {
+      width: 22vw;
+      min-width: 320px;
+      height: 100vh;
+      background: #f8f9fa;
+      padding: 16px;
+      box-sizing: border-box;
+      overflow-y: auto;
+      border-left: 1px solid #ddd;
+    }
+
+    .info-panel {
+      margin-top: 14px;
+      padding: 12px;
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);
+    }
+
+    h2, h3 {
+      margin: 6px 0 10px;
+    }
+
+    select,
+    input[type="text"],
+    input[type="number"],
+    button {
+      width: 100%;
+      box-sizing: border-box;
+      margin-top: 5px;
+      margin-bottom: 10px;
+      padding: 8px;
+      border-radius: 4px;
+      border: 1px solid #cfd4da;
+      font-size: 14px;
+    }
+
+    button {
+      border: none;
+      background: #007bff;
+      color: white;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background: #0056b3;
+    }
+
+    button.secondary {
+      background: #6c757d;
+    }
+
+    button.warn {
+      background: #fd7e14;
+    }
+
+    button.active {
+      background: #28a745;
+    }
+
+    .form-group {
+      margin-bottom: 10px;
+    }
+
+    .small-text {
+      font-size: 12px;
+      color: #666;
+      line-height: 1.5;
+    }
+
+    .readonly-box {
+      padding: 8px;
+      background: #f0f2f5;
+      border-radius: 4px;
+      color: #333;
+      border: 1px dashed #bcc3ca;
+      font-size: 13px;
+      white-space: pre-wrap;
+    }
+
+    .status-bar {
+      margin-top: 10px;
+      font-size: 12px;
+      color: #444;
+      background: #eef5ff;
+      border: 1px solid #cfe2ff;
+      border-radius: 6px;
+      padding: 8px;
+    }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+
+  <div id="sidebar">
+    <h2>🛠 地图路网编辑器</h2>
+
+    <label for="dataSelect">选择地图数据包：</label>
+    <select id="dataSelect"></select>
+
+    <button id="btnReload" class="secondary">重新加载</button>
+    <button id="btnSave">保存当前地图 JSON</button>
+    <button id="btnLinkMode" class="warn">开启画线连路模式</button>
+
+    <div class="status-bar" id="modeStatus">当前：普通检查模式</div>
+    <p class="small-text">
+      新增节点：在地图空白处<strong>双击</strong>，或 <strong>Ctrl + 单击</strong><br />
+      新增边：开启“画线连路模式”后，依次点击两个节点
+    </p>
+
+    <div class="info-panel" id="editorPanel" style="display: none;">
+      <h3 id="panelTitle">属性编辑</h3>
+      <div class="form-group">
+        <label>ID</label>
+        <input type="text" id="objId" readonly style="background:#eee;" />
+      </div>
+
+      <div id="edgeFields" style="display:none;">
+        <div class="form-group">
+          <label>路名 (road_name)</label>
+          <input type="text" id="edgeRoadName" />
+        </div>
+        <div class="form-group">
+          <label>拥挤系数 (congestion, 0~1)</label>
+          <input type="number" min="0" max="1" step="0.01" id="edgeCongestion" />
+        </div>
+        <div class="form-group">
+          <label>allows</label>
+          <input type="text" id="edgeAllows" />
+        </div>
+      </div>
+
+      <div id="intersectionFields" style="display:none;">
+        <div class="readonly-box">路口 (Intersection) 为只读，不允许编辑。</div>
+      </div>
+
+      <div id="facilityFields" style="display:none;">
+        <div class="form-group">
+          <label>名称 (name)</label>
+          <input type="text" id="facilityName" />
+        </div>
+
+        <div class="form-group">
+          <label>服务类型 (type)</label>
+          <select id="facilityType">
+            <option value="none">无分类</option>
+            <option value="toilet">卫生间 (toilet)</option>
+            <option value="supermarket">超市 (supermarket)</option>
+            <option value="restaurant_cn">中餐厅 (restaurant_cn)</option>
+            <option value="restaurant_we">西餐厅 (restaurant_we)</option>
+            <option value="sight_other">景点/其他</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label>
+            <input type="checkbox" id="facilityIndoor" />
+            是否拥有室内结构 (is_indoor)
+          </label>
+        </div>
+
+        <div class="form-group">
+          <label>当前楼层数（从 indoor_info.floors 读取）</label>
+          <div class="readonly-box" id="facilityFloorsInfo">未启用室内结构</div>
+        </div>
+      </div>
+
+      <button id="btnApplySelection" class="secondary">应用本次编辑到内存</button>
+    </div>
+  </div>
+
+  <script>
+    const map = L.map('map', { preferCanvas: true }).setView([39.916, 116.397], 15);
+    map.doubleClickZoom.disable();
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(map);
+
+    const currentLayerGroup = L.layerGroup().addTo(map);
+
+    const state = {
+      maps: [],
+      currentFile: '',
+      mapData: null,
+      selected: null, // { kind: 'node'|'edge', ref, index? }
+      linkMode: false,
+      linkSourceNodeId: null,
+      edgeTempLine: null
+    };
+
+    // -------- API --------
+    async function apiGet(url) {
+      const r = await fetch(url);
+      if (!r.ok) throw new Error(await r.text());
+      return r.json();
+    }
+
+    async function apiPut(url, body) {
+      const r = await fetch(url, {
+        method: 'PUT',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(body)
+      });
+      const data = await r.json();
+      if (!r.ok) throw new Error(data.error || JSON.stringify(data));
+      return data;
+    }
+
+    // -------- 初始化 --------
+    const dataSelect = document.getElementById('dataSelect');
+
+    async function initMapList() {
+      try {
+        const resp = await apiGet('/api/maps');
+        state.maps = resp.maps || [];
+        dataSelect.innerHTML = '';
+
+        if (!state.maps.length) {
+          dataSelect.innerHTML = '<option value="">(未发现 map_data/*.json)</option>';
+          return;
+        }
+
+        for (const m of state.maps) {
+          const option = document.createElement('option');
+          option.value = m.file_name;
+          option.textContent = `${m.display_name} (${m.file_name})`;
+          dataSelect.appendChild(option);
+        }
+
+        state.currentFile = state.maps[0].file_name;
+        dataSelect.value = state.currentFile;
+        await loadMapData();
+      } catch (e) {
+        alert('读取地图列表失败：' + e.message + '\n请确认已使用 python server.py 启动服务。');
+      }
+    }
+
+    dataSelect.addEventListener('change', async () => {
+      state.currentFile = dataSelect.value;
+      await loadMapData();
+    });
+
+    document.getElementById('btnReload').addEventListener('click', loadMapData);
+    document.getElementById('btnSave').addEventListener('click', saveCurrentMapData);
+    document.getElementById('btnLinkMode').addEventListener('click', toggleLinkMode);
+    document.getElementById('btnApplySelection').addEventListener('click', applyCurrentSelectionEdit);
+
+    // -------- 数据加载/渲染 --------
+    async function loadMapData() {
+      if (!state.currentFile) return;
+
+      try {
+        const data = await apiGet(`/api/maps/${encodeURIComponent(state.currentFile)}`);
+        state.mapData = data;
+        state.selected = null;
+        clearLinkSelection();
+        renderMap();
+      } catch (e) {
+        console.error(e);
+        alert('读取 JSON 失败：' + e.message);
+      }
+    }
+
+    function renderMap() {
+      currentLayerGroup.clearLayers();
+      document.getElementById('editorPanel').style.display = 'none';
+
+      if (!state.mapData || !Array.isArray(state.mapData.nodes) || !Array.isArray(state.mapData.edges)) {
+        return;
+      }
+
+      const nodesMap = new Map();
+      const bounds = [];
+
+      // 先渲染节点
+      state.mapData.nodes.forEach((node) => {
+        const nodeId = String(node.node_id);
+        nodesMap.set(nodeId, node);
+        bounds.push([node.lat, node.lon]);
+
+        const isIntersection = node.type === 'intersection';
+        const color = isIntersection ? '#888888' : '#e74c3c';
+        const radius = isIntersection ? 3 : 6;
+
+        const marker = L.circleMarker([node.lat, node.lon], {
+          radius,
+          color,
+          fillColor: color,
+          fillOpacity: 0.85,
+          weight: 1
+        });
+
+        marker.on('click', (e) => {
+          L.DomEvent.stopPropagation(e);
+          if (state.linkMode) {
+            onPickNodeForEdge(node);
+          } else {
+            openEditorForNode(node);
+          }
+        });
+
+        marker.bindTooltip(`${node.name || '未命名'} (${node.type || 'unknown'})`);
+        currentLayerGroup.addLayer(marker);
+      });
+
+      // 再渲染边
+      state.mapData.edges.forEach((edge, idx) => {
+        const s = nodesMap.get(String(edge.source_id));
+        const t = nodesMap.get(String(edge.target_id));
+        if (!s || !t) return;
+
+        const linePoints = (Array.isArray(edge.geometry_pts) && edge.geometry_pts.length > 0)
+          ? edge.geometry_pts
+          : [[s.lat, s.lon], [t.lat, t.lon]];
+
+        const line = L.polyline(linePoints, { color: '#3498db', weight: 2, opacity: 0.7 });
+
+        line.on('click', (e) => {
+          L.DomEvent.stopPropagation(e);
+          if (state.linkMode) return; // 连路模式下忽略边点击
+          openEditorForEdge(edge, idx);
+        });
+
+        const rn = edge.road_name ? ` | ${edge.road_name}` : '';
+        line.bindTooltip(`edge: ${edge.source_id} -> ${edge.target_id}${rn}`);
+        currentLayerGroup.addLayer(line);
+      });
+
+      if (bounds.length) {
+        map.fitBounds(bounds, { padding: [20, 20] });
+      }
+    }
+
+    // -------- 编辑面板 --------
+    function hideAllFieldGroups() {
+      document.getElementById('edgeFields').style.display = 'none';
+      document.getElementById('intersectionFields').style.display = 'none';
+      document.getElementById('facilityFields').style.display = 'none';
+    }
+
+    function openEditorForEdge(edge, index) {
+      state.selected = { kind: 'edge', ref: edge, index };
+      document.getElementById('editorPanel').style.display = 'block';
+      document.getElementById('panelTitle').textContent = '道路 (Edge) 编辑';
+      document.getElementById('objId').value = `edge_${edge.source_id}_${edge.target_id}_${index}`;
+
+      hideAllFieldGroups();
+      document.getElementById('edgeFields').style.display = 'block';
+
+      document.getElementById('edgeRoadName').value = edge.road_name || '';
+      document.getElementById('edgeCongestion').value = typeof edge.congestion === 'number' ? edge.congestion : 1.0;
+      document.getElementById('edgeAllows').value = JSON.stringify(edge.allows || [], null, 2);
+    }
+
+    function openEditorForNode(node) {
+      const isIntersection = node.type === 'intersection';
+      const isFacility = !isIntersection;
+
+      state.selected = { kind: 'node', ref: node };
+      document.getElementById('editorPanel').style.display = 'block';
+      document.getElementById('objId').value = String(node.node_id);
+
+      hideAllFieldGroups();
+
+      if (isIntersection) {
+        document.getElementById('panelTitle').textContent = '路口 (Intersection) 查看';
+        document.getElementById('intersectionFields').style.display = 'block';
+        return;
+      }
+
+      if (isFacility) {
+        document.getElementById('panelTitle').textContent = '设施/建筑 (Facility) 编辑';
+        document.getElementById('facilityFields').style.display = 'block';
+
+        document.getElementById('facilityName').value = node.name || '';
+        document.getElementById('facilityType').value = normalizeFacilityType(node.type);
+        document.getElementById('facilityIndoor').checked = !!node.is_indoor;
+        refreshFloorInfo(node);
+      }
+    }
+
+    function normalizeFacilityType(type) {
+      const allowed = new Set(['none', 'toilet', 'supermarket', 'restaurant_cn', 'restaurant_we', 'sight_other']);
+      if (allowed.has(type)) return type;
+      // 历史数据中可能是 poi 或其它，默认视为无分类
+      return 'none';
+    }
+
+    function refreshFloorInfo(node) {
+      const box = document.getElementById('facilityFloorsInfo');
+      if (node.is_indoor && node.indoor_info && typeof node.indoor_info.floors !== 'undefined') {
+        box.textContent = `floors = ${node.indoor_info.floors}`;
+      } else {
+        box.textContent = '未启用室内结构';
+      }
+    }
+
+    function buildDefaultIndoorInfo(parentNodeId) {
+      const pid = String(parentNodeId);
+      return {
+        building_desc: '描述...',
+        floors: 1,
+        nodes: [
+          { id: `sub_${pid}_entrance`, name: '一层大门', floor: 1, type: 'entrance' },
+          { id: `sub_${pid}_elev_1`, name: '一楼电梯', floor: 1, type: 'elevator' }
+        ],
+        edges: [
+          { source: `sub_${pid}_entrance`, target: `sub_${pid}_elev_1`, distance: 10 }
+        ]
+      };
+    }
+
+    function applyCurrentSelectionEdit() {
+      if (!state.selected) {
+        alert('请先点击地图对象');
+        return;
+      }
+
+      if (state.selected.kind === 'edge') {
+        const edge = state.selected.ref;
+
+        edge.road_name = document.getElementById('edgeRoadName').value.trim();
+
+        const c = Number(document.getElementById('edgeCongestion').value);
+        if (Number.isNaN(c) || c < 0 || c > 1) {
+          alert('拥挤系数必须是 0~1 的数字');
+          return;
+        }
+        edge.congestion = c;
+
+        edge.allows = JSON.parse(document.getElementById('edgeAllows').value);
+
+        renderMap();
+        openEditorForEdge(edge, state.selected.index);
+        return;
+      }
+
+      if (state.selected.kind === 'node') {
+        const node = state.selected.ref;
+        if (node.type === 'intersection') {
+          alert('Intersection 为只读，不允许编辑。');
+          return;
+        }
+
+        node.name = document.getElementById('facilityName').value.trim();
+        node.type = document.getElementById('facilityType').value;
+
+        const indoorChecked = document.getElementById('facilityIndoor').checked;
+        node.is_indoor = indoorChecked;
+
+        if (indoorChecked) {
+          const isValidIndoor = node.indoor_info
+            && typeof node.indoor_info === 'object'
+            && Array.isArray(node.indoor_info.nodes)
+            && Array.isArray(node.indoor_info.edges)
+            && typeof node.indoor_info.floors !== 'undefined';
+
+          if (!isValidIndoor) {
+            node.indoor_info = buildDefaultIndoorInfo(node.node_id);
+          }
+        } else {
+          node.indoor_info = {};
+        }
+
+        refreshFloorInfo(node);
+        renderMap();
+        openEditorForNode(node);
+      }
+    }
+
+    // -------- 保存 --------
+    async function saveCurrentMapData() {
+      if (!state.currentFile || !state.mapData) {
+        alert('当前没有可保存的数据。');
+        return;
+      }
+      try {
+        await apiPut(`/api/maps/${encodeURIComponent(state.currentFile)}`, state.mapData);
+        alert(`保存成功：${state.currentFile}`);
+      } catch (e) {
+        alert('保存失败：' + e.message);
+      }
+    }
+
+    // -------- 新增节点 --------
+    function generateNodeId() {
+      return `node_${Date.now()}_${Math.floor(Math.random() * 10000)}`;
+    }
+
+    function askNewNodeKind() {
+      const raw = prompt('新增节点类型：输入 1 = Intersection(路口), 2 = Facility(设施)', '2');
+      if (raw === null) return null;
+      const v = raw.trim();
+      if (v === '1') return 'intersection';
+      if (v === '2') return 'facility';
+      alert('输入无效，请输入 1 或 2');
+      return null;
+    }
+
+    function addNodeAt(latlng) {
+      if (!state.mapData) {
+        alert('请先选择并加载地图数据');
+        return;
+      }
+
+      const kind = askNewNodeKind();
+      if (!kind) return;
+
+      const nodeId = generateNodeId();
+      const node = {
+        node_id: nodeId,
+        name: kind === 'intersection' ? '新路口' : '新设施',
+        lon: Number(latlng.lng.toFixed(6)),
+        lat: Number(latlng.lat.toFixed(6)),
+        type: kind === 'intersection' ? 'intersection' : 'none',
+        is_indoor: false,
+        indoor_info: {}
+      };
+
+      state.mapData.nodes.push(node);
+      renderMap();
+      openEditorForNode(node);
+    }
+
+    map.on('dblclick', (e) => {
+      if (state.linkMode) return;
+      addNodeAt(e.latlng);
+    });
+
+    map.on('click', (e) => {
+      if (state.linkMode) return;
+      if (e.originalEvent && e.originalEvent.ctrlKey) {
+        addNodeAt(e.latlng);
+      }
+    });
+
+    // -------- 新增边（连路模式） --------
+    function toggleLinkMode() {
+      state.linkMode = !state.linkMode;
+      clearLinkSelection();
+
+      const btn = document.getElementById('btnLinkMode');
+      const status = document.getElementById('modeStatus');
+
+      if (state.linkMode) {
+        btn.textContent = '关闭画线连路模式';
+        btn.classList.remove('warn');
+        btn.classList.add('active');
+        status.textContent = '当前：画线连路模式（请点击源节点，再点击目标节点）';
+      } else {
+        btn.textContent = '开启画线连路模式';
+        btn.classList.remove('active');
+        btn.classList.add('warn');
+        status.textContent = '当前：普通检查模式';
+      }
+    }
+
+    function clearLinkSelection() {
+      state.linkSourceNodeId = null;
+      if (state.edgeTempLine) {
+        map.removeLayer(state.edgeTempLine);
+        state.edgeTempLine = null;
+      }
+    }
+
+    function findNodeById(nodeId) {
+      return state.mapData.nodes.find(n => String(n.node_id) === String(nodeId));
+    }
+
+    function onPickNodeForEdge(node) {
+      if (!state.mapData) return;
+
+      const nid = String(node.node_id);
+      if (!state.linkSourceNodeId) {
+        state.linkSourceNodeId = nid;
+        document.getElementById('modeStatus').textContent = `已选源节点：${nid}，请再点击目标节点`;
+        return;
+      }
+
+      const sourceId = state.linkSourceNodeId;
+      const targetId = nid;
+      if (sourceId === targetId) {
+        alert('源节点和目标节点不能相同。');
+        return;
+      }
+
+      const s = findNodeById(sourceId);
+      const t = findNodeById(targetId);
+      if (!s || !t) {
+        alert('节点不存在，请重试');
+        clearLinkSelection();
+        return;
+      }
+
+      const roadName = prompt('请输入路名 (road_name)：', '新道路');
+      if (roadName === null) {
+        clearLinkSelection();
+        return;
+      }
+
+      const congRaw = prompt('请输入拥挤系数 (0~1)：', '1.0');
+      if (congRaw === null) {
+        clearLinkSelection();
+        return;
+      }
+
+      const congestion = Number(congRaw);
+      if (Number.isNaN(congestion) || congestion < 0 || congestion > 1) {
+        alert('拥挤系数必须是 0~1 数字');
+        clearLinkSelection();
+        return;
+      }
+
+      const newEdge = {
+        source_id: s.node_id,
+        target_id: t.node_id,
+        length_meters: Number(calcDistanceMeters(s.lat, s.lon, t.lat, t.lon).toFixed(2)),
+        allows: ['walk', 'bike'],
+        congestion,
+        road_name: roadName.trim(),
+        is_stairs: false
+      };
+
+      state.mapData.edges.push(newEdge);
+      clearLinkSelection();
+      renderMap();
+      openEditorForEdge(newEdge, state.mapData.edges.length - 1);
+      document.getElementById('modeStatus').textContent = '已新增一条边，仍处于画线连路模式';
+    }
+
+    function calcDistanceMeters(lat1, lon1, lat2, lon2) {
+      const R = 6371000;
+      const toRad = d => d * Math.PI / 180;
+      const dLat = toRad(lat2 - lat1);
+      const dLon = toRad(lon2 - lon1);
+      const a =
+        Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+        Math.cos(toRad(lat1)) * Math.cos(toRad(lat2)) *
+        Math.sin(dLon / 2) * Math.sin(dLon / 2);
+      const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+      return R * c;
+    }
+
+    // 启动
+    initMapList();
+  </script>
+</body>
+</html>

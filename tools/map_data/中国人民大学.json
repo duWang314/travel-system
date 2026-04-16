@@ -1,0 +1,9608 @@
+{
+  "destination_name": "中国人民大学",
+  "nodes": [
+    {
+      "node_id": 1779334550,
+      "name": "路口",
+      "lon": 116.31306,
+      "lat": 39.96834,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 1932225260,
+      "name": "路口",
+      "lon": 116.30441,
+      "lat": 39.96898,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 1932225263,
+      "name": "路口",
+      "lon": 116.31118,
+      "lat": 39.96782,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 1932225264,
+      "name": "路口",
+      "lon": 116.30428,
+      "lat": 39.96964,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 1932225274,
+      "name": "路口",
+      "lon": 116.30409,
+      "lat": 39.97135,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 1932225275,
+      "name": "路口",
+      "lon": 116.311,
+      "lat": 39.96941,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 2368045561,
+      "name": "路口",
+      "lon": 116.30322,
+      "lat": 39.96956,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 2641708696,
+      "name": "路口",
+      "lon": 116.31261,
+      "lat": 39.96744,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 2641708701,
+      "name": "路口",
+      "lon": 116.31082,
+      "lat": 39.96718,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 2641708703,
+      "name": "路口",
+      "lon": 116.31074,
+      "lat": 39.96779,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 2843205531,
+      "name": "路口",
+      "lon": 116.31109,
+      "lat": 39.96855,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 2843205532,
+      "name": "路口",
+      "lon": 116.31252,
+      "lat": 39.96866,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 2843205539,
+      "name": "路口",
+      "lon": 116.31292,
+      "lat": 39.968,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 2843205540,
+      "name": "路口",
+      "lon": 116.30667,
+      "lat": 39.96824,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 2843205541,
+      "name": "路口",
+      "lon": 116.30786,
+      "lat": 39.96829,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 2843205542,
+      "name": "路口",
+      "lon": 116.30793,
+      "lat": 39.96755,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 2843205543,
+      "name": "路口",
+      "lon": 116.30966,
+      "lat": 39.96843,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 2843205544,
+      "name": "路口",
+      "lon": 116.30975,
+      "lat": 39.96769,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 2843205545,
+      "name": "路口",
+      "lon": 116.30655,
+      "lat": 39.96912,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 2843205546,
+      "name": "路口",
+      "lon": 116.3067,
+      "lat": 39.96747,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 2843205547,
+      "name": "路口",
+      "lon": 116.30693,
+      "lat": 39.96825,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 2843205548,
+      "name": "路口",
+      "lon": 116.307,
+      "lat": 39.96748,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 3250028221,
+      "name": "路口",
+      "lon": 116.3022,
+      "lat": 39.96948,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 3419716190,
+      "name": "路口",
+      "lon": 116.30544,
+      "lat": 39.96903,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5017699837,
+      "name": "路口",
+      "lon": 116.30301,
+      "lat": 39.97079,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5017699840,
+      "name": "路口",
+      "lon": 116.30508,
+      "lat": 39.97141,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5017699842,
+      "name": "路口",
+      "lon": 116.30426,
+      "lat": 39.96983,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5017699843,
+      "name": "路口",
+      "lon": 116.30955,
+      "lat": 39.97022,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5017699844,
+      "name": "路口",
+      "lon": 116.30965,
+      "lat": 39.96932,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5017699851,
+      "name": "路口",
+      "lon": 116.31066,
+      "lat": 39.97211,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5017699853,
+      "name": "路口",
+      "lon": 116.30601,
+      "lat": 39.97183,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5017699854,
+      "name": "路口",
+      "lon": 116.30502,
+      "lat": 39.97174,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5017699855,
+      "name": "路口",
+      "lon": 116.30689,
+      "lat": 39.9719,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5017699856,
+      "name": "路口",
+      "lon": 116.3071,
+      "lat": 39.97004,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5017699857,
+      "name": "路口",
+      "lon": 116.30532,
+      "lat": 39.96991,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5017699858,
+      "name": "路口",
+      "lon": 116.30233,
+      "lat": 39.96861,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5017723564,
+      "name": "路口",
+      "lon": 116.30801,
+      "lat": 39.97011,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5017723565,
+      "name": "路口",
+      "lon": 116.30775,
+      "lat": 39.97193,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5018576920,
+      "name": "路口",
+      "lon": 116.30561,
+      "lat": 39.9674,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5018578021,
+      "name": "路口",
+      "lon": 116.30578,
+      "lat": 39.96624,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5018578022,
+      "name": "路口",
+      "lon": 116.30571,
+      "lat": 39.96664,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5018578040,
+      "name": "路口",
+      "lon": 116.30804,
+      "lat": 39.96704,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5018578041,
+      "name": "路口",
+      "lon": 116.30677,
+      "lat": 39.96695,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5018578042,
+      "name": "路口",
+      "lon": 116.30969,
+      "lat": 39.96715,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5018578044,
+      "name": "路口",
+      "lon": 116.3096,
+      "lat": 39.96767,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5018578045,
+      "name": "路口",
+      "lon": 116.30237,
+      "lat": 39.9683,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5018578046,
+      "name": "路口",
+      "lon": 116.30138,
+      "lat": 39.96823,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5018578067,
+      "name": "路口",
+      "lon": 116.30181,
+      "lat": 39.96826,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5018578069,
+      "name": "路口",
+      "lon": 116.30246,
+      "lat": 39.96759,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5018578070,
+      "name": "路口",
+      "lon": 116.30186,
+      "lat": 39.9679,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5018578071,
+      "name": "路口",
+      "lon": 116.30242,
+      "lat": 39.96794,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5018578074,
+      "name": "路口",
+      "lon": 116.30333,
+      "lat": 39.96868,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5032716101,
+      "name": "路口",
+      "lon": 116.30501,
+      "lat": 39.97181,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5032716102,
+      "name": "路口",
+      "lon": 116.30454,
+      "lat": 39.97173,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5032716103,
+      "name": "路口",
+      "lon": 116.30459,
+      "lat": 39.97138,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5062544214,
+      "name": "路口",
+      "lon": 116.3109,
+      "lat": 39.97017,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5100333267,
+      "name": "路口",
+      "lon": 116.30882,
+      "lat": 39.96761,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5100333275,
+      "name": "路口",
+      "lon": 116.30873,
+      "lat": 39.96836,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5100834409,
+      "name": "路口",
+      "lon": 116.303,
+      "lat": 39.96972,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5100835680,
+      "name": "路口",
+      "lon": 116.31091,
+      "lat": 39.97012,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5100950216,
+      "name": "路口",
+      "lon": 116.31071,
+      "lat": 39.97176,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5100950219,
+      "name": "路口",
+      "lon": 116.30789,
+      "lat": 39.97134,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101645684,
+      "name": "路口",
+      "lon": 116.30664,
+      "lat": 39.96912,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101645685,
+      "name": "路口",
+      "lon": 116.30652,
+      "lat": 39.97,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101645686,
+      "name": "路口",
+      "lon": 116.30251,
+      "lat": 39.96716,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101645687,
+      "name": "路口",
+      "lon": 116.30349,
+      "lat": 39.96724,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101645688,
+      "name": "路口",
+      "lon": 116.30464,
+      "lat": 39.96733,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101645716,
+      "name": "路口",
+      "lon": 116.30785,
+      "lat": 39.97157,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101645717,
+      "name": "路口",
+      "lon": 116.30694,
+      "lat": 39.9715,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101645718,
+      "name": "路口",
+      "lon": 116.3079,
+      "lat": 39.97127,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101645719,
+      "name": "路口",
+      "lon": 116.30697,
+      "lat": 39.97121,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101645720,
+      "name": "路口",
+      "lon": 116.30792,
+      "lat": 39.97108,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101650421,
+      "name": "路口",
+      "lon": 116.30699,
+      "lat": 39.97101,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101650422,
+      "name": "路口",
+      "lon": 116.30793,
+      "lat": 39.97096,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101650423,
+      "name": "路口",
+      "lon": 116.307,
+      "lat": 39.97089,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101650424,
+      "name": "路口",
+      "lon": 116.30799,
+      "lat": 39.97033,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101650425,
+      "name": "路口",
+      "lon": 116.30513,
+      "lat": 39.97109,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101650426,
+      "name": "路口",
+      "lon": 116.30522,
+      "lat": 39.9706,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101650427,
+      "name": "路口",
+      "lon": 116.30603,
+      "lat": 39.97065,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101650432,
+      "name": "路口",
+      "lon": 116.30525,
+      "lat": 39.97047,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101650433,
+      "name": "路口",
+      "lon": 116.30604,
+      "lat": 39.97051,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101650434,
+      "name": "路口",
+      "lon": 116.30706,
+      "lat": 39.9704,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101650435,
+      "name": "路口",
+      "lon": 116.30607,
+      "lat": 39.97033,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101650436,
+      "name": "路口",
+      "lon": 116.30707,
+      "lat": 39.97027,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101650437,
+      "name": "路口",
+      "lon": 116.3053,
+      "lat": 39.97014,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101650438,
+      "name": "路口",
+      "lon": 116.30609,
+      "lat": 39.97019,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101650439,
+      "name": "路口",
+      "lon": 116.30519,
+      "lat": 39.97078,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101650440,
+      "name": "路口",
+      "lon": 116.306,
+      "lat": 39.97085,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101650441,
+      "name": "路口",
+      "lon": 116.30694,
+      "lat": 39.97154,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101650442,
+      "name": "路口",
+      "lon": 116.307,
+      "lat": 39.97096,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101650443,
+      "name": "路口",
+      "lon": 116.30599,
+      "lat": 39.97088,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101650470,
+      "name": "路口",
+      "lon": 116.30114,
+      "lat": 39.96885,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101650476,
+      "name": "路口",
+      "lon": 116.30293,
+      "lat": 39.97153,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101650538,
+      "name": "路口",
+      "lon": 116.3035,
+      "lat": 39.96869,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101650539,
+      "name": "路口",
+      "lon": 116.30315,
+      "lat": 39.96974,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101650540,
+      "name": "路口",
+      "lon": 116.30605,
+      "lat": 39.97148,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101650541,
+      "name": "路口",
+      "lon": 116.30595,
+      "lat": 39.97146,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101650542,
+      "name": "路口",
+      "lon": 116.30597,
+      "lat": 39.97115,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101650543,
+      "name": "路口",
+      "lon": 116.30612,
+      "lat": 39.96997,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101650544,
+      "name": "路口",
+      "lon": 116.30515,
+      "lat": 39.97101,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5101650545,
+      "name": "路口",
+      "lon": 116.30415,
+      "lat": 39.97095,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5169253686,
+      "name": "路口",
+      "lon": 116.31114,
+      "lat": 39.9682,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5169253693,
+      "name": "路口",
+      "lon": 116.31153,
+      "lat": 39.96824,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5169253703,
+      "name": "路口",
+      "lon": 116.31186,
+      "lat": 39.96826,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5169253715,
+      "name": "路口",
+      "lon": 116.3126,
+      "lat": 39.96831,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5169254621,
+      "name": "路口",
+      "lon": 116.31277,
+      "lat": 39.96832,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5170874275,
+      "name": "路口",
+      "lon": 116.30127,
+      "lat": 39.96942,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5471945201,
+      "name": "路口",
+      "lon": 116.30339,
+      "lat": 39.9682,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5471945202,
+      "name": "路口",
+      "lon": 116.30245,
+      "lat": 39.96769,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 5471945203,
+      "name": "路口",
+      "lon": 116.30343,
+      "lat": 39.96775,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 10238296582,
+      "name": "路口",
+      "lon": 116.31321,
+      "lat": 39.96754,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 10238296583,
+      "name": "路口",
+      "lon": 116.3131,
+      "lat": 39.96801,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 10238296584,
+      "name": "路口",
+      "lon": 116.31358,
+      "lat": 39.96808,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 10238296585,
+      "name": "路口",
+      "lon": 116.31248,
+      "lat": 39.96795,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 10238296586,
+      "name": "路口",
+      "lon": 116.31164,
+      "lat": 39.9673,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 10238296587,
+      "name": "路口",
+      "lon": 116.31156,
+      "lat": 39.96786,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 10238296588,
+      "name": "路口",
+      "lon": 116.30932,
+      "lat": 39.9684,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 10238296589,
+      "name": "路口",
+      "lon": 116.30922,
+      "lat": 39.96929,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 11993920965,
+      "name": "路口",
+      "lon": 116.30877,
+      "lat": 39.96809,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 11993920966,
+      "name": "路口",
+      "lon": 116.30879,
+      "lat": 39.96796,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 11994021909,
+      "name": "路口",
+      "lon": 116.30804,
+      "lat": 39.96921,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 11994021910,
+      "name": "路口",
+      "lon": 116.30813,
+      "lat": 39.96831,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 11994021917,
+      "name": "路口",
+      "lon": 116.30442,
+      "lat": 39.96893,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 11994021918,
+      "name": "路口",
+      "lon": 116.30343,
+      "lat": 39.9678,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 11994021921,
+      "name": "路口",
+      "lon": 116.30459,
+      "lat": 39.96769,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 12406653159,
+      "name": "路口",
+      "lon": 116.30596,
+      "lat": 39.9714,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 12406653176,
+      "name": "路口",
+      "lon": 116.31244,
+      "lat": 39.96912,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 12713834984,
+      "name": "路口",
+      "lon": 116.30302,
+      "lat": 39.96955,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 12713909655,
+      "name": "路口",
+      "lon": 116.30444,
+      "lat": 39.96875,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 12713946029,
+      "name": "路口",
+      "lon": 116.30954,
+      "lat": 39.97027,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 12713946034,
+      "name": "路口",
+      "lon": 116.30814,
+      "lat": 39.97124,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 12713946035,
+      "name": "路口",
+      "lon": 116.3079,
+      "lat": 39.97123,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 12925550340,
+      "name": "路口",
+      "lon": 116.31197,
+      "lat": 39.96735,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 12949264537,
+      "name": "路口",
+      "lon": 116.31326,
+      "lat": 39.9673,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 13161485531,
+      "name": "路口",
+      "lon": 116.31127,
+      "lat": 39.96929,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 13161485533,
+      "name": "路口",
+      "lon": 116.31207,
+      "lat": 39.96934,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 13651383520,
+      "name": "路口",
+      "lon": 116.30795,
+      "lat": 39.97077,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 13651383521,
+      "name": "路口",
+      "lon": 116.30832,
+      "lat": 39.97079,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 13651383522,
+      "name": "路口",
+      "lon": 116.30916,
+      "lat": 39.97019,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 13651383523,
+      "name": "路口",
+      "lon": 116.30917,
+      "lat": 39.97012,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 13697389847,
+      "name": "路口",
+      "lon": 116.30441,
+      "lat": 39.97137,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": 13697389852,
+      "name": "路口",
+      "lon": 116.30354,
+      "lat": 39.97131,
+      "type": "intersection",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": "poi_('way', 513265442)",
+      "name": "nan",
+      "lon": 116.30711,
+      "lat": 39.96972,
+      "type": "facility",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": "poi_('way', 513378604)",
+      "name": "nan",
+      "lon": 116.30183,
+      "lat": 39.96838,
+      "type": "facility",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": "poi_('way', 513378610)",
+      "name": "nan",
+      "lon": 116.30621,
+      "lat": 39.9695,
+      "type": "facility",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": "poi_('way', 513378611)",
+      "name": "nan",
+      "lon": 116.30566,
+      "lat": 39.96943,
+      "type": "facility",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": "poi_('way', 515292443)",
+      "name": "nan",
+      "lon": 116.30747,
+      "lat": 39.97066,
+      "type": "bicycle_parking",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": "poi_('way', 524032216)",
+      "name": "nan",
+      "lon": 116.31334,
+      "lat": 39.96847,
+      "type": "facility",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": "poi_('way', 524042473)",
+      "name": "nan",
+      "lon": 116.31333,
+      "lat": 39.9682,
+      "type": "facility",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": "poi_('way', 524104553)",
+      "name": "nan",
+      "lon": 116.31216,
+      "lat": 39.96991,
+      "type": "facility",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": "poi_('way', 524104562)",
+      "name": "nan",
+      "lon": 116.30698,
+      "lat": 39.96688,
+      "type": "facility",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": "poi_('way', 524117753)",
+      "name": "nan",
+      "lon": 116.30128,
+      "lat": 39.96834,
+      "type": "facility",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": "poi_('way', 524117756)",
+      "name": "nan",
+      "lon": 116.30732,
+      "lat": 39.97167,
+      "type": "facility",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": "poi_('way', 524200040)",
+      "name": "nan",
+      "lon": 116.30173,
+      "lat": 39.967,
+      "type": "facility",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": "poi_('way', 524200043)",
+      "name": "nan",
+      "lon": 116.30754,
+      "lat": 39.9718,
+      "type": "facility",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": "poi_('way', 524200060)",
+      "name": "nan",
+      "lon": 116.30562,
+      "lat": 39.97056,
+      "type": "facility",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": "poi_('way', 524200072)",
+      "name": "nan",
+      "lon": 116.3101,
+      "lat": 39.97164,
+      "type": "facility",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": "poi_('way', 524200075)",
+      "name": "nan",
+      "lon": 116.30446,
+      "lat": 39.97162,
+      "type": "facility",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": "poi_('way', 532751288)",
+      "name": "nan",
+      "lon": 116.30856,
+      "lat": 39.97004,
+      "type": "facility",
+      "is_indoor": false,
+      "indoor_info": {}
+    },
+    {
+      "node_id": "poi_('way', 967046866)",
+      "name": "nan",
+      "lon": 116.3134,
+      "lat": 39.96756,
+      "type": "facility",
+      "is_indoor": false,
+      "indoor_info": {}
+    }
+  ],
+  "edges": [
+    {
+      "source_id": "poi_('node', 4736259000)",
+      "target_id": 5017699844,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('node', 5018578051)",
+      "target_id": 5018578045,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('node', 5018578062)",
+      "target_id": 5101650470,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('node', 5018578063)",
+      "target_id": 5017699858,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('node', 5018578064)",
+      "target_id": 5018578067,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('node', 5018578066)",
+      "target_id": 5018578070,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('node', 5018595023)",
+      "target_id": 13651383523,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('node', 5018595024)",
+      "target_id": 13651383523,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('node', 5100834407)",
+      "target_id": 5017699837,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('node', 5100835847)",
+      "target_id": 5018578040,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('node', 5100835852)",
+      "target_id": 5018578040,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('node', 5169323436)",
+      "target_id": 3419716190,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('node', 11994021885)",
+      "target_id": 5170874275,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('node', 11994021886)",
+      "target_id": 5170874275,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('node', 11994021887)",
+      "target_id": 5170874275,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('node', 11994021911)",
+      "target_id": 12406653176,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('node', 12713909645)",
+      "target_id": 5018578040,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('node', 12713909646)",
+      "target_id": 5018578042,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('node', 12713909647)",
+      "target_id": 5018578042,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('node', 12713909653)",
+      "target_id": 5018576920,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('node', 12715030040)",
+      "target_id": 5101650470,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('node', 12715030041)",
+      "target_id": 5170874275,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('node', 12715059727)",
+      "target_id": 5017699858,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('node', 12715071701)",
+      "target_id": 5032716102,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('node', 12925550343)",
+      "target_id": 2641708701,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('node', 12983144551)",
+      "target_id": 5018578067,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('node', 13296153105)",
+      "target_id": 5101650421,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('relation', 7568147)",
+      "target_id": 2641708703,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('relation', 7568488)",
+      "target_id": 5100950216,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 30725330)",
+      "target_id": 5101645684,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 182855514)",
+      "target_id": 5017699837,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 182855872)",
+      "target_id": 11994021918,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 182855930)",
+      "target_id": 5018578074,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 182856022)",
+      "target_id": 5018578074,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 182856307)",
+      "target_id": 5101645687,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 182856687)",
+      "target_id": 5018578070,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 182856688)",
+      "target_id": 5471945203,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 258855717)",
+      "target_id": 5018578070,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 280166015)",
+      "target_id": 2843205547,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 280166016)",
+      "target_id": 2843205541,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 280166017)",
+      "target_id": 5017699844,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 280166018)",
+      "target_id": 5100333275,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 280166019)",
+      "target_id": 2843205547,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 280166020)",
+      "target_id": 11994021909,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 280166215)",
+      "target_id": 11994021921,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 292822292)",
+      "target_id": 5101650545,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 298031465)",
+      "target_id": 2843205544,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 298031466)",
+      "target_id": 5100333267,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 298031484)",
+      "target_id": 1932225263,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 298031504)",
+      "target_id": 2843205532,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 298031606)",
+      "target_id": 12406653176,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 513262254)",
+      "target_id": 5018578021,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 513262260)",
+      "target_id": 5017699844,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 513265439)",
+      "target_id": 5017699851,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 513265440)",
+      "target_id": 5017699851,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 513265442)",
+      "target_id": 5017699856,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 513378589)",
+      "target_id": 13161485533,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 513378597)",
+      "target_id": 5018578041,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 513378598)",
+      "target_id": 5018578021,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 513378599)",
+      "target_id": 2843205548,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 513378604)",
+      "target_id": 5018578067,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 513378610)",
+      "target_id": 2843205545,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 513378611)",
+      "target_id": 3419716190,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 513380872)",
+      "target_id": 11994021909,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 513380873)",
+      "target_id": 5017723564,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 513380874)",
+      "target_id": 10238296589,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 513380875)",
+      "target_id": 13651383523,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 513380878)",
+      "target_id": 5017699837,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 513380880)",
+      "target_id": 5101650545,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 513380882)",
+      "target_id": 13697389852,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 513380883)",
+      "target_id": 13697389852,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 513380885)",
+      "target_id": 5032716103,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 513380886)",
+      "target_id": 5032716102,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 515161756)",
+      "target_id": 5101650476,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 515161757)",
+      "target_id": 5017699837,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 515161759)",
+      "target_id": 5017699837,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 515161760)",
+      "target_id": 5100834409,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 515161761)",
+      "target_id": 5170874275,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 515292438)",
+      "target_id": 5017699842,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 515292439)",
+      "target_id": 1932225274,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 515292440)",
+      "target_id": 5101650544,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 515292441)",
+      "target_id": 5101650436,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 515292442)",
+      "target_id": 5101650434,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 515292443)",
+      "target_id": 13651383520,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 515292444)",
+      "target_id": 5101650423,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 515292445)",
+      "target_id": 5101650421,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 515292446)",
+      "target_id": 5101645717,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 515292447)",
+      "target_id": 5101645685,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 515292448)",
+      "target_id": 5101650435,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 515292449)",
+      "target_id": 5101650440,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 515292450)",
+      "target_id": 5101650542,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 515292451)",
+      "target_id": 5101650540,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 515292452)",
+      "target_id": 5101650540,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 515292453)",
+      "target_id": 5101650437,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 515292454)",
+      "target_id": 5101650432,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 515292455)",
+      "target_id": 5101650427,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 515292456)",
+      "target_id": 5101650544,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 515292457)",
+      "target_id": 12406653159,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 515292458)",
+      "target_id": 5101650541,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 515297937)",
+      "target_id": 12925550340,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 515297938)",
+      "target_id": 5101645684,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 515297947)",
+      "target_id": 5017699855,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 515297948)",
+      "target_id": 5017723565,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 515297949)",
+      "target_id": 12713946034,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 515301970)",
+      "target_id": 13651383521,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524032216)",
+      "target_id": 1779334550,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524036156)",
+      "target_id": 13161485533,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524042473)",
+      "target_id": 10238296584,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524077199)",
+      "target_id": 10238296586,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524104536)",
+      "target_id": 5017699843,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524104537)",
+      "target_id": 5017723564,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524104541)",
+      "target_id": 5017699851,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524104545)",
+      "target_id": 5100950216,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524104546)",
+      "target_id": 5100950216,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524104548)",
+      "target_id": 5062544214,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524104550)",
+      "target_id": 5062544214,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524104552)",
+      "target_id": 12406653176,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524104553)",
+      "target_id": 13161485533,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524104554)",
+      "target_id": 5100835680,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524104555)",
+      "target_id": 13161485533,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524104557)",
+      "target_id": 5017699844,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524104559)",
+      "target_id": 1932225275,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524104560)",
+      "target_id": 5018578041,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524104561)",
+      "target_id": 5018578041,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524104562)",
+      "target_id": 5018578041,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524104563)",
+      "target_id": 5018578040,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524104564)",
+      "target_id": 5018578041,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524104565)",
+      "target_id": 5018578040,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524104566)",
+      "target_id": 5018578040,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524104567)",
+      "target_id": 5018578040,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524104568)",
+      "target_id": 5018578042,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524104569)",
+      "target_id": 5018578042,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524117748)",
+      "target_id": 5101645688,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524117749)",
+      "target_id": 3250028221,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524117750)",
+      "target_id": 5017699858,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524117751)",
+      "target_id": 5017699858,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524117752)",
+      "target_id": 5101650470,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524117753)",
+      "target_id": 5018578046,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524117756)",
+      "target_id": 5101650441,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524200038)",
+      "target_id": 5101645686,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524200040)",
+      "target_id": 5101645686,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524200043)",
+      "target_id": 5017723565,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524200060)",
+      "target_id": 5101650432,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524200072)",
+      "target_id": 5100950216,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524200075)",
+      "target_id": 5032716102,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 524200077)",
+      "target_id": 1932225274,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 532751288)",
+      "target_id": 5017723564,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 532751289)",
+      "target_id": 5017723564,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 532906190)",
+      "target_id": 5017699857,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 967046864)",
+      "target_id": 2641708696,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 967046865)",
+      "target_id": 10238296582,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 967046866)",
+      "target_id": 10238296582,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": "poi_('way', 1494909741)",
+      "target_id": 5101650426,
+      "length_meters": 5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false
+    },
+    {
+      "source_id": 1779334550,
+      "target_id": 5169254621,
+      "length_meters": 24.85,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 1779334550,
+      "target_id": 2843205532,
+      "length_meters": 63.66,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96834,
+          116.31306
+        ],
+        [
+          39.96841,
+          116.31303
+        ],
+        [
+          39.96848,
+          116.31297
+        ],
+        [
+          39.9686,
+          116.31283
+        ],
+        [
+          39.96866,
+          116.31269
+        ],
+        [
+          39.96866,
+          116.31252
+        ]
+      ]
+    },
+    {
+      "source_id": 1932225260,
+      "target_id": 11994021917,
+      "length_meters": 5.4,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 1932225260,
+      "target_id": 1932225264,
+      "length_meters": 74.57,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96898,
+          116.30441
+        ],
+        [
+          39.9694,
+          116.30436
+        ],
+        [
+          39.96964,
+          116.30428
+        ]
+      ]
+    },
+    {
+      "source_id": 1932225260,
+      "target_id": 3419716190,
+      "length_meters": 87.79,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96898,
+          116.30441
+        ],
+        [
+          39.96902,
+          116.30518
+        ],
+        [
+          39.96903,
+          116.30544
+        ]
+      ]
+    },
+    {
+      "source_id": 1932225263,
+      "target_id": 5169253686,
+      "length_meters": 42.28,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 1932225263,
+      "target_id": 2641708703,
+      "length_meters": 37.48,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 1932225263,
+      "target_id": 10238296587,
+      "length_meters": 32.45,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 1932225264,
+      "target_id": 2368045561,
+      "length_meters": 91.2,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 1932225264,
+      "target_id": 5017699842,
+      "length_meters": 20.63,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 1932225264,
+      "target_id": 1932225260,
+      "length_meters": 74.57,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96964,
+          116.30428
+        ],
+        [
+          39.9694,
+          116.30436
+        ],
+        [
+          39.96898,
+          116.30441
+        ]
+      ]
+    },
+    {
+      "source_id": 1932225274,
+      "target_id": 5101650545,
+      "length_meters": 44.84,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 1932225274,
+      "target_id": 13697389847,
+      "length_meters": 27.37,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 1932225274,
+      "target_id": 13697389852,
+      "length_meters": 46.72,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 1932225275,
+      "target_id": 2843205531,
+      "length_meters": 95.9,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 1932225275,
+      "target_id": 5017699844,
+      "length_meters": 115.1,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 1932225275,
+      "target_id": 5100835680,
+      "length_meters": 79.37,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96941,
+          116.311
+        ],
+        [
+          39.96995,
+          116.31093
+        ],
+        [
+          39.97012,
+          116.31091
+        ]
+      ]
+    },
+    {
+      "source_id": 2368045561,
+      "target_id": 1932225264,
+      "length_meters": 91.2,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2368045561,
+      "target_id": 12713834984,
+      "length_meters": 16.91,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2368045561,
+      "target_id": 5018578074,
+      "length_meters": 98.81,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96956,
+          116.30322
+        ],
+        [
+          39.96952,
+          116.30324
+        ],
+        [
+          39.96868,
+          116.30333
+        ]
+      ]
+    },
+    {
+      "source_id": 2368045561,
+      "target_id": 5101650539,
+      "length_meters": 20.94,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96956,
+          116.30322
+        ],
+        [
+          39.9697,
+          116.30315
+        ],
+        [
+          39.96974,
+          116.30315
+        ]
+      ]
+    },
+    {
+      "source_id": 2641708696,
+      "target_id": 10238296582,
+      "length_meters": 52.04,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2641708696,
+      "target_id": 12925550340,
+      "length_meters": 55.39,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2641708696,
+      "target_id": 10238296585,
+      "length_meters": 57.67,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2641708701,
+      "target_id": 2641708703,
+      "length_meters": 67.8,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2641708701,
+      "target_id": 10238296586,
+      "length_meters": 70.89,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2641708701,
+      "target_id": 5018578042,
+      "length_meters": 96.76,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96718,
+          116.31082
+        ],
+        [
+          39.96715,
+          116.31015
+        ],
+        [
+          39.96715,
+          116.30969
+        ]
+      ]
+    },
+    {
+      "source_id": 2641708703,
+      "target_id": 1932225263,
+      "length_meters": 37.48,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2641708703,
+      "target_id": 2843205544,
+      "length_meters": 85.55,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2641708703,
+      "target_id": 2641708701,
+      "length_meters": 67.8,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2843205531,
+      "target_id": 5169253686,
+      "length_meters": 39.04,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2843205531,
+      "target_id": 1932225275,
+      "length_meters": 95.9,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2843205531,
+      "target_id": 2843205543,
+      "length_meters": 123.03,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2843205532,
+      "target_id": 2843205531,
+      "length_meters": 121.99,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2843205532,
+      "target_id": 12406653176,
+      "length_meters": 51.37,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96866,
+          116.31252
+        ],
+        [
+          39.96891,
+          116.31245
+        ],
+        [
+          39.96897,
+          116.31245
+        ],
+        [
+          39.96912,
+          116.31244
+        ]
+      ]
+    },
+    {
+      "source_id": 2843205539,
+      "target_id": 10238296585,
+      "length_meters": 37.82,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2843205539,
+      "target_id": 10238296583,
+      "length_meters": 15.09,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2843205539,
+      "target_id": 1779334550,
+      "length_meters": 40.93,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.968,
+          116.31292
+        ],
+        [
+          39.96814,
+          116.31301
+        ],
+        [
+          39.96824,
+          116.31306
+        ],
+        [
+          39.96834,
+          116.31306
+        ]
+      ]
+    },
+    {
+      "source_id": 2843205540,
+      "target_id": 2843205547,
+      "length_meters": 22.17,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2843205540,
+      "target_id": 2843205546,
+      "length_meters": 85.4,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2843205540,
+      "target_id": 2843205545,
+      "length_meters": 98.6,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2843205541,
+      "target_id": 2843205547,
+      "length_meters": 79.42,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2843205541,
+      "target_id": 11994021910,
+      "length_meters": 22.5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2843205541,
+      "target_id": 2843205542,
+      "length_meters": 82.72,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2843205542,
+      "target_id": 5100333267,
+      "length_meters": 76.12,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2843205542,
+      "target_id": 2843205548,
+      "length_meters": 79.73,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2843205542,
+      "target_id": 2843205541,
+      "length_meters": 82.72,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2843205542,
+      "target_id": 5018578040,
+      "length_meters": 56.69,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2843205543,
+      "target_id": 10238296588,
+      "length_meters": 29.02,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2843205543,
+      "target_id": 2843205531,
+      "length_meters": 123.03,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2843205543,
+      "target_id": 2843205544,
+      "length_meters": 83.09,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2843205544,
+      "target_id": 2641708703,
+      "length_meters": 85.55,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2843205544,
+      "target_id": 5018578044,
+      "length_meters": 12.46,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2843205544,
+      "target_id": 2843205543,
+      "length_meters": 83.09,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2843205545,
+      "target_id": 5101645684,
+      "length_meters": 7.29,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2843205545,
+      "target_id": 3419716190,
+      "length_meters": 95.59,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2843205545,
+      "target_id": 2843205540,
+      "length_meters": 98.6,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2843205546,
+      "target_id": 2843205548,
+      "length_meters": 25.94,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2843205546,
+      "target_id": 5018576920,
+      "length_meters": 93.35,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2843205546,
+      "target_id": 2843205540,
+      "length_meters": 85.4,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2843205546,
+      "target_id": 5018578041,
+      "length_meters": 58.07,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2843205547,
+      "target_id": 2843205540,
+      "length_meters": 22.17,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2843205547,
+      "target_id": 2843205541,
+      "length_meters": 79.42,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2843205547,
+      "target_id": 2843205548,
+      "length_meters": 85.4,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2843205548,
+      "target_id": 2843205542,
+      "length_meters": 79.73,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2843205548,
+      "target_id": 2843205546,
+      "length_meters": 25.94,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 2843205548,
+      "target_id": 2843205547,
+      "length_meters": 85.4,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 3250028221,
+      "target_id": 5017699858,
+      "length_meters": 97.66,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 3250028221,
+      "target_id": 12713834984,
+      "length_meters": 70.06,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96948,
+          116.3022
+        ],
+        [
+          39.96949,
+          116.30235
+        ],
+        [
+          39.96949,
+          116.30236
+        ],
+        [
+          39.96955,
+          116.30302
+        ]
+      ]
+    },
+    {
+      "source_id": 3250028221,
+      "target_id": 5170874275,
+      "length_meters": 79.61,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96948,
+          116.3022
+        ],
+        [
+          39.96943,
+          116.3014
+        ],
+        [
+          39.96942,
+          116.30127
+        ]
+      ]
+    },
+    {
+      "source_id": 3419716190,
+      "target_id": 2843205545,
+      "length_meters": 95.59,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 3419716190,
+      "target_id": 1932225260,
+      "length_meters": 87.79,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96903,
+          116.30544
+        ],
+        [
+          39.96902,
+          116.30518
+        ],
+        [
+          39.96898,
+          116.30441
+        ]
+      ]
+    },
+    {
+      "source_id": 3419716190,
+      "target_id": 5017699857,
+      "length_meters": 98.35,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96903,
+          116.30544
+        ],
+        [
+          39.96982,
+          116.30533
+        ],
+        [
+          39.96991,
+          116.30532
+        ]
+      ]
+    },
+    {
+      "source_id": 5017699837,
+      "target_id": 5101650539,
+      "length_meters": 117.49,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017699837,
+      "target_id": 5101650476,
+      "length_meters": 82.36,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017699837,
+      "target_id": 13697389852,
+      "length_meters": 103.77,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.97079,
+          116.30301
+        ],
+        [
+          39.97083,
+          116.30356
+        ],
+        [
+          39.97131,
+          116.30351
+        ],
+        [
+          39.97131,
+          116.30354
+        ]
+      ]
+    },
+    {
+      "source_id": 5017699840,
+      "target_id": 5017699854,
+      "length_meters": 36.42,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017699840,
+      "target_id": 5101650425,
+      "length_meters": 35.8,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017699840,
+      "target_id": 5101650541,
+      "length_meters": 74.79,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017699840,
+      "target_id": 5032716103,
+      "length_meters": 41.78,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017699842,
+      "target_id": 1932225264,
+      "length_meters": 20.63,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017699842,
+      "target_id": 5101650545,
+      "length_meters": 124.79,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017699842,
+      "target_id": 5017699857,
+      "length_meters": 90.63,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017699842,
+      "target_id": 5101650539,
+      "length_meters": 95.64,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017699843,
+      "target_id": 13651383522,
+      "length_meters": 33.24,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017699843,
+      "target_id": 5017699844,
+      "length_meters": 100.53,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017699843,
+      "target_id": 12713946029,
+      "length_meters": 6.43,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017699843,
+      "target_id": 5062544214,
+      "length_meters": 116.62,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.97022,
+          116.30955
+        ],
+        [
+          39.97026,
+          116.31015
+        ],
+        [
+          39.97022,
+          116.31064
+        ],
+        [
+          39.97017,
+          116.3109
+        ]
+      ]
+    },
+    {
+      "source_id": 5017699844,
+      "target_id": 1932225275,
+      "length_meters": 115.1,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017699844,
+      "target_id": 10238296589,
+      "length_meters": 37.11,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017699844,
+      "target_id": 5017699843,
+      "length_meters": 100.53,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017699851,
+      "target_id": 5100950216,
+      "length_meters": 38.67,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017699851,
+      "target_id": 5017723565,
+      "length_meters": 249.52,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.97211,
+          116.31066
+        ],
+        [
+          39.97199,
+          116.30877
+        ],
+        [
+          39.97195,
+          116.30804
+        ],
+        [
+          39.97193,
+          116.30775
+        ]
+      ]
+    },
+    {
+      "source_id": 5017699853,
+      "target_id": 5017699854,
+      "length_meters": 84.64,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017699853,
+      "target_id": 5101650540,
+      "length_meters": 39.13,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017699853,
+      "target_id": 5017699855,
+      "length_meters": 75.8,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.97183,
+          116.30601
+        ],
+        [
+          39.97187,
+          116.30645
+        ],
+        [
+          39.9719,
+          116.30689
+        ]
+      ]
+    },
+    {
+      "source_id": 5017699854,
+      "target_id": 5032716101,
+      "length_meters": 8.29,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017699854,
+      "target_id": 5017699840,
+      "length_meters": 36.42,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017699854,
+      "target_id": 5017699853,
+      "length_meters": 84.64,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017699855,
+      "target_id": 5017723565,
+      "length_meters": 72.95,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017699855,
+      "target_id": 5101650441,
+      "length_meters": 40.89,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017699855,
+      "target_id": 5017699853,
+      "length_meters": 75.8,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.9719,
+          116.30689
+        ],
+        [
+          39.97187,
+          116.30645
+        ],
+        [
+          39.97183,
+          116.30601
+        ]
+      ]
+    },
+    {
+      "source_id": 5017699856,
+      "target_id": 5017723564,
+      "length_meters": 78.16,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017699856,
+      "target_id": 5101645685,
+      "length_meters": 49.91,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017699856,
+      "target_id": 5101650436,
+      "length_meters": 25.08,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017699857,
+      "target_id": 5101650437,
+      "length_meters": 25.79,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017699857,
+      "target_id": 5101650543,
+      "length_meters": 68.23,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017699857,
+      "target_id": 5017699842,
+      "length_meters": 90.63,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017699857,
+      "target_id": 3419716190,
+      "length_meters": 98.35,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96991,
+          116.30532
+        ],
+        [
+          39.96982,
+          116.30533
+        ],
+        [
+          39.96903,
+          116.30544
+        ]
+      ]
+    },
+    {
+      "source_id": 5017699858,
+      "target_id": 3250028221,
+      "length_meters": 97.66,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017699858,
+      "target_id": 5018578045,
+      "length_meters": 34.93,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96861,
+          116.30233
+        ],
+        [
+          39.96855,
+          116.30233
+        ],
+        [
+          39.9683,
+          116.30237
+        ]
+      ]
+    },
+    {
+      "source_id": 5017699858,
+      "target_id": 5101650470,
+      "length_meters": 135,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96861,
+          116.30233
+        ],
+        [
+          39.96857,
+          116.3018
+        ],
+        [
+          39.96853,
+          116.30128
+        ],
+        [
+          39.96886,
+          116.30124
+        ],
+        [
+          39.96885,
+          116.30114
+        ]
+      ]
+    },
+    {
+      "source_id": 5017723564,
+      "target_id": 13651383522,
+      "length_meters": 98.04,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017723564,
+      "target_id": 5017699856,
+      "length_meters": 78.16,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017723564,
+      "target_id": 5101650424,
+      "length_meters": 24.84,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017723565,
+      "target_id": 5017699855,
+      "length_meters": 72.95,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017723565,
+      "target_id": 5101645716,
+      "length_meters": 41.41,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5017723565,
+      "target_id": 5017699851,
+      "length_meters": 249.52,
+      "allows": [
+        "walk",
+        "bike",
+        "fly"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.97193,
+          116.30775
+        ],
+        [
+          39.97195,
+          116.30804
+        ],
+        [
+          39.97199,
+          116.30877
+        ],
+        [
+          39.97211,
+          116.31066
+        ]
+      ],
+      "road_name": "测试路"
+    },
+    {
+      "source_id": 5018576920,
+      "target_id": 2843205546,
+      "length_meters": 93.35,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5018576920,
+      "target_id": 5101645688,
+      "length_meters": 82.8,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5018576920,
+      "target_id": 5018578022,
+      "length_meters": 85.02,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5018578021,
+      "target_id": 5018578022,
+      "length_meters": 44.83,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5018578021,
+      "target_id": 5018578022,
+      "length_meters": 182.73,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96624,
+          116.30578
+        ],
+        [
+          39.96614,
+          116.30497
+        ],
+        [
+          39.96655,
+          116.30492
+        ],
+        [
+          39.96664,
+          116.30571
+        ]
+      ]
+    },
+    {
+      "source_id": 5018578021,
+      "target_id": 5018578041,
+      "length_meters": 154.93,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96624,
+          116.30578
+        ],
+        [
+          39.96638,
+          116.30684
+        ],
+        [
+          39.96695,
+          116.30677
+        ]
+      ]
+    },
+    {
+      "source_id": 5018578022,
+      "target_id": 5018578021,
+      "length_meters": 44.83,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5018578022,
+      "target_id": 5018578021,
+      "length_meters": 182.73,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96664,
+          116.30571
+        ],
+        [
+          39.96655,
+          116.30492
+        ],
+        [
+          39.96614,
+          116.30497
+        ],
+        [
+          39.96624,
+          116.30578
+        ]
+      ]
+    },
+    {
+      "source_id": 5018578022,
+      "target_id": 5018576920,
+      "length_meters": 85.02,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5018578040,
+      "target_id": 2843205542,
+      "length_meters": 56.69,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5018578040,
+      "target_id": 5018578042,
+      "length_meters": 141.2,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5018578040,
+      "target_id": 5018578041,
+      "length_meters": 108.54,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5018578041,
+      "target_id": 2843205546,
+      "length_meters": 58.07,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5018578041,
+      "target_id": 5018578040,
+      "length_meters": 108.54,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5018578041,
+      "target_id": 5018578021,
+      "length_meters": 154.93,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96695,
+          116.30677
+        ],
+        [
+          39.96638,
+          116.30684
+        ],
+        [
+          39.96624,
+          116.30578
+        ]
+      ]
+    },
+    {
+      "source_id": 5018578042,
+      "target_id": 5018578040,
+      "length_meters": 141.2,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5018578042,
+      "target_id": 5018578044,
+      "length_meters": 59,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5018578042,
+      "target_id": 2641708701,
+      "length_meters": 96.76,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96715,
+          116.30969
+        ],
+        [
+          39.96715,
+          116.31015
+        ],
+        [
+          39.96718,
+          116.31082
+        ]
+      ]
+    },
+    {
+      "source_id": 5018578044,
+      "target_id": 2843205544,
+      "length_meters": 12.46,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5018578044,
+      "target_id": 5100333267,
+      "length_meters": 66.79,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5018578044,
+      "target_id": 5018578042,
+      "length_meters": 59,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5018578045,
+      "target_id": 5018578071,
+      "length_meters": 39.86,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5018578045,
+      "target_id": 5018578067,
+      "length_meters": 47.5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5018578045,
+      "target_id": 5017699858,
+      "length_meters": 34.93,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.9683,
+          116.30237
+        ],
+        [
+          39.96855,
+          116.30233
+        ],
+        [
+          39.96861,
+          116.30233
+        ]
+      ]
+    },
+    {
+      "source_id": 5018578045,
+      "target_id": 5471945201,
+      "length_meters": 103.65,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.9683,
+          116.30237
+        ],
+        [
+          39.96833,
+          116.30299
+        ],
+        [
+          39.96817,
+          116.30301
+        ],
+        [
+          39.9682,
+          116.30339
+        ]
+      ]
+    },
+    {
+      "source_id": 5018578046,
+      "target_id": 5018578067,
+      "length_meters": 37.13,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5018578067,
+      "target_id": 5018578046,
+      "length_meters": 37.13,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5018578067,
+      "target_id": 5018578045,
+      "length_meters": 47.5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5018578067,
+      "target_id": 5018578070,
+      "length_meters": 39.6,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5018578069,
+      "target_id": 5471945202,
+      "length_meters": 11.33,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5018578069,
+      "target_id": 5101645686,
+      "length_meters": 47.16,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5018578069,
+      "target_id": 5018578070,
+      "length_meters": 87.19,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96759,
+          116.30246
+        ],
+        [
+          39.96755,
+          116.30191
+        ],
+        [
+          39.9679,
+          116.30186
+        ]
+      ]
+    },
+    {
+      "source_id": 5018578070,
+      "target_id": 5018578067,
+      "length_meters": 39.6,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5018578070,
+      "target_id": 5018578071,
+      "length_meters": 47.55,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5018578070,
+      "target_id": 5018578069,
+      "length_meters": 87.19,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.9679,
+          116.30186
+        ],
+        [
+          39.96755,
+          116.30191
+        ],
+        [
+          39.96759,
+          116.30246
+        ]
+      ]
+    },
+    {
+      "source_id": 5018578071,
+      "target_id": 5018578045,
+      "length_meters": 39.86,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5018578071,
+      "target_id": 5471945202,
+      "length_meters": 28.24,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5018578071,
+      "target_id": 5018578070,
+      "length_meters": 47.55,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5018578074,
+      "target_id": 5471945201,
+      "length_meters": 53.14,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5018578074,
+      "target_id": 5101650538,
+      "length_meters": 14.29,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5018578074,
+      "target_id": 2368045561,
+      "length_meters": 98.81,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96868,
+          116.30333
+        ],
+        [
+          39.96952,
+          116.30324
+        ],
+        [
+          39.96956,
+          116.30322
+        ]
+      ]
+    },
+    {
+      "source_id": 5032716101,
+      "target_id": 5017699854,
+      "length_meters": 8.29,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5032716101,
+      "target_id": 5032716102,
+      "length_meters": 41.25,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.97181,
+          116.30501
+        ],
+        [
+          39.97176,
+          116.3046
+        ],
+        [
+          39.97173,
+          116.30454
+        ]
+      ]
+    },
+    {
+      "source_id": 5032716102,
+      "target_id": 5032716103,
+      "length_meters": 39.02,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5032716102,
+      "target_id": 5101650476,
+      "length_meters": 139.08,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.97173,
+          116.30454
+        ],
+        [
+          39.97166,
+          116.30395
+        ],
+        [
+          39.97155,
+          116.30304
+        ],
+        [
+          39.97153,
+          116.30293
+        ]
+      ]
+    },
+    {
+      "source_id": 5032716102,
+      "target_id": 5032716101,
+      "length_meters": 41.25,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.97173,
+          116.30454
+        ],
+        [
+          39.97176,
+          116.3046
+        ],
+        [
+          39.97181,
+          116.30501
+        ]
+      ]
+    },
+    {
+      "source_id": 5032716103,
+      "target_id": 5032716102,
+      "length_meters": 39.02,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5032716103,
+      "target_id": 5017699840,
+      "length_meters": 41.78,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5032716103,
+      "target_id": 13697389847,
+      "length_meters": 15.22,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5062544214,
+      "target_id": 5100835680,
+      "length_meters": 5.22,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5062544214,
+      "target_id": 5100950216,
+      "length_meters": 177.76,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.97017,
+          116.3109
+        ],
+        [
+          39.97033,
+          116.31088
+        ],
+        [
+          39.97176,
+          116.31071
+        ]
+      ]
+    },
+    {
+      "source_id": 5062544214,
+      "target_id": 5017699843,
+      "length_meters": 116.62,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.97017,
+          116.3109
+        ],
+        [
+          39.97022,
+          116.31064
+        ],
+        [
+          39.97026,
+          116.31015
+        ],
+        [
+          39.97022,
+          116.30955
+        ]
+      ]
+    },
+    {
+      "source_id": 5100333267,
+      "target_id": 5018578044,
+      "length_meters": 66.79,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5100333267,
+      "target_id": 2843205542,
+      "length_meters": 76.12,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5100333267,
+      "target_id": 11993920966,
+      "length_meters": 38.85,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5100333275,
+      "target_id": 11994021910,
+      "length_meters": 51.71,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5100333275,
+      "target_id": 10238296588,
+      "length_meters": 50.72,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5100333275,
+      "target_id": 11993920965,
+      "length_meters": 29.63,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96836,
+          116.30873
+        ],
+        [
+          39.96815,
+          116.30876
+        ],
+        [
+          39.96809,
+          116.30877
+        ]
+      ]
+    },
+    {
+      "source_id": 5100834409,
+      "target_id": 12713834984,
+      "length_meters": 19.79,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5100835680,
+      "target_id": 5062544214,
+      "length_meters": 5.22,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5100835680,
+      "target_id": 1932225275,
+      "length_meters": 79.37,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.97012,
+          116.31091
+        ],
+        [
+          39.96995,
+          116.31093
+        ],
+        [
+          39.96941,
+          116.311
+        ]
+      ]
+    },
+    {
+      "source_id": 5100950216,
+      "target_id": 5017699851,
+      "length_meters": 38.67,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5100950216,
+      "target_id": 5062544214,
+      "length_meters": 177.76,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.97176,
+          116.31071
+        ],
+        [
+          39.97033,
+          116.31088
+        ],
+        [
+          39.97017,
+          116.3109
+        ]
+      ]
+    },
+    {
+      "source_id": 5100950216,
+      "target_id": 5100950219,
+      "length_meters": 288.38,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.97176,
+          116.31071
+        ],
+        [
+          39.97172,
+          116.30982
+        ],
+        [
+          39.97169,
+          116.30972
+        ],
+        [
+          39.97161,
+          116.30964
+        ],
+        [
+          39.97133,
+          116.30966
+        ],
+        [
+          39.97127,
+          116.30859
+        ],
+        [
+          39.97136,
+          116.30858
+        ],
+        [
+          39.97134,
+          116.30789
+        ]
+      ]
+    },
+    {
+      "source_id": 5100950219,
+      "target_id": 5101645718,
+      "length_meters": 8.2,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5100950219,
+      "target_id": 5101645716,
+      "length_meters": 25.47,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.97134,
+          116.30789
+        ],
+        [
+          39.97148,
+          116.30787
+        ],
+        [
+          39.97157,
+          116.30785
+        ]
+      ]
+    },
+    {
+      "source_id": 5100950219,
+      "target_id": 5100950216,
+      "length_meters": 288.38,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.97134,
+          116.30789
+        ],
+        [
+          39.97136,
+          116.30858
+        ],
+        [
+          39.97127,
+          116.30859
+        ],
+        [
+          39.97133,
+          116.30966
+        ],
+        [
+          39.97161,
+          116.30964
+        ],
+        [
+          39.97169,
+          116.30972
+        ],
+        [
+          39.97172,
+          116.30982
+        ],
+        [
+          39.97176,
+          116.31071
+        ]
+      ]
+    },
+    {
+      "source_id": 5101645684,
+      "target_id": 11994021909,
+      "length_meters": 119.48,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101645684,
+      "target_id": 2843205545,
+      "length_meters": 7.29,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101645684,
+      "target_id": 5101645685,
+      "length_meters": 97.69,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101645685,
+      "target_id": 5017699856,
+      "length_meters": 49.91,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101645685,
+      "target_id": 5101650543,
+      "length_meters": 34.19,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101645685,
+      "target_id": 5101645684,
+      "length_meters": 97.69,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101645686,
+      "target_id": 5101645687,
+      "length_meters": 83.32,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101645686,
+      "target_id": 5018578069,
+      "length_meters": 47.16,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101645687,
+      "target_id": 5471945203,
+      "length_meters": 57.17,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101645687,
+      "target_id": 5101645688,
+      "length_meters": 98.67,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101645687,
+      "target_id": 5101645686,
+      "length_meters": 83.32,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101645688,
+      "target_id": 5018576920,
+      "length_meters": 82.8,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101645688,
+      "target_id": 5101645687,
+      "length_meters": 98.67,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101645688,
+      "target_id": 11994021921,
+      "length_meters": 40.52,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101645716,
+      "target_id": 5017723565,
+      "length_meters": 41.41,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101645716,
+      "target_id": 5101645717,
+      "length_meters": 77.12,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101645716,
+      "target_id": 5100950219,
+      "length_meters": 25.47,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.97157,
+          116.30785
+        ],
+        [
+          39.97148,
+          116.30787
+        ],
+        [
+          39.97134,
+          116.30789
+        ]
+      ]
+    },
+    {
+      "source_id": 5101645717,
+      "target_id": 5101645719,
+      "length_meters": 33.04,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101645717,
+      "target_id": 5101650441,
+      "length_meters": 3.4,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101645717,
+      "target_id": 5101645716,
+      "length_meters": 77.12,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101645718,
+      "target_id": 5100950219,
+      "length_meters": 8.2,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101645718,
+      "target_id": 12713946035,
+      "length_meters": 4,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101645718,
+      "target_id": 5101645719,
+      "length_meters": 78.9,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101645719,
+      "target_id": 5101650421,
+      "length_meters": 21.79,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101645719,
+      "target_id": 5101645717,
+      "length_meters": 33.04,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101645719,
+      "target_id": 5101645718,
+      "length_meters": 78.9,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101645720,
+      "target_id": 12713946035,
+      "length_meters": 17.35,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101645720,
+      "target_id": 5101650422,
+      "length_meters": 13.23,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101645720,
+      "target_id": 5101650421,
+      "length_meters": 79,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650421,
+      "target_id": 5101650442,
+      "length_meters": 6.33,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650421,
+      "target_id": 5101645719,
+      "length_meters": 21.79,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650421,
+      "target_id": 5101645720,
+      "length_meters": 79,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650422,
+      "target_id": 5101645720,
+      "length_meters": 13.23,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650422,
+      "target_id": 13651383520,
+      "length_meters": 21.45,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650422,
+      "target_id": 5101650423,
+      "length_meters": 78.98,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650423,
+      "target_id": 5101650434,
+      "length_meters": 54.84,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650423,
+      "target_id": 5101650442,
+      "length_meters": 7.18,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650423,
+      "target_id": 5101650422,
+      "length_meters": 78.98,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650424,
+      "target_id": 13651383520,
+      "length_meters": 48.75,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650424,
+      "target_id": 5017723564,
+      "length_meters": 24.84,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650424,
+      "target_id": 5101650436,
+      "length_meters": 78.44,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650425,
+      "target_id": 5017699840,
+      "length_meters": 35.8,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650425,
+      "target_id": 5101650544,
+      "length_meters": 9.2,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650425,
+      "target_id": 5101650542,
+      "length_meters": 71.84,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650426,
+      "target_id": 5101650439,
+      "length_meters": 20.99,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650426,
+      "target_id": 5101650432,
+      "length_meters": 14.9,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650426,
+      "target_id": 5101650427,
+      "length_meters": 68.73,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650427,
+      "target_id": 5101650426,
+      "length_meters": 68.73,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650427,
+      "target_id": 5101650440,
+      "length_meters": 22.07,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650427,
+      "target_id": 5101650433,
+      "length_meters": 15.12,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650432,
+      "target_id": 5101650426,
+      "length_meters": 14.9,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650432,
+      "target_id": 5101650437,
+      "length_meters": 36.02,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650432,
+      "target_id": 5101650433,
+      "length_meters": 68.27,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650433,
+      "target_id": 5101650432,
+      "length_meters": 68.27,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650433,
+      "target_id": 5101650427,
+      "length_meters": 15.12,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650433,
+      "target_id": 5101650435,
+      "length_meters": 20.75,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650434,
+      "target_id": 5101650436,
+      "length_meters": 15.13,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650434,
+      "target_id": 5101650423,
+      "length_meters": 54.84,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650434,
+      "target_id": 5101650435,
+      "length_meters": 84.77,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650435,
+      "target_id": 5101650434,
+      "length_meters": 84.77,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650435,
+      "target_id": 5101650433,
+      "length_meters": 20.75,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650435,
+      "target_id": 5101650438,
+      "length_meters": 15.15,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650436,
+      "target_id": 5017699856,
+      "length_meters": 25.08,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650436,
+      "target_id": 5101650434,
+      "length_meters": 15.13,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650436,
+      "target_id": 5101650438,
+      "length_meters": 84.5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650436,
+      "target_id": 5101650424,
+      "length_meters": 78.44,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650437,
+      "target_id": 5101650432,
+      "length_meters": 36.02,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650437,
+      "target_id": 5017699857,
+      "length_meters": 25.79,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650437,
+      "target_id": 5101650438,
+      "length_meters": 67.13,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650438,
+      "target_id": 5101650437,
+      "length_meters": 67.13,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650438,
+      "target_id": 5101650436,
+      "length_meters": 84.5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650438,
+      "target_id": 5101650435,
+      "length_meters": 15.15,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650438,
+      "target_id": 5101650543,
+      "length_meters": 25,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650439,
+      "target_id": 5101650544,
+      "length_meters": 25.34,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650439,
+      "target_id": 5101650426,
+      "length_meters": 20.99,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650439,
+      "target_id": 5101650440,
+      "length_meters": 69.37,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650440,
+      "target_id": 5101650439,
+      "length_meters": 69.37,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650440,
+      "target_id": 5101650443,
+      "length_meters": 4.2,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650440,
+      "target_id": 5101650427,
+      "length_meters": 22.07,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650441,
+      "target_id": 5101645717,
+      "length_meters": 3.4,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650441,
+      "target_id": 5017699855,
+      "length_meters": 40.89,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650441,
+      "target_id": 5101650540,
+      "length_meters": 75.86,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650442,
+      "target_id": 5101650423,
+      "length_meters": 7.18,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650442,
+      "target_id": 5101650421,
+      "length_meters": 6.33,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650442,
+      "target_id": 5101650443,
+      "length_meters": 85.9,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650443,
+      "target_id": 5101650442,
+      "length_meters": 85.9,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650443,
+      "target_id": 5101650542,
+      "length_meters": 29.46,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650443,
+      "target_id": 5101650440,
+      "length_meters": 4.2,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650470,
+      "target_id": 5017699858,
+      "length_meters": 135,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96885,
+          116.30114
+        ],
+        [
+          39.96886,
+          116.30124
+        ],
+        [
+          39.96853,
+          116.30128
+        ],
+        [
+          39.96857,
+          116.3018
+        ],
+        [
+          39.96861,
+          116.30233
+        ]
+      ]
+    },
+    {
+      "source_id": 5101650476,
+      "target_id": 5017699837,
+      "length_meters": 82.36,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650476,
+      "target_id": 5170874275,
+      "length_meters": 392.61,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.97153,
+          116.30293
+        ],
+        [
+          39.97125,
+          116.30087
+        ],
+        [
+          39.96961,
+          116.30107
+        ],
+        [
+          39.96953,
+          116.30119
+        ],
+        [
+          39.96953,
+          116.30126
+        ],
+        [
+          39.96942,
+          116.30127
+        ]
+      ]
+    },
+    {
+      "source_id": 5101650476,
+      "target_id": 5032716102,
+      "length_meters": 139.08,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.97153,
+          116.30293
+        ],
+        [
+          39.97155,
+          116.30304
+        ],
+        [
+          39.97166,
+          116.30395
+        ],
+        [
+          39.97173,
+          116.30454
+        ]
+      ]
+    },
+    {
+      "source_id": 5101650538,
+      "target_id": 5018578074,
+      "length_meters": 14.29,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650538,
+      "target_id": 12713909655,
+      "length_meters": 80.47,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650538,
+      "target_id": 11994021917,
+      "length_meters": 100.17,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96869,
+          116.3035
+        ],
+        [
+          39.96887,
+          116.30348
+        ],
+        [
+          39.96893,
+          116.30442
+        ]
+      ]
+    },
+    {
+      "source_id": 5101650539,
+      "target_id": 5017699837,
+      "length_meters": 117.49,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650539,
+      "target_id": 5017699842,
+      "length_meters": 95.64,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650539,
+      "target_id": 2368045561,
+      "length_meters": 20.94,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96974,
+          116.30315
+        ],
+        [
+          39.9697,
+          116.30315
+        ],
+        [
+          39.96956,
+          116.30322
+        ]
+      ]
+    },
+    {
+      "source_id": 5101650540,
+      "target_id": 5101650441,
+      "length_meters": 75.86,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650540,
+      "target_id": 5017699853,
+      "length_meters": 39.13,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650540,
+      "target_id": 5101650541,
+      "length_meters": 8.87,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650540,
+      "target_id": 12406653159,
+      "length_meters": 12.31,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650541,
+      "target_id": 5017699840,
+      "length_meters": 74.79,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650541,
+      "target_id": 5101650540,
+      "length_meters": 8.87,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650541,
+      "target_id": 12406653159,
+      "length_meters": 7.27,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650542,
+      "target_id": 5101650425,
+      "length_meters": 71.84,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650542,
+      "target_id": 12406653159,
+      "length_meters": 27.75,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650542,
+      "target_id": 5101650443,
+      "length_meters": 29.46,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650543,
+      "target_id": 5101645685,
+      "length_meters": 34.19,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650543,
+      "target_id": 5017699857,
+      "length_meters": 68.23,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650543,
+      "target_id": 5101650438,
+      "length_meters": 25,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650544,
+      "target_id": 5101650425,
+      "length_meters": 9.2,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650544,
+      "target_id": 5101650439,
+      "length_meters": 25.34,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650544,
+      "target_id": 5101650545,
+      "length_meters": 85.78,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650545,
+      "target_id": 5017699842,
+      "length_meters": 124.79,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650545,
+      "target_id": 1932225274,
+      "length_meters": 44.84,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5101650545,
+      "target_id": 5101650544,
+      "length_meters": 85.78,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5169253686,
+      "target_id": 1932225263,
+      "length_meters": 42.28,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5169253686,
+      "target_id": 2843205531,
+      "length_meters": 39.04,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5169253686,
+      "target_id": 5169253693,
+      "length_meters": 33.91,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5169253693,
+      "target_id": 5169253686,
+      "length_meters": 33.91,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5169253693,
+      "target_id": 5169253703,
+      "length_meters": 43.79,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96824,
+          116.31153
+        ],
+        [
+          39.96821,
+          116.31154
+        ],
+        [
+          39.96818,
+          116.31156
+        ],
+        [
+          39.96815,
+          116.31159
+        ],
+        [
+          39.96813,
+          116.31162
+        ],
+        [
+          39.96812,
+          116.31167
+        ],
+        [
+          39.96812,
+          116.31171
+        ],
+        [
+          39.96813,
+          116.31175
+        ],
+        [
+          39.96814,
+          116.31179
+        ],
+        [
+          39.96817,
+          116.31182
+        ],
+        [
+          39.96819,
+          116.31184
+        ],
+        [
+          39.96822,
+          116.31186
+        ],
+        [
+          39.96826,
+          116.31186
+        ]
+      ]
+    },
+    {
+      "source_id": 5169253693,
+      "target_id": 5169253703,
+      "length_meters": 43.67,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96824,
+          116.31153
+        ],
+        [
+          39.96828,
+          116.31154
+        ],
+        [
+          39.96831,
+          116.31155
+        ],
+        [
+          39.96833,
+          116.31158
+        ],
+        [
+          39.96835,
+          116.31161
+        ],
+        [
+          39.96837,
+          116.31165
+        ],
+        [
+          39.96837,
+          116.31169
+        ],
+        [
+          39.96837,
+          116.31173
+        ],
+        [
+          39.96836,
+          116.31177
+        ],
+        [
+          39.96834,
+          116.3118
+        ],
+        [
+          39.96831,
+          116.31183
+        ],
+        [
+          39.96829,
+          116.31185
+        ],
+        [
+          39.96826,
+          116.31186
+        ]
+      ]
+    },
+    {
+      "source_id": 5169253703,
+      "target_id": 5169253715,
+      "length_meters": 64,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5169253703,
+      "target_id": 5169253693,
+      "length_meters": 43.67,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96826,
+          116.31186
+        ],
+        [
+          39.96829,
+          116.31185
+        ],
+        [
+          39.96831,
+          116.31183
+        ],
+        [
+          39.96834,
+          116.3118
+        ],
+        [
+          39.96836,
+          116.31177
+        ],
+        [
+          39.96837,
+          116.31173
+        ],
+        [
+          39.96837,
+          116.31169
+        ],
+        [
+          39.96837,
+          116.31165
+        ],
+        [
+          39.96835,
+          116.31161
+        ],
+        [
+          39.96833,
+          116.31158
+        ],
+        [
+          39.96831,
+          116.31155
+        ],
+        [
+          39.96828,
+          116.31154
+        ],
+        [
+          39.96824,
+          116.31153
+        ]
+      ]
+    },
+    {
+      "source_id": 5169253703,
+      "target_id": 5169253693,
+      "length_meters": 43.79,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96826,
+          116.31186
+        ],
+        [
+          39.96822,
+          116.31186
+        ],
+        [
+          39.96819,
+          116.31184
+        ],
+        [
+          39.96817,
+          116.31182
+        ],
+        [
+          39.96814,
+          116.31179
+        ],
+        [
+          39.96813,
+          116.31175
+        ],
+        [
+          39.96812,
+          116.31171
+        ],
+        [
+          39.96812,
+          116.31167
+        ],
+        [
+          39.96813,
+          116.31162
+        ],
+        [
+          39.96815,
+          116.31159
+        ],
+        [
+          39.96818,
+          116.31156
+        ],
+        [
+          39.96821,
+          116.31154
+        ],
+        [
+          39.96824,
+          116.31153
+        ]
+      ]
+    },
+    {
+      "source_id": 5169253715,
+      "target_id": 5169253703,
+      "length_meters": 64,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5169253715,
+      "target_id": 5169254621,
+      "length_meters": 21.5,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96831,
+          116.3126
+        ],
+        [
+          39.96829,
+          116.31262
+        ],
+        [
+          39.96827,
+          116.31264
+        ],
+        [
+          39.96826,
+          116.31267
+        ],
+        [
+          39.96826,
+          116.3127
+        ],
+        [
+          39.96827,
+          116.31273
+        ],
+        [
+          39.96828,
+          116.31275
+        ],
+        [
+          39.9683,
+          116.31277
+        ],
+        [
+          39.96832,
+          116.31277
+        ]
+      ]
+    },
+    {
+      "source_id": 5169253715,
+      "target_id": 5169254621,
+      "length_meters": 22.3,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96831,
+          116.3126
+        ],
+        [
+          39.96834,
+          116.31261
+        ],
+        [
+          39.96836,
+          116.31262
+        ],
+        [
+          39.96838,
+          116.31265
+        ],
+        [
+          39.96838,
+          116.31268
+        ],
+        [
+          39.96838,
+          116.31272
+        ],
+        [
+          39.96836,
+          116.31275
+        ],
+        [
+          39.96835,
+          116.31276
+        ],
+        [
+          39.96832,
+          116.31277
+        ]
+      ]
+    },
+    {
+      "source_id": 5169254621,
+      "target_id": 1779334550,
+      "length_meters": 24.85,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5169254621,
+      "target_id": 5169253715,
+      "length_meters": 22.3,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96832,
+          116.31277
+        ],
+        [
+          39.96835,
+          116.31276
+        ],
+        [
+          39.96836,
+          116.31275
+        ],
+        [
+          39.96838,
+          116.31272
+        ],
+        [
+          39.96838,
+          116.31268
+        ],
+        [
+          39.96838,
+          116.31265
+        ],
+        [
+          39.96836,
+          116.31262
+        ],
+        [
+          39.96834,
+          116.31261
+        ],
+        [
+          39.96831,
+          116.3126
+        ]
+      ]
+    },
+    {
+      "source_id": 5169254621,
+      "target_id": 5169253715,
+      "length_meters": 21.5,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96832,
+          116.31277
+        ],
+        [
+          39.9683,
+          116.31277
+        ],
+        [
+          39.96828,
+          116.31275
+        ],
+        [
+          39.96827,
+          116.31273
+        ],
+        [
+          39.96826,
+          116.3127
+        ],
+        [
+          39.96826,
+          116.31267
+        ],
+        [
+          39.96827,
+          116.31264
+        ],
+        [
+          39.96829,
+          116.31262
+        ],
+        [
+          39.96831,
+          116.3126
+        ]
+      ]
+    },
+    {
+      "source_id": 5170874275,
+      "target_id": 3250028221,
+      "length_meters": 79.61,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96942,
+          116.30127
+        ],
+        [
+          39.96943,
+          116.3014
+        ],
+        [
+          39.96948,
+          116.3022
+        ]
+      ]
+    },
+    {
+      "source_id": 5170874275,
+      "target_id": 5101650476,
+      "length_meters": 392.61,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96942,
+          116.30127
+        ],
+        [
+          39.96953,
+          116.30126
+        ],
+        [
+          39.96953,
+          116.30119
+        ],
+        [
+          39.96961,
+          116.30107
+        ],
+        [
+          39.97125,
+          116.30087
+        ],
+        [
+          39.97153,
+          116.30293
+        ]
+      ]
+    },
+    {
+      "source_id": 5471945201,
+      "target_id": 11994021918,
+      "length_meters": 44.31,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5471945201,
+      "target_id": 5018578074,
+      "length_meters": 53.14,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5471945201,
+      "target_id": 5018578045,
+      "length_meters": 103.65,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.9682,
+          116.30339
+        ],
+        [
+          39.96817,
+          116.30301
+        ],
+        [
+          39.96833,
+          116.30299
+        ],
+        [
+          39.9683,
+          116.30237
+        ]
+      ]
+    },
+    {
+      "source_id": 5471945202,
+      "target_id": 5018578071,
+      "length_meters": 28.24,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5471945202,
+      "target_id": 5018578069,
+      "length_meters": 11.33,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5471945202,
+      "target_id": 5471945203,
+      "length_meters": 84.26,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5471945203,
+      "target_id": 5101645687,
+      "length_meters": 57.17,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5471945203,
+      "target_id": 11994021918,
+      "length_meters": 5.62,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 5471945203,
+      "target_id": 5471945202,
+      "length_meters": 84.26,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 10238296582,
+      "target_id": 10238296583,
+      "length_meters": 53.39,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 10238296582,
+      "target_id": 2641708696,
+      "length_meters": 52.04,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 10238296582,
+      "target_id": 12949264537,
+      "length_meters": 26.75,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 10238296583,
+      "target_id": 10238296582,
+      "length_meters": 53.39,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 10238296583,
+      "target_id": 10238296584,
+      "length_meters": 42.09,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 10238296583,
+      "target_id": 2843205539,
+      "length_meters": 15.09,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 10238296584,
+      "target_id": 10238296583,
+      "length_meters": 42.09,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 10238296585,
+      "target_id": 2843205539,
+      "length_meters": 37.82,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 10238296585,
+      "target_id": 10238296587,
+      "length_meters": 79.24,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 10238296585,
+      "target_id": 2641708696,
+      "length_meters": 57.67,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 10238296586,
+      "target_id": 12925550340,
+      "length_meters": 29.06,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 10238296586,
+      "target_id": 2641708701,
+      "length_meters": 70.89,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 10238296586,
+      "target_id": 10238296587,
+      "length_meters": 62.49,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 10238296587,
+      "target_id": 10238296585,
+      "length_meters": 79.24,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 10238296587,
+      "target_id": 1932225263,
+      "length_meters": 32.45,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 10238296587,
+      "target_id": 10238296586,
+      "length_meters": 62.49,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 10238296588,
+      "target_id": 5100333275,
+      "length_meters": 50.72,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 10238296588,
+      "target_id": 2843205543,
+      "length_meters": 29.02,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 10238296588,
+      "target_id": 10238296589,
+      "length_meters": 98.85,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 10238296589,
+      "target_id": 5017699844,
+      "length_meters": 37.11,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 10238296589,
+      "target_id": 11994021909,
+      "length_meters": 100.95,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 10238296589,
+      "target_id": 10238296588,
+      "length_meters": 98.85,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 11993920965,
+      "target_id": 5100333275,
+      "length_meters": 29.63,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96809,
+          116.30877
+        ],
+        [
+          39.96815,
+          116.30876
+        ],
+        [
+          39.96836,
+          116.30873
+        ]
+      ]
+    },
+    {
+      "source_id": 11993920965,
+      "target_id": 11993920966,
+      "length_meters": 23.99,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96809,
+          116.30877
+        ],
+        [
+          39.96809,
+          116.30874
+        ],
+        [
+          39.96807,
+          116.30872
+        ],
+        [
+          39.96806,
+          116.3087
+        ],
+        [
+          39.96804,
+          116.30869
+        ],
+        [
+          39.96802,
+          116.30869
+        ],
+        [
+          39.968,
+          116.30869
+        ],
+        [
+          39.96798,
+          116.30871
+        ],
+        [
+          39.96796,
+          116.30873
+        ],
+        [
+          39.96796,
+          116.30876
+        ],
+        [
+          39.96796,
+          116.30879
+        ]
+      ]
+    },
+    {
+      "source_id": 11993920965,
+      "target_id": 11993920966,
+      "length_meters": 23.94,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96809,
+          116.30877
+        ],
+        [
+          39.96809,
+          116.3088
+        ],
+        [
+          39.96808,
+          116.30883
+        ],
+        [
+          39.96806,
+          116.30885
+        ],
+        [
+          39.96804,
+          116.30886
+        ],
+        [
+          39.96802,
+          116.30887
+        ],
+        [
+          39.968,
+          116.30886
+        ],
+        [
+          39.96798,
+          116.30884
+        ],
+        [
+          39.96796,
+          116.30882
+        ],
+        [
+          39.96796,
+          116.30879
+        ]
+      ]
+    },
+    {
+      "source_id": 11993920966,
+      "target_id": 5100333267,
+      "length_meters": 38.85,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 11993920966,
+      "target_id": 11993920965,
+      "length_meters": 23.94,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96796,
+          116.30879
+        ],
+        [
+          39.96796,
+          116.30882
+        ],
+        [
+          39.96798,
+          116.30884
+        ],
+        [
+          39.968,
+          116.30886
+        ],
+        [
+          39.96802,
+          116.30887
+        ],
+        [
+          39.96804,
+          116.30886
+        ],
+        [
+          39.96806,
+          116.30885
+        ],
+        [
+          39.96808,
+          116.30883
+        ],
+        [
+          39.96809,
+          116.3088
+        ],
+        [
+          39.96809,
+          116.30877
+        ]
+      ]
+    },
+    {
+      "source_id": 11993920966,
+      "target_id": 11993920965,
+      "length_meters": 23.99,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96796,
+          116.30879
+        ],
+        [
+          39.96796,
+          116.30876
+        ],
+        [
+          39.96796,
+          116.30873
+        ],
+        [
+          39.96798,
+          116.30871
+        ],
+        [
+          39.968,
+          116.30869
+        ],
+        [
+          39.96802,
+          116.30869
+        ],
+        [
+          39.96804,
+          116.30869
+        ],
+        [
+          39.96806,
+          116.3087
+        ],
+        [
+          39.96807,
+          116.30872
+        ],
+        [
+          39.96809,
+          116.30874
+        ],
+        [
+          39.96809,
+          116.30877
+        ]
+      ]
+    },
+    {
+      "source_id": 11994021909,
+      "target_id": 10238296589,
+      "length_meters": 100.95,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 11994021909,
+      "target_id": 5101645684,
+      "length_meters": 119.48,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 11994021909,
+      "target_id": 11994021910,
+      "length_meters": 100.25,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 11994021910,
+      "target_id": 2843205541,
+      "length_meters": 22.5,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 11994021910,
+      "target_id": 5100333275,
+      "length_meters": 51.71,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 11994021910,
+      "target_id": 11994021909,
+      "length_meters": 100.25,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 11994021917,
+      "target_id": 12713909655,
+      "length_meters": 20.28,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 11994021917,
+      "target_id": 1932225260,
+      "length_meters": 5.4,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 11994021917,
+      "target_id": 5101650538,
+      "length_meters": 100.17,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96893,
+          116.30442
+        ],
+        [
+          39.96887,
+          116.30348
+        ],
+        [
+          39.96869,
+          116.3035
+        ]
+      ]
+    },
+    {
+      "source_id": 11994021918,
+      "target_id": 5471945203,
+      "length_meters": 5.62,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 11994021918,
+      "target_id": 5471945201,
+      "length_meters": 44.31,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 11994021918,
+      "target_id": 11994021921,
+      "length_meters": 119.31,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.9678,
+          116.30343
+        ],
+        [
+          39.96783,
+          116.30379
+        ],
+        [
+          39.96763,
+          116.30381
+        ],
+        [
+          39.96769,
+          116.30459
+        ]
+      ]
+    },
+    {
+      "source_id": 11994021921,
+      "target_id": 5101645688,
+      "length_meters": 40.52,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 11994021921,
+      "target_id": 12713909655,
+      "length_meters": 118.47,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 11994021921,
+      "target_id": 11994021918,
+      "length_meters": 119.31,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96769,
+          116.30459
+        ],
+        [
+          39.96763,
+          116.30381
+        ],
+        [
+          39.96783,
+          116.30379
+        ],
+        [
+          39.9678,
+          116.30343
+        ]
+      ]
+    },
+    {
+      "source_id": 12406653159,
+      "target_id": 5101650541,
+      "length_meters": 7.27,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 12406653159,
+      "target_id": 5101650542,
+      "length_meters": 27.75,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 12406653159,
+      "target_id": 5101650540,
+      "length_meters": 12.31,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 12406653176,
+      "target_id": 13161485533,
+      "length_meters": 50.81,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96912,
+          116.31244
+        ],
+        [
+          39.96929,
+          116.31242
+        ],
+        [
+          39.96933,
+          116.31237
+        ],
+        [
+          39.96935,
+          116.31232
+        ],
+        [
+          39.96935,
+          116.31223
+        ],
+        [
+          39.96934,
+          116.31207
+        ]
+      ]
+    },
+    {
+      "source_id": 12406653176,
+      "target_id": 13161485533,
+      "length_meters": 55.03,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96912,
+          116.31244
+        ],
+        [
+          39.9691,
+          116.3121
+        ],
+        [
+          39.96934,
+          116.31207
+        ]
+      ]
+    },
+    {
+      "source_id": 12406653176,
+      "target_id": 2843205532,
+      "length_meters": 51.37,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96912,
+          116.31244
+        ],
+        [
+          39.96897,
+          116.31245
+        ],
+        [
+          39.96891,
+          116.31245
+        ],
+        [
+          39.96866,
+          116.31252
+        ]
+      ]
+    },
+    {
+      "source_id": 12713834984,
+      "target_id": 2368045561,
+      "length_meters": 16.91,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 12713834984,
+      "target_id": 5100834409,
+      "length_meters": 19.79,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 12713834984,
+      "target_id": 3250028221,
+      "length_meters": 70.06,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96955,
+          116.30302
+        ],
+        [
+          39.96949,
+          116.30236
+        ],
+        [
+          39.96949,
+          116.30235
+        ],
+        [
+          39.96948,
+          116.3022
+        ]
+      ]
+    },
+    {
+      "source_id": 12713909655,
+      "target_id": 11994021921,
+      "length_meters": 118.47,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 12713909655,
+      "target_id": 11994021917,
+      "length_meters": 20.28,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 12713909655,
+      "target_id": 5101650538,
+      "length_meters": 80.47,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 12713946029,
+      "target_id": 5017699843,
+      "length_meters": 6.43,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 12713946034,
+      "target_id": 12713946035,
+      "length_meters": 20.2,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 12713946035,
+      "target_id": 5101645718,
+      "length_meters": 4,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 12713946035,
+      "target_id": 5101645720,
+      "length_meters": 17.35,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 12713946035,
+      "target_id": 12713946034,
+      "length_meters": 20.2,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 12925550340,
+      "target_id": 2641708696,
+      "length_meters": 55.39,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 12925550340,
+      "target_id": 10238296586,
+      "length_meters": 29.06,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 12949264537,
+      "target_id": 10238296582,
+      "length_meters": 26.75,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 13161485531,
+      "target_id": 13161485533,
+      "length_meters": 69.09,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 13161485533,
+      "target_id": 13161485531,
+      "length_meters": 69.09,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 13161485533,
+      "target_id": 12406653176,
+      "length_meters": 50.81,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96934,
+          116.31207
+        ],
+        [
+          39.96935,
+          116.31223
+        ],
+        [
+          39.96935,
+          116.31232
+        ],
+        [
+          39.96933,
+          116.31237
+        ],
+        [
+          39.96929,
+          116.31242
+        ],
+        [
+          39.96912,
+          116.31244
+        ]
+      ]
+    },
+    {
+      "source_id": 13161485533,
+      "target_id": 12406653176,
+      "length_meters": 55.03,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.96934,
+          116.31207
+        ],
+        [
+          39.9691,
+          116.3121
+        ],
+        [
+          39.96912,
+          116.31244
+        ]
+      ]
+    },
+    {
+      "source_id": 13651383520,
+      "target_id": 5101650422,
+      "length_meters": 21.45,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 13651383520,
+      "target_id": 5101650424,
+      "length_meters": 48.75,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 13651383520,
+      "target_id": 13651383521,
+      "length_meters": 31.51,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 13651383521,
+      "target_id": 13651383520,
+      "length_meters": 31.51,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 13651383522,
+      "target_id": 5017699843,
+      "length_meters": 33.24,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 13651383522,
+      "target_id": 5017723564,
+      "length_meters": 98.04,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 13651383522,
+      "target_id": 13651383523,
+      "length_meters": 7.2,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 13651383523,
+      "target_id": 13651383522,
+      "length_meters": 7.2,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 13697389847,
+      "target_id": 5032716103,
+      "length_meters": 15.22,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 13697389847,
+      "target_id": 1932225274,
+      "length_meters": 27.37,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 13697389847,
+      "target_id": 13697389852,
+      "length_meters": 124.37,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.97137,
+          116.30441
+        ],
+        [
+          39.97151,
+          116.3044
+        ],
+        [
+          39.97159,
+          116.30439
+        ],
+        [
+          39.97157,
+          116.30405
+        ],
+        [
+          39.97154,
+          116.30406
+        ],
+        [
+          39.97151,
+          116.30352
+        ],
+        [
+          39.97141,
+          116.30353
+        ],
+        [
+          39.97131,
+          116.30354
+        ]
+      ]
+    },
+    {
+      "source_id": 13697389852,
+      "target_id": 1932225274,
+      "length_meters": 46.72,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": []
+    },
+    {
+      "source_id": 13697389852,
+      "target_id": 5017699837,
+      "length_meters": 103.77,
+      "allows": [
+        "walk",
+        "bike"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.97131,
+          116.30354
+        ],
+        [
+          39.97131,
+          116.30351
+        ],
+        [
+          39.97083,
+          116.30356
+        ],
+        [
+          39.97079,
+          116.30301
+        ]
+      ]
+    },
+    {
+      "source_id": 13697389852,
+      "target_id": 13697389847,
+      "length_meters": 124.37,
+      "allows": [
+        "walk"
+      ],
+      "congestion": 1,
+      "is_stairs": false,
+      "geometry_pts": [
+        [
+          39.97131,
+          116.30354
+        ],
+        [
+          39.97141,
+          116.30353
+        ],
+        [
+          39.97151,
+          116.30352
+        ],
+        [
+          39.97154,
+          116.30406
+        ],
+        [
+          39.97157,
+          116.30405
+        ],
+        [
+          39.97159,
+          116.30439
+        ],
+        [
+          39.97151,
+          116.3044
+        ],
+        [
+          39.97137,
+          116.30441
+        ]
+      ]
+    }
+  ]
+}
