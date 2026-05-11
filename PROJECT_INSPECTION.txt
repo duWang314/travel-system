@@ -1,0 +1,94 @@
+ROOT /home/ubuntu/travel-system
+
+Top-level:
+- .git DIR
+- .gitignore FILE
+- PROJECT_INSPECTION.txt FILE
+- backend DIR
+- design DIR
+- indoor_navigation_algorithm.py FILE
+- tools DIR
+
+Maps:
+中国人民大学.json dict keys= ['destination_name', 'nodes', 'edges'] nodes= 160 edges= 562
+  node keys: ['node_id', 'name', 'lon', 'lat', 'type', 'is_indoor', 'indoor_info']
+  first node: {'node_id': 1779334550, 'name': '路口', 'lon': 116.31306, 'lat': 39.96834, 'type': 'intersection', 'is_indoor': False, 'indoor_info': {}}
+  edge keys: ['source_id', 'target_id', 'length_meters', 'allows', 'congestion', 'is_stairs']
+  first edge: {'source_id': "poi_('node', 4736259000)", 'target_id': 5017699844, 'length_meters': 5, 'allows': ['walk', 'bike'], 'congestion': 1, 'is_stairs': False}
+什刹海.json dict keys= ['destination_name', 'nodes', 'edges'] nodes= 1415 edges= 2489
+  node keys: ['node_id', 'name', 'lon', 'lat', 'type', 'is_indoor', 'indoor_info']
+  first node: {'node_id': 32278573, 'name': '路口', 'lon': 116.39681, 'lat': 39.93945, 'type': 'intersection', 'is_indoor': False, 'indoor_info': {}}
+  edge keys: ['source_id', 'target_id', 'length_meters', 'allows', 'congestion', 'is_stairs']
+  first edge: {'source_id': "poi_('node', 269491228)", 'target_id': 269491228, 'length_meters': 5.0, 'allows': ['walk', 'bike'], 'congestion': 1.0, 'is_stairs': False}
+八达岭长城.json dict keys= ['destination_name', 'nodes', 'edges'] nodes= 266 edges= 645
+  node keys: ['node_id', 'name', 'lon', 'lat', 'type', 'is_indoor', 'indoor_info']
+  first node: {'node_id': 269429662, 'name': '路口', 'lon': 116.00394, 'lat': 40.35489, 'type': 'intersection', 'is_indoor': False, 'indoor_info': {}}
+  edge keys: ['source_id', 'target_id', 'length_meters', 'allows', 'congestion', 'is_stairs']
+  first edge: {'source_id': "poi_('node', 666789413)", 'target_id': 666789413, 'length_meters': 5.0, 'allows': ['walk', 'bike'], 'congestion': 1.0, 'is_stairs': False}
+北京大学.json dict keys= ['destination_name', 'nodes', 'edges'] nodes= 652 edges= 1803
+  node keys: ['node_id', 'name', 'lon', 'lat', 'type', 'is_indoor', 'indoor_info']
+  first node: {'node_id': 378056970, 'name': '路口', 'lon': 116.30595, 'lat': 39.99821, 'type': 'intersection', 'is_indoor': False, 'indoor_info': {}}
+  edge keys: ['source_id', 'target_id', 'length_meters', 'allows', 'congestion', 'is_stairs']
+  first edge: {'source_id': "poi_('node', 1993343157)", 'target_id': 10768889254, 'length_meters': 5.0, 'allows': ['walk', 'bike'], 'congestion': 1.0, 'is_stairs': False}
+北京师范大学.json dict keys= ['destination_name', 'nodes', 'edges'] nodes= 369 edges= 1045
+  node keys: ['node_id', 'name', 'lon', 'lat', 'type', 'is_indoor', 'indoor_info']
+  first node: {'node_id': 537973050, 'name': '路口', 'lon': 116.36023, 'lat': 39.96032, 'type': 'intersection', 'is_indoor': False, 'indoor_info': {}}
+  edge keys: ['source_id', 'target_id', 'length_meters', 'allows', 'congestion', 'is_stairs']
+  first edge: {'source_id': "poi_('node', 973340625)", 'target_id': 4907057472, 'length_meters': 5.0, 'allows': ['walk', 'bike'], 'congestion': 1.0, 'is_stairs': False}
+北京航空航天大学（沙河校区）.json dict keys= ['destination_name', 'nodes', 'edges'] nodes= 230 edges= 767
+  node keys: ['node_id', 'name', 'lon', 'lat', 'type', 'is_indoor', 'indoor_info']
+  first node: {'node_id': 4370555510, 'name': '路口', 'lon': 116.2708, 'lat': 40.15087, 'type': 'intersection', 'is_indoor': False, 'indoor_info': {}}
+  edge keys: ['source_id', 'target_id', 'length_meters', 'allows', 'congestion', 'is_stairs']
+  first edge: {'source_id': "poi_('node', 4370555638)", 'target_id': 4436425933, 'length_meters': 5.0, 'allows': ['walk', 'bike'], 'congestion': 1.0, 'is_stairs': False}
+北京邮电大学（沙河校区）.json dict keys= ['destination_name', 'nodes', 'edges'] nodes= 107 edges= 251
+  node keys: ['node_id', 'name', 'lon', 'lat', 'type', 'is_indoor', 'indoor_info']
+  first node: {'node_id': 6418965229, 'name': '路口', 'lon': 116.28444, 'lat': 40.15866, 'type': 'intersection', 'is_indoor': False, 'indoor_info': {}}
+  edge keys: ['source_id', 'target_id', 'length_meters', 'allows', 'congestion', 'is_stairs']
+  first edge: {'source_id': "poi_('node', 8626148956)", 'target_id': 12740928711, 'length_meters': 5, 'allows': ['walk', 'bike'], 'congestion': 1, 'is_stairs': False}
+南锣鼓巷.json dict keys= ['destination_name', 'nodes', 'edges'] nodes= 19 edges= 35
+  node keys: ['node_id', 'name', 'lon', 'lat', 'type', 'is_indoor', 'indoor_info']
+  first node: {'node_id': 32450493, 'name': '路口', 'lon': 116.39693, 'lat': 39.93488, 'type': 'intersection', 'is_indoor': False, 'indoor_info': {}}
+  edge keys: ['source_id', 'target_id', 'length_meters', 'allows', 'congestion', 'is_stairs']
+  first edge: {'source_id': "poi_('node', 273092476)", 'target_id': 341216470, 'length_meters': 5.0, 'allows': ['walk', 'bike'], 'congestion': 1.0, 'is_stairs': False}
+国家体育场.json dict keys= ['destination_name', 'nodes', 'edges'] nodes= 1161 edges= 2561
+  node keys: ['node_id', 'name', 'lon', 'lat', 'type', 'is_indoor', 'indoor_info']
+  first node: {'node_id': 30993514, 'name': '路口', 'lon': 116.39456, 'lat': 39.99338, 'type': 'intersection', 'is_indoor': False, 'indoor_info': {}}
+  edge keys: ['source_id', 'target_id', 'length_meters', 'allows', 'congestion', 'is_stairs']
+  first edge: {'source_id': "poi_('node', 1806801666)", 'target_id': 10769013399, 'length_meters': 5.0, 'allows': ['walk', 'bike'], 'congestion': 1.0, 'is_stairs': False}
+国家游泳中心.json dict keys= ['destination_name', 'nodes', 'edges'] nodes= 1243 edges= 2658
+  node keys: ['node_id', 'name', 'lon', 'lat', 'type', 'is_indoor', 'indoor_info']
+  first node: {'node_id': 30993514, 'name': '路口', 'lon': 116.39456, 'lat': 39.99338, 'type': 'intersection', 'is_indoor': False, 'indoor_info': {}}
+  edge keys: ['source_id', 'target_id', 'length_meters', 'allows', 'congestion', 'is_stairs']
+  first edge: {'source_id': "poi_('node', 1806801666)", 'target_id': 10769013399, 'length_meters': 5.0, 'allows': ['walk', 'bike'], 'congestion': 1.0, 'is_stairs': False}
+圆明园遗址.json dict keys= ['destination_name', 'nodes', 'edges'] nodes= 1321 edges= 3099
+  node keys: ['node_id', 'name', 'lon', 'lat', 'type', 'is_indoor', 'indoor_info']
+  first node: {'node_id': 401697938, 'name': '路口', 'lon': 136.83087, 'lat': 34.90491, 'type': 'intersection', 'is_indoor': False, 'indoor_info': {}}
+  edge keys: ['source_id', 'target_id', 'length_meters', 'allows', 'congestion', 'is_stairs']
+  first edge: {'source_id': "poi_('node', 2662422255)", 'target_id': 7041431285, 'length_meters': 5.0, 'allows': ['walk', 'bike'], 'congestion': 1.0, 'is_stairs': False}
+天坛公园.json dict keys= ['destination_name', 'nodes', 'edges'] nodes= 543 edges= 1404
+  node keys: ['node_id', 'name', 'lon', 'lat', 'type', 'is_indoor', 'indoor_info']
+  first node: {'node_id': 321260667, 'name': '路口', 'lon': 116.40659, 'lat': 39.87999, 'type': 'intersection', 'is_indoor': False, 'indoor_info': {}}
+  edge keys: ['source_id', 'target_id', 'length_meters', 'allows', 'congestion', 'is_stairs']
+  first edge: {'source_id': "poi_('node', 558652058)", 'target_id': 558652060, 'length_meters': 5.0, 'allows': ['walk', 'bike'], 'congestion': 1.0, 'is_stairs': False}
+天安门广场.json dict keys= ['destination_name', 'nodes', 'edges'] nodes= 85 edges= 235
+  node keys: ['node_id', 'name', 'lon', 'lat', 'type', 'is_indoor', 'indoor_info']
+  first node: {'node_id': 3629758783, 'name': '路口', 'lon': 116.39223, 'lat': 39.90526, 'type': 'intersection', 'is_indoor': False, 'indoor_info': {}}
+  edge keys: ['source_id', 'target_id', 'length_meters', 'allows', 'congestion', 'is_stairs']
+  first edge: {'source_id': "poi_('relation', 941596)", 'target_id': 4713696526, 'length_meters': 5.0, 'allows': ['walk', 'bike'], 'congestion': 1.0, 'is_stairs': False}
+故宫博物院.json dict keys= ['destination_name', 'nodes', 'edges'] nodes= 2771 edges= 4702
+  node keys: ['node_id', 'name', 'lon', 'lat', 'type', 'is_indoor', 'indoor_info']
+  first node: {'node_id': 31194136, 'name': '路口', 'lon': 116.40054, 'lat': 39.91161, 'type': 'intersection', 'is_indoor': False, 'indoor_info': {}}
+  edge keys: ['source_id', 'target_id', 'length_meters', 'allows', 'congestion', 'is_stairs']
+  first edge: {'source_id': "poi_('node', 271287530)", 'target_id': 6048837912, 'length_meters': 5.0, 'allows': ['walk', 'bike'], 'congestion': 1.0, 'is_stairs': False}
+颐和园.json dict keys= ['destination_name', 'nodes', 'edges'] nodes= 410 edges= 879
+  node keys: ['node_id', 'name', 'lon', 'lat', 'type', 'is_indoor', 'indoor_info']
+  first node: {'node_id': 266250586, 'name': '路口', 'lon': 116.26315, 'lat': 39.99843, 'type': 'intersection', 'is_indoor': False, 'indoor_info': {}}
+  edge keys: ['source_id', 'target_id', 'length_meters', 'allows', 'congestion', 'is_stairs']
+  first edge: {'source_id': "poi_('node', 269492188)", 'target_id': 269492188, 'length_meters': 5.0, 'allows': ['walk', 'bike'], 'congestion': 1.0, 'is_stairs': False}
+
+Indoor files:
+node_1776069078820_6121.json keys= ['building', 'nodes', 'connections'] len= 3
+{'building': {'id': 'node_1776069078820_6121', 'name': '公共教学楼', 'floors': 6, 'description': '3层教学楼，包含30个房间'}, 'nodes': [{'id': 'entrance', 'name': '大门', 'floor': 1, 'type': 'entrance', 'x': 0, 'y': 50, 'description': '教学楼主入口'}, {'id': 'elevator_1f', 'name': '一楼电梯', 'floor': 1, 'type': 'elevator', 'x': 50, 'y': 50, 'description': '一楼电梯入口'}, {'id': 'elevator_2f', 'name': '二楼电梯', 'floor': 2, 'type': 'elevator', 'x': 50, 'y': 50, 'description': '二楼电梯出口'}, {'id': 'elevator_3f', 'name': '三楼电梯', 'floor': 3, 'type': 'elevator', 'x': 50, 'y': 50, 'description': '三楼电梯出口'}, {'id': 'stair_1f', 'name': '一楼楼梯', 'floor': 1, 'type': 'stair', 'x': 100, 'y': 50, 'description': '一楼楼梯入口'}, {'id': 'stair_2f', 'name': '二楼楼梯', 'floor': 2, 'type': 'stair', 'x': 100, 'y': 50, 'description': '二楼楼梯出口'}, {'id': 'stair_3f', 'name': '三楼楼梯', 'floor': 3, 'type': 'stair', 'x': 100, 'y': 50, 'description': '三楼楼梯出口'}, {'id': 'corridor_1f_left', 'name': '一楼左走廊', 'floor': 1, 'type': 'corridor', 'x': 25, 'y': 50, 'descript
+
+Diaries:
+北京邮电大学一日游.txt 667 景点：北京邮电大学（沙河校区）  暮春午后，风携暖意，我踏入北京邮电大学沙河校区，赴一场科技与人文交织的校园之约。不同于市区校园的紧凑，这里开阔舒展，每一处景致都藏着北邮“崇尚奉献、追求卓越”的精神印记，也藏着学子们的青春朝气。 刚进校门，极具特色的二维码大门便映入眼帘，将北邮的信息科技底蕴展现得淋漓尽致，抬手扫码的瞬间，仿佛触摸到了这所学府的科技脉搏。沿着国脉西路前行，不远处便是甲子钟雕塑，六块

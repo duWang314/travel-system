@@ -1,0 +1,50 @@
+[
+  {
+    "username": "admin",
+    "role": "admin",
+    "password": {
+      "salt": "course-design",
+      "hash": "09797024b24e67c0202f4836bd0b37098611f73353f7d4b595f14025753db14b"
+    },
+    "portrait": 3,
+    "interests": [
+      "历史文化",
+      "校园",
+      "美食"
+    ],
+    "history": [],
+    "created_at": 1710000000
+  },
+  {
+    "username": "alice",
+    "role": "user",
+    "password": {
+      "salt": "course-design",
+      "hash": "9c927a367168a2a92ad66c26bc0237cbae4632fc952811e720fc5a331e4e0ab5"
+    },
+    "portrait": 5,
+    "interests": [
+      "自然风光",
+      "摄影",
+      "美食"
+    ],
+    "history": [],
+    "created_at": 1710100000
+  },
+  {
+    "username": "bob",
+    "role": "user",
+    "password": {
+      "salt": "course-design",
+      "hash": "9c927a367168a2a92ad66c26bc0237cbae4632fc952811e720fc5a331e4e0ab5"
+    },
+    "portrait": 8,
+    "interests": [
+      "校园",
+      "研学",
+      "图书馆"
+    ],
+    "history": [],
+    "created_at": 1710200000
+  }
+]

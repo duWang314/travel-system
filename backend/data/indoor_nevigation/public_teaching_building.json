@@ -1,0 +1,702 @@
+{
+  "building": {
+    "id": "public_teaching_building",
+    "name": "公共教学楼",
+    "floors": 5
+  },
+  "nodes": [
+    {
+      "id": "entrance",
+      "name": "教学楼入口",
+      "floor": 1,
+      "type": "entrance"
+    },
+    {
+      "id": "elevator_1",
+      "name": "1楼电梯厅",
+      "floor": 1,
+      "type": "elevator"
+    },
+    {
+      "id": "stair_1",
+      "name": "1楼楼梯间",
+      "floor": 1,
+      "type": "stair"
+    },
+    {
+      "id": "r101",
+      "name": "101教室",
+      "floor": 1,
+      "type": "room"
+    },
+    {
+      "id": "r102",
+      "name": "102教室",
+      "floor": 1,
+      "type": "room"
+    },
+    {
+      "id": "r103",
+      "name": "103教室",
+      "floor": 1,
+      "type": "room"
+    },
+    {
+      "id": "r104",
+      "name": "104教室",
+      "floor": 1,
+      "type": "room"
+    },
+    {
+      "id": "r105",
+      "name": "105教室",
+      "floor": 1,
+      "type": "room"
+    },
+    {
+      "id": "r106",
+      "name": "106教室",
+      "floor": 1,
+      "type": "room"
+    },
+    {
+      "id": "r107",
+      "name": "107教室",
+      "floor": 1,
+      "type": "room"
+    },
+    {
+      "id": "r108",
+      "name": "108教室",
+      "floor": 1,
+      "type": "room"
+    },
+    {
+      "id": "elevator_2",
+      "name": "2楼电梯厅",
+      "floor": 2,
+      "type": "elevator"
+    },
+    {
+      "id": "stair_2",
+      "name": "2楼楼梯间",
+      "floor": 2,
+      "type": "stair"
+    },
+    {
+      "id": "r201",
+      "name": "201教室",
+      "floor": 2,
+      "type": "room"
+    },
+    {
+      "id": "r202",
+      "name": "202教室",
+      "floor": 2,
+      "type": "room"
+    },
+    {
+      "id": "r203",
+      "name": "203教室",
+      "floor": 2,
+      "type": "room"
+    },
+    {
+      "id": "r204",
+      "name": "204教室",
+      "floor": 2,
+      "type": "room"
+    },
+    {
+      "id": "r205",
+      "name": "205教室",
+      "floor": 2,
+      "type": "room"
+    },
+    {
+      "id": "r206",
+      "name": "206教室",
+      "floor": 2,
+      "type": "room"
+    },
+    {
+      "id": "r207",
+      "name": "207教室",
+      "floor": 2,
+      "type": "room"
+    },
+    {
+      "id": "r208",
+      "name": "208教室",
+      "floor": 2,
+      "type": "room"
+    },
+    {
+      "id": "elevator_3",
+      "name": "3楼电梯厅",
+      "floor": 3,
+      "type": "elevator"
+    },
+    {
+      "id": "stair_3",
+      "name": "3楼楼梯间",
+      "floor": 3,
+      "type": "stair"
+    },
+    {
+      "id": "r301",
+      "name": "301教室",
+      "floor": 3,
+      "type": "room"
+    },
+    {
+      "id": "r302",
+      "name": "302教室",
+      "floor": 3,
+      "type": "room"
+    },
+    {
+      "id": "r303",
+      "name": "303教室",
+      "floor": 3,
+      "type": "room"
+    },
+    {
+      "id": "r304",
+      "name": "304教室",
+      "floor": 3,
+      "type": "room"
+    },
+    {
+      "id": "r305",
+      "name": "305教室",
+      "floor": 3,
+      "type": "room"
+    },
+    {
+      "id": "r306",
+      "name": "306教室",
+      "floor": 3,
+      "type": "room"
+    },
+    {
+      "id": "r307",
+      "name": "307教室",
+      "floor": 3,
+      "type": "room"
+    },
+    {
+      "id": "r308",
+      "name": "308教室",
+      "floor": 3,
+      "type": "room"
+    },
+    {
+      "id": "elevator_4",
+      "name": "4楼电梯厅",
+      "floor": 4,
+      "type": "elevator"
+    },
+    {
+      "id": "stair_4",
+      "name": "4楼楼梯间",
+      "floor": 4,
+      "type": "stair"
+    },
+    {
+      "id": "r401",
+      "name": "401教室",
+      "floor": 4,
+      "type": "room"
+    },
+    {
+      "id": "r402",
+      "name": "402教室",
+      "floor": 4,
+      "type": "room"
+    },
+    {
+      "id": "r403",
+      "name": "403教室",
+      "floor": 4,
+      "type": "room"
+    },
+    {
+      "id": "r404",
+      "name": "404教室",
+      "floor": 4,
+      "type": "room"
+    },
+    {
+      "id": "r405",
+      "name": "405教室",
+      "floor": 4,
+      "type": "room"
+    },
+    {
+      "id": "r406",
+      "name": "406教室",
+      "floor": 4,
+      "type": "room"
+    },
+    {
+      "id": "r407",
+      "name": "407教室",
+      "floor": 4,
+      "type": "room"
+    },
+    {
+      "id": "r408",
+      "name": "408教室",
+      "floor": 4,
+      "type": "room"
+    },
+    {
+      "id": "elevator_5",
+      "name": "5楼电梯厅",
+      "floor": 5,
+      "type": "elevator"
+    },
+    {
+      "id": "stair_5",
+      "name": "5楼楼梯间",
+      "floor": 5,
+      "type": "stair"
+    },
+    {
+      "id": "r501",
+      "name": "501教室",
+      "floor": 5,
+      "type": "room"
+    },
+    {
+      "id": "r502",
+      "name": "502教室",
+      "floor": 5,
+      "type": "room"
+    },
+    {
+      "id": "r503",
+      "name": "503教室",
+      "floor": 5,
+      "type": "room"
+    },
+    {
+      "id": "r504",
+      "name": "504教室",
+      "floor": 5,
+      "type": "room"
+    },
+    {
+      "id": "r505",
+      "name": "505教室",
+      "floor": 5,
+      "type": "room"
+    },
+    {
+      "id": "r506",
+      "name": "506教室",
+      "floor": 5,
+      "type": "room"
+    },
+    {
+      "id": "r507",
+      "name": "507教室",
+      "floor": 5,
+      "type": "room"
+    },
+    {
+      "id": "r508",
+      "name": "508教室",
+      "floor": 5,
+      "type": "room"
+    }
+  ],
+  "connections": [
+    {
+      "from": "entrance",
+      "to": "elevator_1",
+      "distance": 18,
+      "congestion_factor": 1.0,
+      "description": "从入口直行到一楼电梯厅"
+    },
+    {
+      "from": "entrance",
+      "to": "stair_1",
+      "distance": 15,
+      "congestion_factor": 1.0,
+      "description": "从入口右转到楼梯间"
+    },
+    {
+      "from": "elevator_1",
+      "to": "stair_1",
+      "distance": 12,
+      "congestion_factor": 1.0,
+      "description": "穿过楼层大厅"
+    },
+    {
+      "from": "elevator_1",
+      "to": "r101",
+      "distance": 13,
+      "congestion_factor": 1.09,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "elevator_1",
+      "to": "r102",
+      "distance": 16,
+      "congestion_factor": 1.15,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "elevator_1",
+      "to": "r103",
+      "distance": 19,
+      "congestion_factor": 0.86,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "elevator_1",
+      "to": "r104",
+      "distance": 22,
+      "congestion_factor": 1.1,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "stair_1",
+      "to": "r105",
+      "distance": 25,
+      "congestion_factor": 1.13,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "stair_1",
+      "to": "r106",
+      "distance": 28,
+      "congestion_factor": 1.14,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "stair_1",
+      "to": "r107",
+      "distance": 31,
+      "congestion_factor": 1.16,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "stair_1",
+      "to": "r108",
+      "distance": 34,
+      "congestion_factor": 0.97,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "elevator_1",
+      "to": "elevator_2",
+      "distance": 8,
+      "congestion_factor": 1.15,
+      "description": "乘坐电梯上/下楼"
+    },
+    {
+      "from": "stair_1",
+      "to": "stair_2",
+      "distance": 12,
+      "congestion_factor": 1.0,
+      "description": "通过楼梯上/下楼"
+    },
+    {
+      "from": "elevator_2",
+      "to": "stair_2",
+      "distance": 12,
+      "congestion_factor": 1.0,
+      "description": "穿过楼层大厅"
+    },
+    {
+      "from": "elevator_2",
+      "to": "r201",
+      "distance": 13,
+      "congestion_factor": 0.88,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "elevator_2",
+      "to": "r202",
+      "distance": 16,
+      "congestion_factor": 1.04,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "elevator_2",
+      "to": "r203",
+      "distance": 19,
+      "congestion_factor": 1.13,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "elevator_2",
+      "to": "r204",
+      "distance": 22,
+      "congestion_factor": 1.0,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "stair_2",
+      "to": "r205",
+      "distance": 25,
+      "congestion_factor": 1.09,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "stair_2",
+      "to": "r206",
+      "distance": 28,
+      "congestion_factor": 0.99,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "stair_2",
+      "to": "r207",
+      "distance": 31,
+      "congestion_factor": 1.1,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "stair_2",
+      "to": "r208",
+      "distance": 34,
+      "congestion_factor": 0.92,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "elevator_2",
+      "to": "elevator_3",
+      "distance": 8,
+      "congestion_factor": 1.15,
+      "description": "乘坐电梯上/下楼"
+    },
+    {
+      "from": "stair_2",
+      "to": "stair_3",
+      "distance": 12,
+      "congestion_factor": 1.0,
+      "description": "通过楼梯上/下楼"
+    },
+    {
+      "from": "elevator_3",
+      "to": "stair_3",
+      "distance": 12,
+      "congestion_factor": 1.0,
+      "description": "穿过楼层大厅"
+    },
+    {
+      "from": "elevator_3",
+      "to": "r301",
+      "distance": 13,
+      "congestion_factor": 1.19,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "elevator_3",
+      "to": "r302",
+      "distance": 16,
+      "congestion_factor": 1.04,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "elevator_3",
+      "to": "r303",
+      "distance": 19,
+      "congestion_factor": 1.11,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "elevator_3",
+      "to": "r304",
+      "distance": 22,
+      "congestion_factor": 0.95,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "stair_3",
+      "to": "r305",
+      "distance": 25,
+      "congestion_factor": 0.88,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "stair_3",
+      "to": "r306",
+      "distance": 28,
+      "congestion_factor": 1.06,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "stair_3",
+      "to": "r307",
+      "distance": 31,
+      "congestion_factor": 1.09,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "stair_3",
+      "to": "r308",
+      "distance": 34,
+      "congestion_factor": 1.17,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "elevator_3",
+      "to": "elevator_4",
+      "distance": 8,
+      "congestion_factor": 1.15,
+      "description": "乘坐电梯上/下楼"
+    },
+    {
+      "from": "stair_3",
+      "to": "stair_4",
+      "distance": 12,
+      "congestion_factor": 1.0,
+      "description": "通过楼梯上/下楼"
+    },
+    {
+      "from": "elevator_4",
+      "to": "stair_4",
+      "distance": 12,
+      "congestion_factor": 1.0,
+      "description": "穿过楼层大厅"
+    },
+    {
+      "from": "elevator_4",
+      "to": "r401",
+      "distance": 13,
+      "congestion_factor": 0.91,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "elevator_4",
+      "to": "r402",
+      "distance": 16,
+      "congestion_factor": 1.1,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "elevator_4",
+      "to": "r403",
+      "distance": 19,
+      "congestion_factor": 0.9,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "elevator_4",
+      "to": "r404",
+      "distance": 22,
+      "congestion_factor": 1.0,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "stair_4",
+      "to": "r405",
+      "distance": 25,
+      "congestion_factor": 1.04,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "stair_4",
+      "to": "r406",
+      "distance": 28,
+      "congestion_factor": 0.95,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "stair_4",
+      "to": "r407",
+      "distance": 31,
+      "congestion_factor": 0.83,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "stair_4",
+      "to": "r408",
+      "distance": 34,
+      "congestion_factor": 1.16,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "elevator_4",
+      "to": "elevator_5",
+      "distance": 8,
+      "congestion_factor": 1.15,
+      "description": "乘坐电梯上/下楼"
+    },
+    {
+      "from": "stair_4",
+      "to": "stair_5",
+      "distance": 12,
+      "congestion_factor": 1.0,
+      "description": "通过楼梯上/下楼"
+    },
+    {
+      "from": "elevator_5",
+      "to": "stair_5",
+      "distance": 12,
+      "congestion_factor": 1.0,
+      "description": "穿过楼层大厅"
+    },
+    {
+      "from": "elevator_5",
+      "to": "r501",
+      "distance": 13,
+      "congestion_factor": 1.03,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "elevator_5",
+      "to": "r502",
+      "distance": 16,
+      "congestion_factor": 1.08,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "elevator_5",
+      "to": "r503",
+      "distance": 19,
+      "congestion_factor": 1.14,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "elevator_5",
+      "to": "r504",
+      "distance": 22,
+      "congestion_factor": 0.88,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "stair_5",
+      "to": "r505",
+      "distance": 25,
+      "congestion_factor": 0.81,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "stair_5",
+      "to": "r506",
+      "distance": 28,
+      "congestion_factor": 0.94,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "stair_5",
+      "to": "r507",
+      "distance": 31,
+      "congestion_factor": 0.82,
+      "description": "沿走廊前往教室"
+    },
+    {
+      "from": "stair_5",
+      "to": "r508",
+      "distance": 34,
+      "congestion_factor": 1.15,
+      "description": "沿走廊前往教室"
+    }
+  ]
+}

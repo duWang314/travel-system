@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>个性化旅游系统</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@600;700&family=Source+Han+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="/static/style.css" />
+  </head>
+  <body>
+    <div class="grain"></div>
+    <nav class="topbar">
+      <a class="brand" href="#hero" aria-label="回到首页">
+        <span class="brand-mark"></span>
+        <span>TravelOS</span>
+      </a>
+      <div class="navlinks">
+        <a href="#recommend">推荐</a>
+        <a href="#planner">地图路线</a>
+        <a href="#diaries">游记交流</a>
+        <a href="#indoor">室内导航</a>
+        <a href="#profile">用户中心</a>
+      </div>
+      <button class="ghost" id="openLogin">登录 / 注册</button>
+    </nav>
+
+    <header class="hero" id="hero">
+      <div class="hero-copy reveal">
+        <p class="eyebrow">数据结构课程设计 · 无数据库版</p>
+        <h1>把 200 个目的地、道路图与游记压缩算法装进一个旅游系统。</h1>
+        <p class="lead">系统覆盖旅游推荐、地图路线规划、附近设施查询、室内导航、游记全文搜索、哈夫曼压缩、美食推荐和管理员管理，所有数据均以 JSON/TXT 文件持久化。</p>
+        <div class="hero-actions">
+          <a class="primary-btn" href="#recommend">开始推荐</a>
+          <a class="secondary-btn" href="#algorithm">查看算法说明</a>
+        </div>
+      </div>
+      <div class="hero-visual reveal" aria-hidden="true">
+        <img src="https://d2xsxph8kpxj0f.cloudfront.net/310519663224467360/h7LUHfpHzj3xX7vys8PnDF/travel_hero_cinematic-acBM3KiyZDjp3h29xhcxMn.webp" alt="旅游路线产品视觉" />
+      </div>
+    </header>
+
+    <main>
+      <section class="metrics panel reveal" id="metrics"></section>
+
+      <section class="section reveal" id="recommend">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Heap Top-K Recommendation</p>
+            <h2>个性化旅游推荐</h2>
+          </div>
+          <p>通过热度、评分和兴趣匹配构成加权得分，再使用小顶堆选出 Top 10，不对全部 200 条目的地记录完全排序。</p>
+        </div>
+        <div class="control-grid panel">
+          <label>关键词<input id="destQuery" placeholder="如：校园、故宫、美食" /></label>
+          <label>兴趣标签<input id="interestInput" placeholder="历史文化,摄影,美食" value="历史文化,摄影,美食" /></label>
+          <label>分类<select id="categorySelect"><option value="">全部分类</option></select></label>
+          <label>排序<select id="destSort"><option value="weighted">综合推荐</option><option value="hot">热度优先</option><option value="rating">评分优先</option></select></label>
+          <label>热度权重<input id="hotWeight" type="range" min="0" max="1" step="0.1" value="0.4" /></label>
+          <label>评分权重<input id="ratingWeight" type="range" min="0" max="1" step="0.1" value="0.4" /></label>
+          <button class="primary-btn" id="loadDestinations">刷新推荐</button>
+        </div>
+        <div class="cards" id="destinationCards"></div>
+      </section>
+
+      <section class="section split reveal" id="planner">
+        <div class="section-head wide">
+          <div>
+            <p class="eyebrow">Dijkstra Graph Navigation</p>
+            <h2>景区 / 校园地图与路线规划</h2>
+          </div>
+          <p>SVG 会直接渲染 JSON 道路图；起点、终点、必打卡点、交通工具与路径目标可动态调整。附近设施按道路最短路径距离排序，不采用直线距离。</p>
+        </div>
+        <div class="planner-layout">
+          <aside class="panel planner-controls">
+            <label>目的地<select id="plannerDestination"></select></label>
+            <label>起点<select id="startNode"></select></label>
+            <label>必打卡点<select id="waypointNode"><option value="">不设置</option></select></label>
+            <label>终点<select id="endNode"></select></label>
+            <label>优化目标<select id="routeStrategy"><option value="distance">距离最短</option><option value="time">时间较优</option></select></label>
+            <label>交通方式<select id="transportMode"><option value="walk">步行</option><option value="bike">自行车</option><option value="cart">景区电瓶车</option><option value="mixed">混合交通</option></select></label>
+            <button class="primary-btn" id="planRoute">规划路线</button>
+            <label>附近设施类型<select id="facilityType"><option value="">全部服务设施</option><option value="toilet">卫生间</option><option value="supermarket">超市</option><option value="restaurant_cn">中餐厅</option><option value="restaurant_we">西餐厅</option><option value="coffee">咖啡</option><option value="canteen">食堂</option></select></label>
+            <button class="secondary-btn" id="findFacilities">查找附近设施</button>
+            <div class="result-box" id="routeResult">请选择目的地并规划路线。</div>
+          </aside>
+          <div class="map-shell panel">
+            <svg id="mapSvg" role="img" aria-label="道路地图"></svg>
+          </div>
+        </div>
+      </section>
+
+      <section class="section split reveal" id="foods">
+        <div class="visual-card panel"><img src="https://d2xsxph8kpxj0f.cloudfront.net/310519663224467360/h7LUHfpHzj3xX7vys8PnDF/travel_map_console-jWUf8UodWjvNkscRwodoQ8.webp" alt="路线规划视觉" /></div>
+        <div>
+          <p class="eyebrow">Food Ranking</p>
+          <h2>附近美食推荐</h2>
+          <p class="muted">美食模块支持菜系、关键词和目的地过滤，使用评分、热度与距离构成综合得分并返回 Top 10。</p>
+          <div class="inline-controls panel">
+            <input id="foodQuery" placeholder="搜索炸酱面、咖啡、早茶" />
+            <select id="foodSort"><option value="weighted">综合推荐</option><option value="rating">评分</option><option value="hot">热度</option><option value="distance">距离</option></select>
+            <button class="primary-btn" id="loadFoods">推荐美食</button>
+          </div>
+          <div class="list" id="foodList"></div>
+        </div>
+      </section>
+
+      <section class="section reveal" id="diaries">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">KMP Search · Huffman Compression</p>
+            <h2>游记管理与交流</h2>
+          </div>
+          <p>标题精确查找使用哈希索引，正文全文检索使用 KMP，游记压缩使用字符级哈夫曼编码，支持评分、浏览量和封面提示词生成。</p>
+        </div>
+        <div class="diary-layout">
+          <div class="panel">
+            <div class="inline-controls">
+              <input id="diaryQuery" placeholder="搜索正文，如：路线、美食、摄影" />
+              <input id="diaryTitle" placeholder="标题精确查找" />
+              <select id="diarySort"><option value="hot">热度</option><option value="rating">评分</option><option value="destination">目的地</option></select>
+              <button class="primary-btn" id="loadDiaries">搜索游记</button>
+            </div>
+            <div class="list" id="diaryList"></div>
+          </div>
+          <form class="panel" id="createDiaryForm">
+            <h3>发布新游记</h3>
+            <label>标题<input id="newDiaryTitle" placeholder="我的路线复盘" /></label>
+            <label>目的地<select id="newDiaryDestination"></select></label>
+            <label>正文<textarea id="newDiaryContent" rows="8" placeholder="记录路线、设施、美食与体验……"></textarea></label>
+            <button class="primary-btn" type="submit">发布游记</button>
+            <p class="muted small">需登录后发布。默认账号：admin/admin，普通账号 alice/123456。</p>
+          </form>
+        </div>
+      </section>
+
+      <section class="section split reveal" id="indoor">
+        <div>
+          <p class="eyebrow">Indoor Navigation</p>
+          <h2>公共教学楼室内导航</h2>
+          <p class="muted">从景区/校园道路图中可进入公共教学楼。这里使用室内节点图继续运行 Dijkstra，生成入口到目标房间的分步指引。</p>
+          <div class="inline-controls panel">
+            <select id="roomSelect"></select>
+            <button class="primary-btn" id="planIndoor">室内导航</button>
+          </div>
+          <div class="result-box panel" id="indoorResult"></div>
+        </div>
+        <div class="visual-card panel"><img src="https://d2xsxph8kpxj0f.cloudfront.net/310519663224467360/h7LUHfpHzj3xX7vys8PnDF/travel_diary_cover-42vfaLifrJyMJibawoQA8c.webp" alt="游记视觉" /></div>
+      </section>
+
+      <section class="section reveal" id="profile">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">User Center</p>
+            <h2>登录、注册与个人中心</h2>
+          </div>
+          <p>用户数据保存在 JSON 文件中，支持头像选择、兴趣修改、密码修改；管理员可查看和删除普通用户。</p>
+        </div>
+        <div class="profile-grid">
+          <div class="panel" id="profilePanel">当前未登录。</div>
+          <div class="panel" id="adminPanel">管理员登录后会显示用户管理列表。</div>
+        </div>
+      </section>
+
+      <section class="section reveal" id="algorithm">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Algorithm Notes</p>
+            <h2>算法与复杂度说明</h2>
+          </div>
+          <p>该区域供课程验收与答辩快速查看功能、数据结构和算法对应关系。</p>
+        </div>
+        <div class="algorithm-grid" id="algorithmNotes"></div>
+      </section>
+    </main>
+
+    <dialog id="loginDialog" class="auth-dialog">
+      <form method="dialog" class="panel auth-panel" id="loginForm">
+        <button class="dialog-close" value="cancel" aria-label="关闭">×</button>
+        <h3>登录 / 注册</h3>
+        <label>用户名<input id="authUsername" value="admin" /></label>
+        <label>密码<input id="authPassword" type="password" value="admin" /></label>
+        <label>头像编号<input id="authPortrait" type="number" min="1" max="24" value="1" /></label>
+        <label>兴趣<input id="authInterests" value="历史文化,摄影,美食" /></label>
+        <div class="dialog-actions">
+          <button class="primary-btn" id="loginBtn" type="button">登录</button>
+          <button class="secondary-btn" id="registerBtn" type="button">注册</button>
+        </div>
+        <p class="muted small">默认管理员：admin / admin；普通用户：alice / 123456。</p>
+      </form>
+    </dialog>
+
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+    <script src="/static/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "dest_001",
+    "name": "北京邮电大学",
+    "city": "北京",
+    "category": "校园参观",
+    "tags": [
+      "校园",
+      "研学",
+      "图书馆",
+      "食堂"
+    ],
+    "rating": 4.72,
+    "views": 97523,
+    "ticket_price": 20,
+    "recommended_hours": 2,
+    "map_file": "北京邮电大学（沙河校区）.json",
+    "description": "课程数据框架中已有示例校园，适合作为室内导航入口演示。"
+  },
+  {
+    "id": "dest_002",
+    "name": "故宫博物院",
+    "city": "深圳",
+    "category": "历史文化",
+    "tags": [
+      "古建",
+      "博物馆",
+      "摄影",
+      "人文"
+    ],
+    "rating": 4.88,
+    "views": 69291,
+    "ticket_price": 0,
+    "recommended_hours": 4,
+    "map_file": "故宫博物院.json",
+    "description": "以中轴线、宫殿建筑和历史展陈为核心的热门景区。"
+  },
+  {
+    "id": "dest_003",
+    "name": "颐和园",
+    "city": "苏州",
+    "category": "自然风光",
+    "tags": [
+      "山水",
+      "古建",
+      "摄影",
+      "亲子"
+    ],
+    "rating": 4.61,
+    "views": 75084,
+    "ticket_price": 10,
+    "recommended_hours": 3,
+    "map_file": "universal_tour_map.json",
+    "description": "湖山园林与长廊建筑结合的经典路线规划场景。"
+  },
+  {
+    "id": "dest_004",
+    "name": "南锣鼓巷",
+    "city": "广州",
+    "category": "城市漫游",
+    "tags": [
+      "街区",
+      "美食",
+      "夜景",
+      "购物"
+    ],
+    "rating": 4.56,
+    "views": 75169,
+    "ticket_price": 30,
+    "recommended_hours": 4,
+    "map_file": "universal_tour_map.json",
+    "description": "胡同街区与小吃店铺密集，适合美食与附近设施查询。"
+  },
+  {
+    "id": "dest_005",
+    "name": "天坛公园",
+    "city": "重庆",
+    "category": "历史文化",
+    "tags": [
+      "古建",
+      "公园",
+      "摄影",
+      "晨练"
+    ],
+    "rating": 4.88,
+    "views": 48777,
+    "ticket_price": 20,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "中轴线礼制建筑与城市绿地结合。"
+  },
+  {
+    "id": "dest_006",
+    "name": "清华大学",
+    "city": "苏州",
+    "category": "校园参观",
+    "tags": [
+      "校园",
+      "建筑",
+      "研学",
+      "图书馆"
+    ],
+    "rating": 4.73,
+    "views": 44758,
+    "ticket_price": 20,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "校园参观与研学路线的典型目的地。"
+  },
+  {
+    "id": "dest_007",
+    "name": "北京大学",
+    "city": "北京",
+    "category": "校园参观",
+    "tags": [
+      "校园",
+      "湖景",
+      "研学",
+      "图书馆"
+    ],
+    "rating": 4.82,
+    "views": 62299,
+    "ticket_price": 60,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "校园湖景、历史建筑与学术氛围结合。"
+  },
+  {
+    "id": "dest_008",
+    "name": "上海外滩",
+    "city": "大理",
+    "category": "城市漫游",
+    "tags": [
+      "夜景",
+      "摄影",
+      "建筑",
+      "街区"
+    ],
+    "rating": 4.64,
+    "views": 50514,
+    "ticket_price": 30,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "滨江建筑群与夜景路线适合多目标打卡。"
+  },
+  {
+    "id": "dest_009",
+    "name": "西湖风景区",
+    "city": "桂林",
+    "category": "自然风光",
+    "tags": [
+      "山水",
+      "摄影",
+      "徒步",
+      "美食"
+    ],
+    "rating": 4.9,
+    "views": 71968,
+    "ticket_price": 80,
+    "recommended_hours": 4,
+    "map_file": "universal_tour_map.json",
+    "description": "湖区环线、断桥与苏堤适合路径优化演示。"
+  },
+  {
+    "id": "dest_010",
+    "name": "秦始皇帝陵博物院",
+    "city": "深圳",
+    "category": "历史文化",
+    "tags": [
+      "博物馆",
+      "历史",
+      "研学",
+      "讲解"
+    ],
+    "rating": 4.94,
+    "views": 62223,
+    "ticket_price": 40,
+    "recommended_hours": 6,
+    "map_file": "universal_tour_map.json",
+    "description": "大型博物馆与展厅动线适合室内外路线说明。"
+  },
+  {
+    "id": "dest_011",
+    "name": "广州红色研学体验区011",
+    "city": "广州",
+    "category": "红色研学",
+    "tags": [
+      "研学",
+      "路线",
+      "历史",
+      "讲解"
+    ],
+    "rating": 4.29,
+    "views": 68622,
+    "ticket_price": 0,
+    "recommended_hours": 3,
+    "map_file": "universal_tour_map.json",
+    "description": "位于广州的红色研学主题目的地，标签覆盖研学、历史、纪念馆、讲解，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_012",
+    "name": "苏州历史文化体验区012",
+    "city": "苏州",
+    "category": "历史文化",
+    "tags": [
+      "人文",
+      "路线",
+      "摄影",
+      "亲子"
+    ],
+    "rating": 4.11,
+    "views": 58166,
+    "ticket_price": 5,
+    "recommended_hours": 3,
+    "map_file": "universal_tour_map.json",
+    "description": "位于苏州的历史文化主题目的地，标签覆盖古建、博物馆、人文、摄影，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_013",
+    "name": "广州红色研学体验区013",
+    "city": "广州",
+    "category": "红色研学",
+    "tags": [
+      "亲子",
+      "打卡",
+      "讲解",
+      "路线"
+    ],
+    "rating": 3.98,
+    "views": 15665,
+    "ticket_price": 60,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于广州的红色研学主题目的地，标签覆盖研学、历史、纪念馆、讲解，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_014",
+    "name": "天津城市漫游体验区014",
+    "city": "天津",
+    "category": "城市漫游",
+    "tags": [
+      "轻徒步",
+      "街区",
+      "美食",
+      "购物"
+    ],
+    "rating": 4.08,
+    "views": 52885,
+    "ticket_price": 40,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "位于天津的城市漫游主题目的地，标签覆盖夜景、美食、街区、购物，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_015",
+    "name": "昆明红色研学体验区015",
+    "city": "昆明",
+    "category": "红色研学",
+    "tags": [
+      "历史",
+      "研学",
+      "轻徒步",
+      "打卡"
+    ],
+    "rating": 3.89,
+    "views": 83906,
+    "ticket_price": 30,
+    "recommended_hours": 4,
+    "map_file": "universal_tour_map.json",
+    "description": "位于昆明的红色研学主题目的地，标签覆盖研学、历史、纪念馆、讲解，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_016",
+    "name": "上海自然风光体验区016",
+    "city": "上海",
+    "category": "自然风光",
+    "tags": [
+      "夜景",
+      "讲解",
+      "摄影",
+      "亲子"
+    ],
+    "rating": 4.31,
+    "views": 24808,
+    "ticket_price": 30,
+    "recommended_hours": 4,
+    "map_file": "universal_tour_map.json",
+    "description": "位于上海的自然风光主题目的地，标签覆盖山水、徒步、摄影、亲子，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_017",
+    "name": "天津红色研学体验区017",
+    "city": "天津",
+    "category": "红色研学",
+    "tags": [
+      "亲子",
+      "夜景",
+      "讲解",
+      "纪念馆"
+    ],
+    "rating": 4.75,
+    "views": 37857,
+    "ticket_price": 0,
+    "recommended_hours": 4,
+    "map_file": "universal_tour_map.json",
+    "description": "位于天津的红色研学主题目的地，标签覆盖研学、历史、纪念馆、讲解，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_018",
+    "name": "北京历史文化体验区018",
+    "city": "北京",
+    "category": "历史文化",
+    "tags": [
+      "人文",
+      "摄影",
+      "亲子",
+      "打卡"
+    ],
+    "rating": 3.92,
+    "views": 34527,
+    "ticket_price": 40,
+    "recommended_hours": 1.5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于北京的历史文化主题目的地，标签覆盖古建、博物馆、人文、摄影，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_019",
+    "name": "杭州红色研学体验区019",
+    "city": "杭州",
+    "category": "红色研学",
+    "tags": [
+      "亲子",
+      "历史",
+      "路线",
+      "轻徒步"
+    ],
+    "rating": 4.0,
+    "views": 69910,
+    "ticket_price": 10,
+    "recommended_hours": 6,
+    "map_file": "universal_tour_map.json",
+    "description": "位于杭州的红色研学主题目的地，标签覆盖研学、历史、纪念馆、讲解，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_020",
+    "name": "昆明城市漫游体验区020",
+    "city": "昆明",
+    "category": "城市漫游",
+    "tags": [
+      "亲子",
+      "讲解",
+      "购物",
+      "街区"
+    ],
+    "rating": 4.54,
+    "views": 11347,
+    "ticket_price": 20,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "位于昆明的城市漫游主题目的地，标签覆盖夜景、美食、街区、购物，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_021",
+    "name": "厦门亲子休闲体验区021",
+    "city": "厦门",
+    "category": "亲子休闲",
+    "tags": [
+      "路线",
+      "打卡",
+      "夜景",
+      "休闲"
+    ],
+    "rating": 4.72,
+    "views": 65149,
+    "ticket_price": 80,
+    "recommended_hours": 4,
+    "map_file": "universal_tour_map.json",
+    "description": "位于厦门的亲子休闲主题目的地，标签覆盖亲子、乐园、休闲、科普，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_022",
+    "name": "成都校园参观体验区022",
+    "city": "成都",
+    "category": "校园参观",
+    "tags": [
+      "亲子",
+      "打卡",
+      "研学",
+      "讲解"
+    ],
+    "rating": 4.86,
+    "views": 40755,
+    "ticket_price": 10,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于成都的校园参观主题目的地，标签覆盖校园、建筑、研学、图书馆，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_023",
+    "name": "重庆艺术展览体验区023",
+    "city": "重庆",
+    "category": "艺术展览",
+    "tags": [
+      "展览",
+      "夜景",
+      "亲子",
+      "轻徒步"
+    ],
+    "rating": 4.16,
+    "views": 4662,
+    "ticket_price": 0,
+    "recommended_hours": 1.5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于重庆的艺术展览主题目的地，标签覆盖艺术、展览、摄影、咖啡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_024",
+    "name": "洛阳城市漫游体验区024",
+    "city": "洛阳",
+    "category": "城市漫游",
+    "tags": [
+      "街区",
+      "夜景",
+      "讲解",
+      "路线"
+    ],
+    "rating": 4.54,
+    "views": 13841,
+    "ticket_price": 120,
+    "recommended_hours": 3,
+    "map_file": "universal_tour_map.json",
+    "description": "位于洛阳的城市漫游主题目的地，标签覆盖夜景、美食、街区、购物，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_025",
+    "name": "重庆亲子休闲体验区025",
+    "city": "重庆",
+    "category": "亲子休闲",
+    "tags": [
+      "讲解",
+      "亲子",
+      "休闲",
+      "亲子"
+    ],
+    "rating": 3.87,
+    "views": 79147,
+    "ticket_price": 60,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于重庆的亲子休闲主题目的地，标签覆盖亲子、乐园、休闲、科普，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_026",
+    "name": "昆明亲子休闲体验区026",
+    "city": "昆明",
+    "category": "亲子休闲",
+    "tags": [
+      "夜景",
+      "讲解",
+      "打卡",
+      "科普"
+    ],
+    "rating": 4.32,
+    "views": 83967,
+    "ticket_price": 40,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于昆明的亲子休闲主题目的地，标签覆盖亲子、乐园、休闲、科普，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_027",
+    "name": "杭州红色研学体验区027",
+    "city": "杭州",
+    "category": "红色研学",
+    "tags": [
+      "亲子",
+      "研学",
+      "讲解",
+      "轻徒步"
+    ],
+    "rating": 4.64,
+    "views": 16425,
+    "ticket_price": 5,
+    "recommended_hours": 1.5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于杭州的红色研学主题目的地，标签覆盖研学、历史、纪念馆、讲解，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_028",
+    "name": "青岛美食探索体验区028",
+    "city": "青岛",
+    "category": "美食探索",
+    "tags": [
+      "打卡",
+      "美食",
+      "夜市",
+      "打卡"
+    ],
+    "rating": 4.02,
+    "views": 60039,
+    "ticket_price": 40,
+    "recommended_hours": 1.5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于青岛的美食探索主题目的地，标签覆盖美食、夜市、街区、打卡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_029",
+    "name": "大理红色研学体验区029",
+    "city": "大理",
+    "category": "红色研学",
+    "tags": [
+      "打卡",
+      "夜景",
+      "研学",
+      "轻徒步"
+    ],
+    "rating": 4.64,
+    "views": 58892,
+    "ticket_price": 80,
+    "recommended_hours": 6,
+    "map_file": "universal_tour_map.json",
+    "description": "位于大理的红色研学主题目的地，标签覆盖研学、历史、纪念馆、讲解，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_030",
+    "name": "北京美食探索体验区030",
+    "city": "北京",
+    "category": "美食探索",
+    "tags": [
+      "打卡",
+      "路线",
+      "街区",
+      "夜市"
+    ],
+    "rating": 4.83,
+    "views": 75041,
+    "ticket_price": 30,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于北京的美食探索主题目的地，标签覆盖美食、夜市、街区、打卡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_031",
+    "name": "厦门城市漫游体验区031",
+    "city": "厦门",
+    "category": "城市漫游",
+    "tags": [
+      "讲解",
+      "夜景",
+      "夜景",
+      "购物"
+    ],
+    "rating": 4.28,
+    "views": 52281,
+    "ticket_price": 60,
+    "recommended_hours": 3,
+    "map_file": "universal_tour_map.json",
+    "description": "位于厦门的城市漫游主题目的地，标签覆盖夜景、美食、街区、购物，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_032",
+    "name": "深圳美食探索体验区032",
+    "city": "深圳",
+    "category": "美食探索",
+    "tags": [
+      "夜市",
+      "美食",
+      "打卡",
+      "路线"
+    ],
+    "rating": 4.05,
+    "views": 31570,
+    "ticket_price": 60,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "位于深圳的美食探索主题目的地，标签覆盖美食、夜市、街区、打卡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_033",
+    "name": "昆明红色研学体验区033",
+    "city": "昆明",
+    "category": "红色研学",
+    "tags": [
+      "历史",
+      "研学",
+      "路线",
+      "讲解"
+    ],
+    "rating": 4.06,
+    "views": 37735,
+    "ticket_price": 0,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于昆明的红色研学主题目的地，标签覆盖研学、历史、纪念馆、讲解，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_034",
+    "name": "上海艺术展览体验区034",
+    "city": "上海",
+    "category": "艺术展览",
+    "tags": [
+      "路线",
+      "展览",
+      "亲子",
+      "夜景"
+    ],
+    "rating": 4.09,
+    "views": 45353,
+    "ticket_price": 5,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "位于上海的艺术展览主题目的地，标签覆盖艺术、展览、摄影、咖啡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_035",
+    "name": "大理亲子休闲体验区035",
+    "city": "大理",
+    "category": "亲子休闲",
+    "tags": [
+      "轻徒步",
+      "打卡",
+      "亲子",
+      "路线"
+    ],
+    "rating": 4.12,
+    "views": 55468,
+    "ticket_price": 40,
+    "recommended_hours": 1.5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于大理的亲子休闲主题目的地，标签覆盖亲子、乐园、休闲、科普，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_036",
+    "name": "大理艺术展览体验区036",
+    "city": "大理",
+    "category": "艺术展览",
+    "tags": [
+      "展览",
+      "摄影",
+      "夜景",
+      "路线"
+    ],
+    "rating": 4.19,
+    "views": 52524,
+    "ticket_price": 40,
+    "recommended_hours": 6,
+    "map_file": "universal_tour_map.json",
+    "description": "位于大理的艺术展览主题目的地，标签覆盖艺术、展览、摄影、咖啡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_037",
+    "name": "上海城市漫游体验区037",
+    "city": "上海",
+    "category": "城市漫游",
+    "tags": [
+      "打卡",
+      "街区",
+      "夜景",
+      "路线"
+    ],
+    "rating": 4.71,
+    "views": 67264,
+    "ticket_price": 20,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "位于上海的城市漫游主题目的地，标签覆盖夜景、美食、街区、购物，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_038",
+    "name": "哈尔滨自然风光体验区038",
+    "city": "哈尔滨",
+    "category": "自然风光",
+    "tags": [
+      "路线",
+      "轻徒步",
+      "摄影",
+      "山水"
+    ],
+    "rating": 4.65,
+    "views": 64797,
+    "ticket_price": 120,
+    "recommended_hours": 4,
+    "map_file": "universal_tour_map.json",
+    "description": "位于哈尔滨的自然风光主题目的地，标签覆盖山水、徒步、摄影、亲子，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_039",
+    "name": "大理城市漫游体验区039",
+    "city": "大理",
+    "category": "城市漫游",
+    "tags": [
+      "美食",
+      "轻徒步",
+      "讲解",
+      "街区"
+    ],
+    "rating": 4.86,
+    "views": 31305,
+    "ticket_price": 0,
+    "recommended_hours": 4,
+    "map_file": "universal_tour_map.json",
+    "description": "位于大理的城市漫游主题目的地，标签覆盖夜景、美食、街区、购物，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_040",
+    "name": "成都美食探索体验区040",
+    "city": "成都",
+    "category": "美食探索",
+    "tags": [
+      "夜市",
+      "打卡",
+      "打卡",
+      "轻徒步"
+    ],
+    "rating": 4.53,
+    "views": 72574,
+    "ticket_price": 30,
+    "recommended_hours": 4,
+    "map_file": "universal_tour_map.json",
+    "description": "位于成都的美食探索主题目的地，标签覆盖美食、夜市、街区、打卡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_041",
+    "name": "北京亲子休闲体验区041",
+    "city": "北京",
+    "category": "亲子休闲",
+    "tags": [
+      "路线",
+      "打卡",
+      "夜景",
+      "科普"
+    ],
+    "rating": 4.01,
+    "views": 18482,
+    "ticket_price": 80,
+    "recommended_hours": 6,
+    "map_file": "universal_tour_map.json",
+    "description": "位于北京的亲子休闲主题目的地，标签覆盖亲子、乐园、休闲、科普，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_042",
+    "name": "杭州亲子休闲体验区042",
+    "city": "杭州",
+    "category": "亲子休闲",
+    "tags": [
+      "讲解",
+      "路线",
+      "夜景",
+      "亲子"
+    ],
+    "rating": 4.36,
+    "views": 23314,
+    "ticket_price": 120,
+    "recommended_hours": 3,
+    "map_file": "universal_tour_map.json",
+    "description": "位于杭州的亲子休闲主题目的地，标签覆盖亲子、乐园、休闲、科普，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_043",
+    "name": "桂林红色研学体验区043",
+    "city": "桂林",
+    "category": "红色研学",
+    "tags": [
+      "路线",
+      "纪念馆",
+      "讲解",
+      "讲解"
+    ],
+    "rating": 4.51,
+    "views": 9909,
+    "ticket_price": 60,
+    "recommended_hours": 1.5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于桂林的红色研学主题目的地，标签覆盖研学、历史、纪念馆、讲解，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_044",
+    "name": "昆明校园参观体验区044",
+    "city": "昆明",
+    "category": "校园参观",
+    "tags": [
+      "轻徒步",
+      "打卡",
+      "研学",
+      "亲子"
+    ],
+    "rating": 3.97,
+    "views": 23379,
+    "ticket_price": 0,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于昆明的校园参观主题目的地，标签覆盖校园、建筑、研学、图书馆，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_045",
+    "name": "天津亲子休闲体验区045",
+    "city": "天津",
+    "category": "亲子休闲",
+    "tags": [
+      "科普",
+      "打卡",
+      "讲解",
+      "路线"
+    ],
+    "rating": 4.02,
+    "views": 7645,
+    "ticket_price": 20,
+    "recommended_hours": 3,
+    "map_file": "universal_tour_map.json",
+    "description": "位于天津的亲子休闲主题目的地，标签覆盖亲子、乐园、休闲、科普，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_046",
+    "name": "桂林亲子休闲体验区046",
+    "city": "桂林",
+    "category": "亲子休闲",
+    "tags": [
+      "科普",
+      "乐园",
+      "夜景",
+      "打卡"
+    ],
+    "rating": 4.56,
+    "views": 61855,
+    "ticket_price": 0,
+    "recommended_hours": 6,
+    "map_file": "universal_tour_map.json",
+    "description": "位于桂林的亲子休闲主题目的地，标签覆盖亲子、乐园、休闲、科普，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_047",
+    "name": "广州美食探索体验区047",
+    "city": "广州",
+    "category": "美食探索",
+    "tags": [
+      "打卡",
+      "打卡",
+      "夜市",
+      "轻徒步"
+    ],
+    "rating": 4.37,
+    "views": 41160,
+    "ticket_price": 30,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "位于广州的美食探索主题目的地，标签覆盖美食、夜市、街区、打卡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_048",
+    "name": "重庆自然风光体验区048",
+    "city": "重庆",
+    "category": "自然风光",
+    "tags": [
+      "夜景",
+      "打卡",
+      "路线",
+      "轻徒步"
+    ],
+    "rating": 4.71,
+    "views": 76098,
+    "ticket_price": 0,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "位于重庆的自然风光主题目的地，标签覆盖山水、徒步、摄影、亲子，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_049",
+    "name": "成都校园参观体验区049",
+    "city": "成都",
+    "category": "校园参观",
+    "tags": [
+      "研学",
+      "建筑",
+      "路线",
+      "讲解"
+    ],
+    "rating": 4.07,
+    "views": 42438,
+    "ticket_price": 120,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于成都的校园参观主题目的地，标签覆盖校园、建筑、研学、图书馆，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_050",
+    "name": "成都城市漫游体验区050",
+    "city": "成都",
+    "category": "城市漫游",
+    "tags": [
+      "美食",
+      "夜景",
+      "街区",
+      "亲子"
+    ],
+    "rating": 3.85,
+    "views": 51938,
+    "ticket_price": 0,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "位于成都的城市漫游主题目的地，标签覆盖夜景、美食、街区、购物，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_051",
+    "name": "深圳历史文化体验区051",
+    "city": "深圳",
+    "category": "历史文化",
+    "tags": [
+      "亲子",
+      "人文",
+      "摄影",
+      "讲解"
+    ],
+    "rating": 4.11,
+    "views": 13710,
+    "ticket_price": 80,
+    "recommended_hours": 4,
+    "map_file": "universal_tour_map.json",
+    "description": "位于深圳的历史文化主题目的地，标签覆盖古建、博物馆、人文、摄影，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_052",
+    "name": "成都自然风光体验区052",
+    "city": "成都",
+    "category": "自然风光",
+    "tags": [
+      "徒步",
+      "亲子",
+      "亲子",
+      "讲解"
+    ],
+    "rating": 4.38,
+    "views": 16257,
+    "ticket_price": 10,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "位于成都的自然风光主题目的地，标签覆盖山水、徒步、摄影、亲子，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_053",
+    "name": "桂林历史文化体验区053",
+    "city": "桂林",
+    "category": "历史文化",
+    "tags": [
+      "人文",
+      "博物馆",
+      "摄影",
+      "轻徒步"
+    ],
+    "rating": 4.38,
+    "views": 31052,
+    "ticket_price": 10,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于桂林的历史文化主题目的地，标签覆盖古建、博物馆、人文、摄影，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_054",
+    "name": "昆明城市漫游体验区054",
+    "city": "昆明",
+    "category": "城市漫游",
+    "tags": [
+      "街区",
+      "美食",
+      "亲子",
+      "轻徒步"
+    ],
+    "rating": 4.38,
+    "views": 53931,
+    "ticket_price": 40,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于昆明的城市漫游主题目的地，标签覆盖夜景、美食、街区、购物，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_055",
+    "name": "西安红色研学体验区055",
+    "city": "西安",
+    "category": "红色研学",
+    "tags": [
+      "亲子",
+      "讲解",
+      "历史",
+      "轻徒步"
+    ],
+    "rating": 4.44,
+    "views": 45833,
+    "ticket_price": 40,
+    "recommended_hours": 3,
+    "map_file": "universal_tour_map.json",
+    "description": "位于西安的红色研学主题目的地，标签覆盖研学、历史、纪念馆、讲解，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_056",
+    "name": "桂林亲子休闲体验区056",
+    "city": "桂林",
+    "category": "亲子休闲",
+    "tags": [
+      "休闲",
+      "科普",
+      "路线",
+      "打卡"
+    ],
+    "rating": 4.58,
+    "views": 61922,
+    "ticket_price": 10,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于桂林的亲子休闲主题目的地，标签覆盖亲子、乐园、休闲、科普，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_057",
+    "name": "北京艺术展览体验区057",
+    "city": "北京",
+    "category": "艺术展览",
+    "tags": [
+      "展览",
+      "讲解",
+      "亲子",
+      "摄影"
+    ],
+    "rating": 4.27,
+    "views": 40249,
+    "ticket_price": 5,
+    "recommended_hours": 1.5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于北京的艺术展览主题目的地，标签覆盖艺术、展览、摄影、咖啡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_058",
+    "name": "杭州城市漫游体验区058",
+    "city": "杭州",
+    "category": "城市漫游",
+    "tags": [
+      "街区",
+      "夜景",
+      "亲子",
+      "轻徒步"
+    ],
+    "rating": 4.63,
+    "views": 65185,
+    "ticket_price": 20,
+    "recommended_hours": 3,
+    "map_file": "universal_tour_map.json",
+    "description": "位于杭州的城市漫游主题目的地，标签覆盖夜景、美食、街区、购物，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_059",
+    "name": "北京亲子休闲体验区059",
+    "city": "北京",
+    "category": "亲子休闲",
+    "tags": [
+      "打卡",
+      "亲子",
+      "休闲",
+      "轻徒步"
+    ],
+    "rating": 4.41,
+    "views": 79000,
+    "ticket_price": 120,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于北京的亲子休闲主题目的地，标签覆盖亲子、乐园、休闲、科普，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_060",
+    "name": "大理自然风光体验区060",
+    "city": "大理",
+    "category": "自然风光",
+    "tags": [
+      "讲解",
+      "夜景",
+      "路线",
+      "徒步"
+    ],
+    "rating": 4.02,
+    "views": 33626,
+    "ticket_price": 10,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于大理的自然风光主题目的地，标签覆盖山水、徒步、摄影、亲子，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_061",
+    "name": "深圳历史文化体验区061",
+    "city": "深圳",
+    "category": "历史文化",
+    "tags": [
+      "人文",
+      "讲解",
+      "亲子",
+      "路线"
+    ],
+    "rating": 4.87,
+    "views": 53745,
+    "ticket_price": 5,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "位于深圳的历史文化主题目的地，标签覆盖古建、博物馆、人文、摄影，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_062",
+    "name": "苏州历史文化体验区062",
+    "city": "苏州",
+    "category": "历史文化",
+    "tags": [
+      "夜景",
+      "路线",
+      "古建",
+      "打卡"
+    ],
+    "rating": 4.61,
+    "views": 71591,
+    "ticket_price": 80,
+    "recommended_hours": 6,
+    "map_file": "universal_tour_map.json",
+    "description": "位于苏州的历史文化主题目的地，标签覆盖古建、博物馆、人文、摄影，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_063",
+    "name": "青岛自然风光体验区063",
+    "city": "青岛",
+    "category": "自然风光",
+    "tags": [
+      "亲子",
+      "轻徒步",
+      "打卡",
+      "夜景"
+    ],
+    "rating": 4.16,
+    "views": 2647,
+    "ticket_price": 120,
+    "recommended_hours": 1.5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于青岛的自然风光主题目的地，标签覆盖山水、徒步、摄影、亲子，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_064",
+    "name": "昆明红色研学体验区064",
+    "city": "昆明",
+    "category": "红色研学",
+    "tags": [
+      "亲子",
+      "轻徒步",
+      "夜景",
+      "路线"
+    ],
+    "rating": 4.0,
+    "views": 79263,
+    "ticket_price": 30,
+    "recommended_hours": 4,
+    "map_file": "universal_tour_map.json",
+    "description": "位于昆明的红色研学主题目的地，标签覆盖研学、历史、纪念馆、讲解，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_065",
+    "name": "哈尔滨亲子休闲体验区065",
+    "city": "哈尔滨",
+    "category": "亲子休闲",
+    "tags": [
+      "路线",
+      "休闲",
+      "科普",
+      "讲解"
+    ],
+    "rating": 4.4,
+    "views": 55844,
+    "ticket_price": 10,
+    "recommended_hours": 6,
+    "map_file": "universal_tour_map.json",
+    "description": "位于哈尔滨的亲子休闲主题目的地，标签覆盖亲子、乐园、休闲、科普，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_066",
+    "name": "桂林亲子休闲体验区066",
+    "city": "桂林",
+    "category": "亲子休闲",
+    "tags": [
+      "夜景",
+      "乐园",
+      "亲子",
+      "打卡"
+    ],
+    "rating": 4.55,
+    "views": 1318,
+    "ticket_price": 120,
+    "recommended_hours": 1.5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于桂林的亲子休闲主题目的地，标签覆盖亲子、乐园、休闲、科普，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_067",
+    "name": "洛阳美食探索体验区067",
+    "city": "洛阳",
+    "category": "美食探索",
+    "tags": [
+      "夜景",
+      "讲解",
+      "亲子",
+      "路线"
+    ],
+    "rating": 4.43,
+    "views": 57418,
+    "ticket_price": 60,
+    "recommended_hours": 1.5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于洛阳的美食探索主题目的地，标签覆盖美食、夜市、街区、打卡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_068",
+    "name": "苏州红色研学体验区068",
+    "city": "苏州",
+    "category": "红色研学",
+    "tags": [
+      "打卡",
+      "研学",
+      "亲子",
+      "纪念馆"
+    ],
+    "rating": 4.09,
+    "views": 68109,
+    "ticket_price": 30,
+    "recommended_hours": 6,
+    "map_file": "universal_tour_map.json",
+    "description": "位于苏州的红色研学主题目的地，标签覆盖研学、历史、纪念馆、讲解，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_069",
+    "name": "苏州亲子休闲体验区069",
+    "city": "苏州",
+    "category": "亲子休闲",
+    "tags": [
+      "休闲",
+      "亲子",
+      "路线",
+      "夜景"
+    ],
+    "rating": 4.66,
+    "views": 15957,
+    "ticket_price": 10,
+    "recommended_hours": 4,
+    "map_file": "universal_tour_map.json",
+    "description": "位于苏州的亲子休闲主题目的地，标签覆盖亲子、乐园、休闲、科普，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_070",
+    "name": "北京红色研学体验区070",
+    "city": "北京",
+    "category": "红色研学",
+    "tags": [
+      "亲子",
+      "研学",
+      "历史",
+      "夜景"
+    ],
+    "rating": 4.06,
+    "views": 31928,
+    "ticket_price": 80,
+    "recommended_hours": 1.5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于北京的红色研学主题目的地，标签覆盖研学、历史、纪念馆、讲解，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_071",
+    "name": "杭州美食探索体验区071",
+    "city": "杭州",
+    "category": "美食探索",
+    "tags": [
+      "打卡",
+      "亲子",
+      "夜市",
+      "夜景"
+    ],
+    "rating": 4.51,
+    "views": 56146,
+    "ticket_price": 0,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于杭州的美食探索主题目的地，标签覆盖美食、夜市、街区、打卡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_072",
+    "name": "上海城市漫游体验区072",
+    "city": "上海",
+    "category": "城市漫游",
+    "tags": [
+      "街区",
+      "亲子",
+      "打卡",
+      "夜景"
+    ],
+    "rating": 4.11,
+    "views": 70141,
+    "ticket_price": 40,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "位于上海的城市漫游主题目的地，标签覆盖夜景、美食、街区、购物，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_073",
+    "name": "成都历史文化体验区073",
+    "city": "成都",
+    "category": "历史文化",
+    "tags": [
+      "博物馆",
+      "路线",
+      "讲解",
+      "夜景"
+    ],
+    "rating": 3.91,
+    "views": 40918,
+    "ticket_price": 40,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于成都的历史文化主题目的地，标签覆盖古建、博物馆、人文、摄影，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_074",
+    "name": "长沙艺术展览体验区074",
+    "city": "长沙",
+    "category": "艺术展览",
+    "tags": [
+      "打卡",
+      "夜景",
+      "摄影",
+      "亲子"
+    ],
+    "rating": 4.34,
+    "views": 26147,
+    "ticket_price": 10,
+    "recommended_hours": 3,
+    "map_file": "universal_tour_map.json",
+    "description": "位于长沙的艺术展览主题目的地，标签覆盖艺术、展览、摄影、咖啡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_075",
+    "name": "重庆艺术展览体验区075",
+    "city": "重庆",
+    "category": "艺术展览",
+    "tags": [
+      "夜景",
+      "讲解",
+      "打卡",
+      "展览"
+    ],
+    "rating": 4.23,
+    "views": 38503,
+    "ticket_price": 5,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于重庆的艺术展览主题目的地，标签覆盖艺术、展览、摄影、咖啡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_076",
+    "name": "大理红色研学体验区076",
+    "city": "大理",
+    "category": "红色研学",
+    "tags": [
+      "讲解",
+      "亲子",
+      "历史",
+      "纪念馆"
+    ],
+    "rating": 4.16,
+    "views": 58439,
+    "ticket_price": 10,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "位于大理的红色研学主题目的地，标签覆盖研学、历史、纪念馆、讲解，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_077",
+    "name": "广州美食探索体验区077",
+    "city": "广州",
+    "category": "美食探索",
+    "tags": [
+      "夜景",
+      "美食",
+      "亲子",
+      "路线"
+    ],
+    "rating": 4.36,
+    "views": 2472,
+    "ticket_price": 60,
+    "recommended_hours": 3,
+    "map_file": "universal_tour_map.json",
+    "description": "位于广州的美食探索主题目的地，标签覆盖美食、夜市、街区、打卡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_078",
+    "name": "天津红色研学体验区078",
+    "city": "天津",
+    "category": "红色研学",
+    "tags": [
+      "路线",
+      "纪念馆",
+      "夜景",
+      "亲子"
+    ],
+    "rating": 4.07,
+    "views": 74823,
+    "ticket_price": 60,
+    "recommended_hours": 1.5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于天津的红色研学主题目的地，标签覆盖研学、历史、纪念馆、讲解，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_079",
+    "name": "上海校园参观体验区079",
+    "city": "上海",
+    "category": "校园参观",
+    "tags": [
+      "讲解",
+      "图书馆",
+      "建筑",
+      "研学"
+    ],
+    "rating": 4.77,
+    "views": 19444,
+    "ticket_price": 60,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "位于上海的校园参观主题目的地，标签覆盖校园、建筑、研学、图书馆，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_080",
+    "name": "西安亲子休闲体验区080",
+    "city": "西安",
+    "category": "亲子休闲",
+    "tags": [
+      "打卡",
+      "亲子",
+      "轻徒步",
+      "讲解"
+    ],
+    "rating": 3.86,
+    "views": 33634,
+    "ticket_price": 0,
+    "recommended_hours": 6,
+    "map_file": "universal_tour_map.json",
+    "description": "位于西安的亲子休闲主题目的地，标签覆盖亲子、乐园、休闲、科普，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_081",
+    "name": "昆明红色研学体验区081",
+    "city": "昆明",
+    "category": "红色研学",
+    "tags": [
+      "亲子",
+      "研学",
+      "轻徒步",
+      "路线"
+    ],
+    "rating": 4.78,
+    "views": 30924,
+    "ticket_price": 0,
+    "recommended_hours": 6,
+    "map_file": "universal_tour_map.json",
+    "description": "位于昆明的红色研学主题目的地，标签覆盖研学、历史、纪念馆、讲解，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_082",
+    "name": "哈尔滨校园参观体验区082",
+    "city": "哈尔滨",
+    "category": "校园参观",
+    "tags": [
+      "研学",
+      "夜景",
+      "校园",
+      "打卡"
+    ],
+    "rating": 3.81,
+    "views": 32036,
+    "ticket_price": 40,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于哈尔滨的校园参观主题目的地，标签覆盖校园、建筑、研学、图书馆，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_083",
+    "name": "青岛校园参观体验区083",
+    "city": "青岛",
+    "category": "校园参观",
+    "tags": [
+      "讲解",
+      "建筑",
+      "打卡",
+      "路线"
+    ],
+    "rating": 4.31,
+    "views": 28395,
+    "ticket_price": 5,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于青岛的校园参观主题目的地，标签覆盖校园、建筑、研学、图书馆，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_084",
+    "name": "深圳历史文化体验区084",
+    "city": "深圳",
+    "category": "历史文化",
+    "tags": [
+      "夜景",
+      "打卡",
+      "路线",
+      "博物馆"
+    ],
+    "rating": 4.37,
+    "views": 45409,
+    "ticket_price": 120,
+    "recommended_hours": 1.5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于深圳的历史文化主题目的地，标签覆盖古建、博物馆、人文、摄影，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_085",
+    "name": "洛阳艺术展览体验区085",
+    "city": "洛阳",
+    "category": "艺术展览",
+    "tags": [
+      "艺术",
+      "夜景",
+      "亲子",
+      "咖啡"
+    ],
+    "rating": 4.88,
+    "views": 69808,
+    "ticket_price": 80,
+    "recommended_hours": 3,
+    "map_file": "universal_tour_map.json",
+    "description": "位于洛阳的艺术展览主题目的地，标签覆盖艺术、展览、摄影、咖啡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_086",
+    "name": "苏州历史文化体验区086",
+    "city": "苏州",
+    "category": "历史文化",
+    "tags": [
+      "博物馆",
+      "轻徒步",
+      "讲解",
+      "打卡"
+    ],
+    "rating": 4.47,
+    "views": 85263,
+    "ticket_price": 40,
+    "recommended_hours": 3,
+    "map_file": "universal_tour_map.json",
+    "description": "位于苏州的历史文化主题目的地，标签覆盖古建、博物馆、人文、摄影，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_087",
+    "name": "上海校园参观体验区087",
+    "city": "上海",
+    "category": "校园参观",
+    "tags": [
+      "打卡",
+      "建筑",
+      "轻徒步",
+      "亲子"
+    ],
+    "rating": 4.74,
+    "views": 33097,
+    "ticket_price": 80,
+    "recommended_hours": 3,
+    "map_file": "universal_tour_map.json",
+    "description": "位于上海的校园参观主题目的地，标签覆盖校园、建筑、研学、图书馆，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_088",
+    "name": "成都红色研学体验区088",
+    "city": "成都",
+    "category": "红色研学",
+    "tags": [
+      "亲子",
+      "轻徒步",
+      "夜景",
+      "打卡"
+    ],
+    "rating": 4.12,
+    "views": 11674,
+    "ticket_price": 5,
+    "recommended_hours": 1.5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于成都的红色研学主题目的地，标签覆盖研学、历史、纪念馆、讲解，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_089",
+    "name": "天津历史文化体验区089",
+    "city": "天津",
+    "category": "历史文化",
+    "tags": [
+      "讲解",
+      "夜景",
+      "博物馆",
+      "人文"
+    ],
+    "rating": 4.39,
+    "views": 19925,
+    "ticket_price": 30,
+    "recommended_hours": 4,
+    "map_file": "universal_tour_map.json",
+    "description": "位于天津的历史文化主题目的地，标签覆盖古建、博物馆、人文、摄影，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_090",
+    "name": "上海红色研学体验区090",
+    "city": "上海",
+    "category": "红色研学",
+    "tags": [
+      "轻徒步",
+      "路线",
+      "夜景",
+      "纪念馆"
+    ],
+    "rating": 3.83,
+    "views": 42446,
+    "ticket_price": 60,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "位于上海的红色研学主题目的地，标签覆盖研学、历史、纪念馆、讲解，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_091",
+    "name": "苏州城市漫游体验区091",
+    "city": "苏州",
+    "category": "城市漫游",
+    "tags": [
+      "打卡",
+      "路线",
+      "轻徒步",
+      "夜景"
+    ],
+    "rating": 4.21,
+    "views": 70499,
+    "ticket_price": 80,
+    "recommended_hours": 6,
+    "map_file": "universal_tour_map.json",
+    "description": "位于苏州的城市漫游主题目的地，标签覆盖夜景、美食、街区、购物，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_092",
+    "name": "深圳自然风光体验区092",
+    "city": "深圳",
+    "category": "自然风光",
+    "tags": [
+      "夜景",
+      "摄影",
+      "讲解",
+      "路线"
+    ],
+    "rating": 4.77,
+    "views": 82325,
+    "ticket_price": 10,
+    "recommended_hours": 3,
+    "map_file": "universal_tour_map.json",
+    "description": "位于深圳的自然风光主题目的地，标签覆盖山水、徒步、摄影、亲子，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_093",
+    "name": "青岛艺术展览体验区093",
+    "city": "青岛",
+    "category": "艺术展览",
+    "tags": [
+      "艺术",
+      "夜景",
+      "讲解",
+      "打卡"
+    ],
+    "rating": 4.57,
+    "views": 40173,
+    "ticket_price": 5,
+    "recommended_hours": 1.5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于青岛的艺术展览主题目的地，标签覆盖艺术、展览、摄影、咖啡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_094",
+    "name": "厦门亲子休闲体验区094",
+    "city": "厦门",
+    "category": "亲子休闲",
+    "tags": [
+      "路线",
+      "亲子",
+      "打卡",
+      "休闲"
+    ],
+    "rating": 3.9,
+    "views": 84936,
+    "ticket_price": 5,
+    "recommended_hours": 6,
+    "map_file": "universal_tour_map.json",
+    "description": "位于厦门的亲子休闲主题目的地，标签覆盖亲子、乐园、休闲、科普，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_095",
+    "name": "上海校园参观体验区095",
+    "city": "上海",
+    "category": "校园参观",
+    "tags": [
+      "打卡",
+      "讲解",
+      "图书馆",
+      "路线"
+    ],
+    "rating": 3.95,
+    "views": 34068,
+    "ticket_price": 0,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "位于上海的校园参观主题目的地，标签覆盖校园、建筑、研学、图书馆，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_096",
+    "name": "武汉历史文化体验区096",
+    "city": "武汉",
+    "category": "历史文化",
+    "tags": [
+      "人文",
+      "打卡",
+      "博物馆",
+      "夜景"
+    ],
+    "rating": 3.98,
+    "views": 52247,
+    "ticket_price": 60,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于武汉的历史文化主题目的地，标签覆盖古建、博物馆、人文、摄影，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_097",
+    "name": "大理城市漫游体验区097",
+    "city": "大理",
+    "category": "城市漫游",
+    "tags": [
+      "夜景",
+      "亲子",
+      "轻徒步",
+      "讲解"
+    ],
+    "rating": 4.61,
+    "views": 6729,
+    "ticket_price": 10,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于大理的城市漫游主题目的地，标签覆盖夜景、美食、街区、购物，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_098",
+    "name": "天津自然风光体验区098",
+    "city": "天津",
+    "category": "自然风光",
+    "tags": [
+      "轻徒步",
+      "徒步",
+      "摄影",
+      "夜景"
+    ],
+    "rating": 3.96,
+    "views": 7245,
+    "ticket_price": 120,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于天津的自然风光主题目的地，标签覆盖山水、徒步、摄影、亲子，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_099",
+    "name": "成都艺术展览体验区099",
+    "city": "成都",
+    "category": "艺术展览",
+    "tags": [
+      "摄影",
+      "咖啡",
+      "亲子",
+      "艺术"
+    ],
+    "rating": 4.67,
+    "views": 75298,
+    "ticket_price": 0,
+    "recommended_hours": 4,
+    "map_file": "universal_tour_map.json",
+    "description": "位于成都的艺术展览主题目的地，标签覆盖艺术、展览、摄影、咖啡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_100",
+    "name": "厦门红色研学体验区100",
+    "city": "厦门",
+    "category": "红色研学",
+    "tags": [
+      "纪念馆",
+      "研学",
+      "打卡",
+      "讲解"
+    ],
+    "rating": 4.77,
+    "views": 40711,
+    "ticket_price": 0,
+    "recommended_hours": 4,
+    "map_file": "universal_tour_map.json",
+    "description": "位于厦门的红色研学主题目的地，标签覆盖研学、历史、纪念馆、讲解，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_101",
+    "name": "哈尔滨亲子休闲体验区101",
+    "city": "哈尔滨",
+    "category": "亲子休闲",
+    "tags": [
+      "亲子",
+      "亲子",
+      "讲解",
+      "科普"
+    ],
+    "rating": 4.1,
+    "views": 31596,
+    "ticket_price": 5,
+    "recommended_hours": 3,
+    "map_file": "universal_tour_map.json",
+    "description": "位于哈尔滨的亲子休闲主题目的地，标签覆盖亲子、乐园、休闲、科普，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_102",
+    "name": "北京自然风光体验区102",
+    "city": "北京",
+    "category": "自然风光",
+    "tags": [
+      "打卡",
+      "亲子",
+      "讲解",
+      "摄影"
+    ],
+    "rating": 4.37,
+    "views": 43435,
+    "ticket_price": 80,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于北京的自然风光主题目的地，标签覆盖山水、徒步、摄影、亲子，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_103",
+    "name": "苏州校园参观体验区103",
+    "city": "苏州",
+    "category": "校园参观",
+    "tags": [
+      "讲解",
+      "校园",
+      "图书馆",
+      "路线"
+    ],
+    "rating": 4.67,
+    "views": 40450,
+    "ticket_price": 120,
+    "recommended_hours": 1.5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于苏州的校园参观主题目的地，标签覆盖校园、建筑、研学、图书馆，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_104",
+    "name": "大理校园参观体验区104",
+    "city": "大理",
+    "category": "校园参观",
+    "tags": [
+      "亲子",
+      "讲解",
+      "路线",
+      "夜景"
+    ],
+    "rating": 4.05,
+    "views": 19071,
+    "ticket_price": 60,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "位于大理的校园参观主题目的地，标签覆盖校园、建筑、研学、图书馆，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_105",
+    "name": "洛阳美食探索体验区105",
+    "city": "洛阳",
+    "category": "美食探索",
+    "tags": [
+      "路线",
+      "夜市",
+      "讲解",
+      "打卡"
+    ],
+    "rating": 4.28,
+    "views": 54897,
+    "ticket_price": 60,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于洛阳的美食探索主题目的地，标签覆盖美食、夜市、街区、打卡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_106",
+    "name": "西安自然风光体验区106",
+    "city": "西安",
+    "category": "自然风光",
+    "tags": [
+      "打卡",
+      "亲子",
+      "轻徒步",
+      "山水"
+    ],
+    "rating": 4.44,
+    "views": 49668,
+    "ticket_price": 5,
+    "recommended_hours": 4,
+    "map_file": "universal_tour_map.json",
+    "description": "位于西安的自然风光主题目的地，标签覆盖山水、徒步、摄影、亲子，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_107",
+    "name": "上海自然风光体验区107",
+    "city": "上海",
+    "category": "自然风光",
+    "tags": [
+      "亲子",
+      "夜景",
+      "路线",
+      "摄影"
+    ],
+    "rating": 4.42,
+    "views": 33228,
+    "ticket_price": 30,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "位于上海的自然风光主题目的地，标签覆盖山水、徒步、摄影、亲子，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_108",
+    "name": "武汉美食探索体验区108",
+    "city": "武汉",
+    "category": "美食探索",
+    "tags": [
+      "打卡",
+      "美食",
+      "轻徒步",
+      "打卡"
+    ],
+    "rating": 3.97,
+    "views": 65766,
+    "ticket_price": 0,
+    "recommended_hours": 1.5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于武汉的美食探索主题目的地，标签覆盖美食、夜市、街区、打卡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_109",
+    "name": "广州历史文化体验区109",
+    "city": "广州",
+    "category": "历史文化",
+    "tags": [
+      "古建",
+      "夜景",
+      "讲解",
+      "人文"
+    ],
+    "rating": 4.6,
+    "views": 80035,
+    "ticket_price": 80,
+    "recommended_hours": 4,
+    "map_file": "universal_tour_map.json",
+    "description": "位于广州的历史文化主题目的地，标签覆盖古建、博物馆、人文、摄影，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_110",
+    "name": "上海自然风光体验区110",
+    "city": "上海",
+    "category": "自然风光",
+    "tags": [
+      "摄影",
+      "打卡",
+      "轻徒步",
+      "徒步"
+    ],
+    "rating": 4.52,
+    "views": 71453,
+    "ticket_price": 0,
+    "recommended_hours": 1.5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于上海的自然风光主题目的地，标签覆盖山水、徒步、摄影、亲子，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_111",
+    "name": "深圳艺术展览体验区111",
+    "city": "深圳",
+    "category": "艺术展览",
+    "tags": [
+      "咖啡",
+      "轻徒步",
+      "夜景",
+      "展览"
+    ],
+    "rating": 4.77,
+    "views": 61797,
+    "ticket_price": 80,
+    "recommended_hours": 4,
+    "map_file": "universal_tour_map.json",
+    "description": "位于深圳的艺术展览主题目的地，标签覆盖艺术、展览、摄影、咖啡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_112",
+    "name": "洛阳校园参观体验区112",
+    "city": "洛阳",
+    "category": "校园参观",
+    "tags": [
+      "校园",
+      "夜景",
+      "打卡",
+      "亲子"
+    ],
+    "rating": 4.32,
+    "views": 4502,
+    "ticket_price": 10,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于洛阳的校园参观主题目的地，标签覆盖校园、建筑、研学、图书馆，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_113",
+    "name": "天津校园参观体验区113",
+    "city": "天津",
+    "category": "校园参观",
+    "tags": [
+      "亲子",
+      "图书馆",
+      "轻徒步",
+      "夜景"
+    ],
+    "rating": 4.54,
+    "views": 77771,
+    "ticket_price": 60,
+    "recommended_hours": 1.5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于天津的校园参观主题目的地，标签覆盖校园、建筑、研学、图书馆，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_114",
+    "name": "重庆艺术展览体验区114",
+    "city": "重庆",
+    "category": "艺术展览",
+    "tags": [
+      "咖啡",
+      "亲子",
+      "展览",
+      "摄影"
+    ],
+    "rating": 4.37,
+    "views": 41855,
+    "ticket_price": 20,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于重庆的艺术展览主题目的地，标签覆盖艺术、展览、摄影、咖啡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_115",
+    "name": "青岛校园参观体验区115",
+    "city": "青岛",
+    "category": "校园参观",
+    "tags": [
+      "校园",
+      "打卡",
+      "讲解",
+      "轻徒步"
+    ],
+    "rating": 4.01,
+    "views": 11915,
+    "ticket_price": 5,
+    "recommended_hours": 6,
+    "map_file": "universal_tour_map.json",
+    "description": "位于青岛的校园参观主题目的地，标签覆盖校园、建筑、研学、图书馆，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_116",
+    "name": "苏州校园参观体验区116",
+    "city": "苏州",
+    "category": "校园参观",
+    "tags": [
+      "校园",
+      "建筑",
+      "亲子",
+      "夜景"
+    ],
+    "rating": 3.81,
+    "views": 45769,
+    "ticket_price": 80,
+    "recommended_hours": 1.5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于苏州的校园参观主题目的地，标签覆盖校园、建筑、研学、图书馆，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_117",
+    "name": "武汉自然风光体验区117",
+    "city": "武汉",
+    "category": "自然风光",
+    "tags": [
+      "路线",
+      "轻徒步",
+      "讲解",
+      "亲子"
+    ],
+    "rating": 4.83,
+    "views": 33895,
+    "ticket_price": 120,
+    "recommended_hours": 3,
+    "map_file": "universal_tour_map.json",
+    "description": "位于武汉的自然风光主题目的地，标签覆盖山水、徒步、摄影、亲子，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_118",
+    "name": "北京艺术展览体验区118",
+    "city": "北京",
+    "category": "艺术展览",
+    "tags": [
+      "夜景",
+      "艺术",
+      "轻徒步",
+      "展览"
+    ],
+    "rating": 4.34,
+    "views": 62683,
+    "ticket_price": 0,
+    "recommended_hours": 3,
+    "map_file": "universal_tour_map.json",
+    "description": "位于北京的艺术展览主题目的地，标签覆盖艺术、展览、摄影、咖啡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_119",
+    "name": "武汉红色研学体验区119",
+    "city": "武汉",
+    "category": "红色研学",
+    "tags": [
+      "轻徒步",
+      "路线",
+      "打卡",
+      "讲解"
+    ],
+    "rating": 4.56,
+    "views": 8156,
+    "ticket_price": 20,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "位于武汉的红色研学主题目的地，标签覆盖研学、历史、纪念馆、讲解，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_120",
+    "name": "天津校园参观体验区120",
+    "city": "天津",
+    "category": "校园参观",
+    "tags": [
+      "校园",
+      "路线",
+      "讲解",
+      "亲子"
+    ],
+    "rating": 4.07,
+    "views": 13531,
+    "ticket_price": 0,
+    "recommended_hours": 3,
+    "map_file": "universal_tour_map.json",
+    "description": "位于天津的校园参观主题目的地，标签覆盖校园、建筑、研学、图书馆，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_121",
+    "name": "洛阳城市漫游体验区121",
+    "city": "洛阳",
+    "category": "城市漫游",
+    "tags": [
+      "打卡",
+      "路线",
+      "购物",
+      "讲解"
+    ],
+    "rating": 4.56,
+    "views": 72481,
+    "ticket_price": 20,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于洛阳的城市漫游主题目的地，标签覆盖夜景、美食、街区、购物，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_122",
+    "name": "厦门历史文化体验区122",
+    "city": "厦门",
+    "category": "历史文化",
+    "tags": [
+      "轻徒步",
+      "夜景",
+      "人文",
+      "博物馆"
+    ],
+    "rating": 4.29,
+    "views": 4306,
+    "ticket_price": 120,
+    "recommended_hours": 6,
+    "map_file": "universal_tour_map.json",
+    "description": "位于厦门的历史文化主题目的地，标签覆盖古建、博物馆、人文、摄影，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_123",
+    "name": "重庆亲子休闲体验区123",
+    "city": "重庆",
+    "category": "亲子休闲",
+    "tags": [
+      "休闲",
+      "科普",
+      "夜景",
+      "轻徒步"
+    ],
+    "rating": 3.89,
+    "views": 14718,
+    "ticket_price": 0,
+    "recommended_hours": 4,
+    "map_file": "universal_tour_map.json",
+    "description": "位于重庆的亲子休闲主题目的地，标签覆盖亲子、乐园、休闲、科普，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_124",
+    "name": "武汉亲子休闲体验区124",
+    "city": "武汉",
+    "category": "亲子休闲",
+    "tags": [
+      "路线",
+      "亲子",
+      "休闲",
+      "打卡"
+    ],
+    "rating": 4.55,
+    "views": 68046,
+    "ticket_price": 120,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于武汉的亲子休闲主题目的地，标签覆盖亲子、乐园、休闲、科普，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_125",
+    "name": "哈尔滨美食探索体验区125",
+    "city": "哈尔滨",
+    "category": "美食探索",
+    "tags": [
+      "亲子",
+      "打卡",
+      "夜景",
+      "路线"
+    ],
+    "rating": 4.35,
+    "views": 68849,
+    "ticket_price": 40,
+    "recommended_hours": 4,
+    "map_file": "universal_tour_map.json",
+    "description": "位于哈尔滨的美食探索主题目的地，标签覆盖美食、夜市、街区、打卡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_126",
+    "name": "深圳红色研学体验区126",
+    "city": "深圳",
+    "category": "红色研学",
+    "tags": [
+      "讲解",
+      "研学",
+      "亲子",
+      "路线"
+    ],
+    "rating": 3.81,
+    "views": 67792,
+    "ticket_price": 120,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "位于深圳的红色研学主题目的地，标签覆盖研学、历史、纪念馆、讲解，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_127",
+    "name": "武汉历史文化体验区127",
+    "city": "武汉",
+    "category": "历史文化",
+    "tags": [
+      "夜景",
+      "路线",
+      "摄影",
+      "博物馆"
+    ],
+    "rating": 4.24,
+    "views": 17636,
+    "ticket_price": 5,
+    "recommended_hours": 4,
+    "map_file": "universal_tour_map.json",
+    "description": "位于武汉的历史文化主题目的地，标签覆盖古建、博物馆、人文、摄影，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_128",
+    "name": "哈尔滨城市漫游体验区128",
+    "city": "哈尔滨",
+    "category": "城市漫游",
+    "tags": [
+      "购物",
+      "亲子",
+      "美食",
+      "讲解"
+    ],
+    "rating": 3.87,
+    "views": 66577,
+    "ticket_price": 0,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于哈尔滨的城市漫游主题目的地，标签覆盖夜景、美食、街区、购物，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_129",
+    "name": "厦门亲子休闲体验区129",
+    "city": "厦门",
+    "category": "亲子休闲",
+    "tags": [
+      "讲解",
+      "科普",
+      "轻徒步",
+      "打卡"
+    ],
+    "rating": 4.79,
+    "views": 45607,
+    "ticket_price": 20,
+    "recommended_hours": 1.5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于厦门的亲子休闲主题目的地，标签覆盖亲子、乐园、休闲、科普，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_130",
+    "name": "天津自然风光体验区130",
+    "city": "天津",
+    "category": "自然风光",
+    "tags": [
+      "夜景",
+      "打卡",
+      "轻徒步",
+      "徒步"
+    ],
+    "rating": 4.65,
+    "views": 69696,
+    "ticket_price": 0,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "位于天津的自然风光主题目的地，标签覆盖山水、徒步、摄影、亲子，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_131",
+    "name": "天津艺术展览体验区131",
+    "city": "天津",
+    "category": "艺术展览",
+    "tags": [
+      "轻徒步",
+      "摄影",
+      "咖啡",
+      "亲子"
+    ],
+    "rating": 4.23,
+    "views": 51048,
+    "ticket_price": 20,
+    "recommended_hours": 3,
+    "map_file": "universal_tour_map.json",
+    "description": "位于天津的艺术展览主题目的地，标签覆盖艺术、展览、摄影、咖啡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_132",
+    "name": "重庆美食探索体验区132",
+    "city": "重庆",
+    "category": "美食探索",
+    "tags": [
+      "夜景",
+      "讲解",
+      "街区",
+      "夜市"
+    ],
+    "rating": 3.9,
+    "views": 42989,
+    "ticket_price": 30,
+    "recommended_hours": 6,
+    "map_file": "universal_tour_map.json",
+    "description": "位于重庆的美食探索主题目的地，标签覆盖美食、夜市、街区、打卡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_133",
+    "name": "西安自然风光体验区133",
+    "city": "西安",
+    "category": "自然风光",
+    "tags": [
+      "亲子",
+      "打卡",
+      "路线",
+      "山水"
+    ],
+    "rating": 4.65,
+    "views": 33551,
+    "ticket_price": 0,
+    "recommended_hours": 3,
+    "map_file": "universal_tour_map.json",
+    "description": "位于西安的自然风光主题目的地，标签覆盖山水、徒步、摄影、亲子，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_134",
+    "name": "桂林美食探索体验区134",
+    "city": "桂林",
+    "category": "美食探索",
+    "tags": [
+      "打卡",
+      "美食",
+      "打卡",
+      "夜景"
+    ],
+    "rating": 4.77,
+    "views": 15187,
+    "ticket_price": 30,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "位于桂林的美食探索主题目的地，标签覆盖美食、夜市、街区、打卡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_135",
+    "name": "南京红色研学体验区135",
+    "city": "南京",
+    "category": "红色研学",
+    "tags": [
+      "路线",
+      "轻徒步",
+      "夜景",
+      "打卡"
+    ],
+    "rating": 4.18,
+    "views": 37138,
+    "ticket_price": 40,
+    "recommended_hours": 4,
+    "map_file": "universal_tour_map.json",
+    "description": "位于南京的红色研学主题目的地，标签覆盖研学、历史、纪念馆、讲解，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_136",
+    "name": "北京艺术展览体验区136",
+    "city": "北京",
+    "category": "艺术展览",
+    "tags": [
+      "艺术",
+      "展览",
+      "路线",
+      "摄影"
+    ],
+    "rating": 4.55,
+    "views": 21344,
+    "ticket_price": 40,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "位于北京的艺术展览主题目的地，标签覆盖艺术、展览、摄影、咖啡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_137",
+    "name": "深圳自然风光体验区137",
+    "city": "深圳",
+    "category": "自然风光",
+    "tags": [
+      "亲子",
+      "轻徒步",
+      "路线",
+      "徒步"
+    ],
+    "rating": 4.03,
+    "views": 78377,
+    "ticket_price": 20,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于深圳的自然风光主题目的地，标签覆盖山水、徒步、摄影、亲子，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_138",
+    "name": "成都历史文化体验区138",
+    "city": "成都",
+    "category": "历史文化",
+    "tags": [
+      "讲解",
+      "轻徒步",
+      "夜景",
+      "打卡"
+    ],
+    "rating": 4.66,
+    "views": 12255,
+    "ticket_price": 80,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于成都的历史文化主题目的地，标签覆盖古建、博物馆、人文、摄影，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_139",
+    "name": "杭州自然风光体验区139",
+    "city": "杭州",
+    "category": "自然风光",
+    "tags": [
+      "路线",
+      "亲子",
+      "讲解",
+      "亲子"
+    ],
+    "rating": 4.75,
+    "views": 83571,
+    "ticket_price": 5,
+    "recommended_hours": 1.5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于杭州的自然风光主题目的地，标签覆盖山水、徒步、摄影、亲子，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_140",
+    "name": "深圳艺术展览体验区140",
+    "city": "深圳",
+    "category": "艺术展览",
+    "tags": [
+      "夜景",
+      "轻徒步",
+      "艺术",
+      "展览"
+    ],
+    "rating": 4.33,
+    "views": 70101,
+    "ticket_price": 40,
+    "recommended_hours": 3,
+    "map_file": "universal_tour_map.json",
+    "description": "位于深圳的艺术展览主题目的地，标签覆盖艺术、展览、摄影、咖啡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_141",
+    "name": "杭州亲子休闲体验区141",
+    "city": "杭州",
+    "category": "亲子休闲",
+    "tags": [
+      "打卡",
+      "路线",
+      "亲子",
+      "亲子"
+    ],
+    "rating": 4.57,
+    "views": 2765,
+    "ticket_price": 0,
+    "recommended_hours": 1.5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于杭州的亲子休闲主题目的地，标签覆盖亲子、乐园、休闲、科普，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_142",
+    "name": "洛阳美食探索体验区142",
+    "city": "洛阳",
+    "category": "美食探索",
+    "tags": [
+      "轻徒步",
+      "路线",
+      "夜景",
+      "夜市"
+    ],
+    "rating": 3.84,
+    "views": 64334,
+    "ticket_price": 120,
+    "recommended_hours": 3,
+    "map_file": "universal_tour_map.json",
+    "description": "位于洛阳的美食探索主题目的地，标签覆盖美食、夜市、街区、打卡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_143",
+    "name": "昆明自然风光体验区143",
+    "city": "昆明",
+    "category": "自然风光",
+    "tags": [
+      "徒步",
+      "亲子",
+      "摄影",
+      "讲解"
+    ],
+    "rating": 4.69,
+    "views": 85969,
+    "ticket_price": 40,
+    "recommended_hours": 1.5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于昆明的自然风光主题目的地，标签覆盖山水、徒步、摄影、亲子，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_144",
+    "name": "哈尔滨城市漫游体验区144",
+    "city": "哈尔滨",
+    "category": "城市漫游",
+    "tags": [
+      "夜景",
+      "轻徒步",
+      "亲子",
+      "美食"
+    ],
+    "rating": 3.97,
+    "views": 11395,
+    "ticket_price": 120,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "位于哈尔滨的城市漫游主题目的地，标签覆盖夜景、美食、街区、购物，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_145",
+    "name": "南京红色研学体验区145",
+    "city": "南京",
+    "category": "红色研学",
+    "tags": [
+      "路线",
+      "纪念馆",
+      "夜景",
+      "轻徒步"
+    ],
+    "rating": 4.42,
+    "views": 57245,
+    "ticket_price": 60,
+    "recommended_hours": 3,
+    "map_file": "universal_tour_map.json",
+    "description": "位于南京的红色研学主题目的地，标签覆盖研学、历史、纪念馆、讲解，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_146",
+    "name": "青岛艺术展览体验区146",
+    "city": "青岛",
+    "category": "艺术展览",
+    "tags": [
+      "路线",
+      "轻徒步",
+      "讲解",
+      "亲子"
+    ],
+    "rating": 4.62,
+    "views": 22337,
+    "ticket_price": 0,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于青岛的艺术展览主题目的地，标签覆盖艺术、展览、摄影、咖啡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_147",
+    "name": "北京美食探索体验区147",
+    "city": "北京",
+    "category": "美食探索",
+    "tags": [
+      "打卡",
+      "路线",
+      "街区",
+      "美食"
+    ],
+    "rating": 4.54,
+    "views": 32683,
+    "ticket_price": 30,
+    "recommended_hours": 3,
+    "map_file": "universal_tour_map.json",
+    "description": "位于北京的美食探索主题目的地，标签覆盖美食、夜市、街区、打卡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_148",
+    "name": "北京红色研学体验区148",
+    "city": "北京",
+    "category": "红色研学",
+    "tags": [
+      "打卡",
+      "轻徒步",
+      "纪念馆",
+      "亲子"
+    ],
+    "rating": 4.44,
+    "views": 58268,
+    "ticket_price": 60,
+    "recommended_hours": 1.5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于北京的红色研学主题目的地，标签覆盖研学、历史、纪念馆、讲解，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_149",
+    "name": "长沙校园参观体验区149",
+    "city": "长沙",
+    "category": "校园参观",
+    "tags": [
+      "图书馆",
+      "路线",
+      "讲解",
+      "轻徒步"
+    ],
+    "rating": 3.85,
+    "views": 11578,
+    "ticket_price": 30,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "位于长沙的校园参观主题目的地，标签覆盖校园、建筑、研学、图书馆，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_150",
+    "name": "广州亲子休闲体验区150",
+    "city": "广州",
+    "category": "亲子休闲",
+    "tags": [
+      "亲子",
+      "亲子",
+      "休闲",
+      "路线"
+    ],
+    "rating": 4.43,
+    "views": 27341,
+    "ticket_price": 80,
+    "recommended_hours": 1.5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于广州的亲子休闲主题目的地，标签覆盖亲子、乐园、休闲、科普，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_151",
+    "name": "桂林亲子休闲体验区151",
+    "city": "桂林",
+    "category": "亲子休闲",
+    "tags": [
+      "科普",
+      "打卡",
+      "夜景",
+      "轻徒步"
+    ],
+    "rating": 4.16,
+    "views": 55903,
+    "ticket_price": 80,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于桂林的亲子休闲主题目的地，标签覆盖亲子、乐园、休闲、科普，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_152",
+    "name": "武汉城市漫游体验区152",
+    "city": "武汉",
+    "category": "城市漫游",
+    "tags": [
+      "街区",
+      "美食",
+      "夜景",
+      "路线"
+    ],
+    "rating": 4.08,
+    "views": 55566,
+    "ticket_price": 10,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "位于武汉的城市漫游主题目的地，标签覆盖夜景、美食、街区、购物，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_153",
+    "name": "长沙亲子休闲体验区153",
+    "city": "长沙",
+    "category": "亲子休闲",
+    "tags": [
+      "亲子",
+      "打卡",
+      "亲子",
+      "科普"
+    ],
+    "rating": 4.44,
+    "views": 29355,
+    "ticket_price": 20,
+    "recommended_hours": 1.5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于长沙的亲子休闲主题目的地，标签覆盖亲子、乐园、休闲、科普，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_154",
+    "name": "苏州自然风光体验区154",
+    "city": "苏州",
+    "category": "自然风光",
+    "tags": [
+      "山水",
+      "亲子",
+      "轻徒步",
+      "夜景"
+    ],
+    "rating": 3.87,
+    "views": 65197,
+    "ticket_price": 10,
+    "recommended_hours": 6,
+    "map_file": "universal_tour_map.json",
+    "description": "位于苏州的自然风光主题目的地，标签覆盖山水、徒步、摄影、亲子，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_155",
+    "name": "上海红色研学体验区155",
+    "city": "上海",
+    "category": "红色研学",
+    "tags": [
+      "讲解",
+      "路线",
+      "打卡",
+      "历史"
+    ],
+    "rating": 3.93,
+    "views": 65031,
+    "ticket_price": 30,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "位于上海的红色研学主题目的地，标签覆盖研学、历史、纪念馆、讲解，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_156",
+    "name": "广州亲子休闲体验区156",
+    "city": "广州",
+    "category": "亲子休闲",
+    "tags": [
+      "乐园",
+      "打卡",
+      "路线",
+      "休闲"
+    ],
+    "rating": 4.85,
+    "views": 85099,
+    "ticket_price": 60,
+    "recommended_hours": 3,
+    "map_file": "universal_tour_map.json",
+    "description": "位于广州的亲子休闲主题目的地，标签覆盖亲子、乐园、休闲、科普，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_157",
+    "name": "北京自然风光体验区157",
+    "city": "北京",
+    "category": "自然风光",
+    "tags": [
+      "摄影",
+      "亲子",
+      "夜景",
+      "讲解"
+    ],
+    "rating": 4.34,
+    "views": 77933,
+    "ticket_price": 0,
+    "recommended_hours": 1.5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于北京的自然风光主题目的地，标签覆盖山水、徒步、摄影、亲子，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_158",
+    "name": "青岛城市漫游体验区158",
+    "city": "青岛",
+    "category": "城市漫游",
+    "tags": [
+      "夜景",
+      "轻徒步",
+      "夜景",
+      "路线"
+    ],
+    "rating": 4.37,
+    "views": 39314,
+    "ticket_price": 20,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "位于青岛的城市漫游主题目的地，标签覆盖夜景、美食、街区、购物，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_159",
+    "name": "成都城市漫游体验区159",
+    "city": "成都",
+    "category": "城市漫游",
+    "tags": [
+      "美食",
+      "轻徒步",
+      "购物",
+      "打卡"
+    ],
+    "rating": 4.74,
+    "views": 7021,
+    "ticket_price": 5,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于成都的城市漫游主题目的地，标签覆盖夜景、美食、街区、购物，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_160",
+    "name": "杭州红色研学体验区160",
+    "city": "杭州",
+    "category": "红色研学",
+    "tags": [
+      "夜景",
+      "研学",
+      "讲解",
+      "亲子"
+    ],
+    "rating": 4.19,
+    "views": 28996,
+    "ticket_price": 30,
+    "recommended_hours": 6,
+    "map_file": "universal_tour_map.json",
+    "description": "位于杭州的红色研学主题目的地，标签覆盖研学、历史、纪念馆、讲解，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_161",
+    "name": "洛阳美食探索体验区161",
+    "city": "洛阳",
+    "category": "美食探索",
+    "tags": [
+      "讲解",
+      "路线",
+      "夜景",
+      "打卡"
+    ],
+    "rating": 4.0,
+    "views": 30475,
+    "ticket_price": 20,
+    "recommended_hours": 1.5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于洛阳的美食探索主题目的地，标签覆盖美食、夜市、街区、打卡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_162",
+    "name": "哈尔滨亲子休闲体验区162",
+    "city": "哈尔滨",
+    "category": "亲子休闲",
+    "tags": [
+      "夜景",
+      "休闲",
+      "乐园",
+      "亲子"
+    ],
+    "rating": 4.81,
+    "views": 76369,
+    "ticket_price": 20,
+    "recommended_hours": 4,
+    "map_file": "universal_tour_map.json",
+    "description": "位于哈尔滨的亲子休闲主题目的地，标签覆盖亲子、乐园、休闲、科普，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_163",
+    "name": "青岛自然风光体验区163",
+    "city": "青岛",
+    "category": "自然风光",
+    "tags": [
+      "讲解",
+      "山水",
+      "徒步",
+      "亲子"
+    ],
+    "rating": 4.43,
+    "views": 78142,
+    "ticket_price": 10,
+    "recommended_hours": 6,
+    "map_file": "universal_tour_map.json",
+    "description": "位于青岛的自然风光主题目的地，标签覆盖山水、徒步、摄影、亲子，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_164",
+    "name": "南京艺术展览体验区164",
+    "city": "南京",
+    "category": "艺术展览",
+    "tags": [
+      "讲解",
+      "摄影",
+      "轻徒步",
+      "路线"
+    ],
+    "rating": 4.4,
+    "views": 32391,
+    "ticket_price": 20,
+    "recommended_hours": 1.5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于南京的艺术展览主题目的地，标签覆盖艺术、展览、摄影、咖啡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_165",
+    "name": "北京艺术展览体验区165",
+    "city": "北京",
+    "category": "艺术展览",
+    "tags": [
+      "艺术",
+      "夜景",
+      "亲子",
+      "摄影"
+    ],
+    "rating": 4.78,
+    "views": 9852,
+    "ticket_price": 120,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "位于北京的艺术展览主题目的地，标签覆盖艺术、展览、摄影、咖啡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_166",
+    "name": "北京红色研学体验区166",
+    "city": "北京",
+    "category": "红色研学",
+    "tags": [
+      "亲子",
+      "研学",
+      "夜景",
+      "讲解"
+    ],
+    "rating": 4.2,
+    "views": 84855,
+    "ticket_price": 40,
+    "recommended_hours": 4,
+    "map_file": "universal_tour_map.json",
+    "description": "位于北京的红色研学主题目的地，标签覆盖研学、历史、纪念馆、讲解，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_167",
+    "name": "厦门红色研学体验区167",
+    "city": "厦门",
+    "category": "红色研学",
+    "tags": [
+      "讲解",
+      "路线",
+      "亲子",
+      "讲解"
+    ],
+    "rating": 4.52,
+    "views": 51604,
+    "ticket_price": 80,
+    "recommended_hours": 6,
+    "map_file": "universal_tour_map.json",
+    "description": "位于厦门的红色研学主题目的地，标签覆盖研学、历史、纪念馆、讲解，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_168",
+    "name": "桂林自然风光体验区168",
+    "city": "桂林",
+    "category": "自然风光",
+    "tags": [
+      "徒步",
+      "摄影",
+      "轻徒步",
+      "打卡"
+    ],
+    "rating": 4.16,
+    "views": 3645,
+    "ticket_price": 120,
+    "recommended_hours": 6,
+    "map_file": "universal_tour_map.json",
+    "description": "位于桂林的自然风光主题目的地，标签覆盖山水、徒步、摄影、亲子，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_169",
+    "name": "苏州亲子休闲体验区169",
+    "city": "苏州",
+    "category": "亲子休闲",
+    "tags": [
+      "夜景",
+      "乐园",
+      "打卡",
+      "路线"
+    ],
+    "rating": 4.81,
+    "views": 47092,
+    "ticket_price": 120,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "位于苏州的亲子休闲主题目的地，标签覆盖亲子、乐园、休闲、科普，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_170",
+    "name": "重庆城市漫游体验区170",
+    "city": "重庆",
+    "category": "城市漫游",
+    "tags": [
+      "购物",
+      "讲解",
+      "打卡",
+      "夜景"
+    ],
+    "rating": 4.26,
+    "views": 55547,
+    "ticket_price": 40,
+    "recommended_hours": 6,
+    "map_file": "universal_tour_map.json",
+    "description": "位于重庆的城市漫游主题目的地，标签覆盖夜景、美食、街区、购物，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_171",
+    "name": "长沙校园参观体验区171",
+    "city": "长沙",
+    "category": "校园参观",
+    "tags": [
+      "研学",
+      "建筑",
+      "夜景",
+      "图书馆"
+    ],
+    "rating": 4.48,
+    "views": 70275,
+    "ticket_price": 40,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于长沙的校园参观主题目的地，标签覆盖校园、建筑、研学、图书馆，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_172",
+    "name": "深圳亲子休闲体验区172",
+    "city": "深圳",
+    "category": "亲子休闲",
+    "tags": [
+      "亲子",
+      "亲子",
+      "夜景",
+      "打卡"
+    ],
+    "rating": 4.32,
+    "views": 85165,
+    "ticket_price": 40,
+    "recommended_hours": 6,
+    "map_file": "universal_tour_map.json",
+    "description": "位于深圳的亲子休闲主题目的地，标签覆盖亲子、乐园、休闲、科普，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_173",
+    "name": "成都校园参观体验区173",
+    "city": "成都",
+    "category": "校园参观",
+    "tags": [
+      "建筑",
+      "打卡",
+      "研学",
+      "图书馆"
+    ],
+    "rating": 4.37,
+    "views": 15417,
+    "ticket_price": 60,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于成都的校园参观主题目的地，标签覆盖校园、建筑、研学、图书馆，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_174",
+    "name": "长沙红色研学体验区174",
+    "city": "长沙",
+    "category": "红色研学",
+    "tags": [
+      "路线",
+      "打卡",
+      "纪念馆",
+      "讲解"
+    ],
+    "rating": 4.25,
+    "views": 1967,
+    "ticket_price": 5,
+    "recommended_hours": 4,
+    "map_file": "universal_tour_map.json",
+    "description": "位于长沙的红色研学主题目的地，标签覆盖研学、历史、纪念馆、讲解，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_175",
+    "name": "北京亲子休闲体验区175",
+    "city": "北京",
+    "category": "亲子休闲",
+    "tags": [
+      "亲子",
+      "乐园",
+      "亲子",
+      "讲解"
+    ],
+    "rating": 4.63,
+    "views": 21878,
+    "ticket_price": 40,
+    "recommended_hours": 3,
+    "map_file": "universal_tour_map.json",
+    "description": "位于北京的亲子休闲主题目的地，标签覆盖亲子、乐园、休闲、科普，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_176",
+    "name": "重庆美食探索体验区176",
+    "city": "重庆",
+    "category": "美食探索",
+    "tags": [
+      "夜市",
+      "打卡",
+      "亲子",
+      "街区"
+    ],
+    "rating": 4.29,
+    "views": 7524,
+    "ticket_price": 80,
+    "recommended_hours": 6,
+    "map_file": "universal_tour_map.json",
+    "description": "位于重庆的美食探索主题目的地，标签覆盖美食、夜市、街区、打卡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_177",
+    "name": "深圳城市漫游体验区177",
+    "city": "深圳",
+    "category": "城市漫游",
+    "tags": [
+      "夜景",
+      "亲子",
+      "轻徒步",
+      "打卡"
+    ],
+    "rating": 3.87,
+    "views": 5957,
+    "ticket_price": 20,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于深圳的城市漫游主题目的地，标签覆盖夜景、美食、街区、购物，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_178",
+    "name": "哈尔滨校园参观体验区178",
+    "city": "哈尔滨",
+    "category": "校园参观",
+    "tags": [
+      "夜景",
+      "研学",
+      "路线",
+      "图书馆"
+    ],
+    "rating": 4.44,
+    "views": 73372,
+    "ticket_price": 120,
+    "recommended_hours": 6,
+    "map_file": "universal_tour_map.json",
+    "description": "位于哈尔滨的校园参观主题目的地，标签覆盖校园、建筑、研学、图书馆，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_179",
+    "name": "厦门亲子休闲体验区179",
+    "city": "厦门",
+    "category": "亲子休闲",
+    "tags": [
+      "乐园",
+      "路线",
+      "轻徒步",
+      "夜景"
+    ],
+    "rating": 4.65,
+    "views": 41288,
+    "ticket_price": 60,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于厦门的亲子休闲主题目的地，标签覆盖亲子、乐园、休闲、科普，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_180",
+    "name": "苏州城市漫游体验区180",
+    "city": "苏州",
+    "category": "城市漫游",
+    "tags": [
+      "打卡",
+      "轻徒步",
+      "路线",
+      "街区"
+    ],
+    "rating": 4.58,
+    "views": 16942,
+    "ticket_price": 60,
+    "recommended_hours": 1.5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于苏州的城市漫游主题目的地，标签覆盖夜景、美食、街区、购物，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_181",
+    "name": "厦门红色研学体验区181",
+    "city": "厦门",
+    "category": "红色研学",
+    "tags": [
+      "纪念馆",
+      "夜景",
+      "亲子",
+      "打卡"
+    ],
+    "rating": 4.67,
+    "views": 61157,
+    "ticket_price": 20,
+    "recommended_hours": 6,
+    "map_file": "universal_tour_map.json",
+    "description": "位于厦门的红色研学主题目的地，标签覆盖研学、历史、纪念馆、讲解，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_182",
+    "name": "厦门历史文化体验区182",
+    "city": "厦门",
+    "category": "历史文化",
+    "tags": [
+      "轻徒步",
+      "讲解",
+      "摄影",
+      "博物馆"
+    ],
+    "rating": 3.85,
+    "views": 56404,
+    "ticket_price": 20,
+    "recommended_hours": 4,
+    "map_file": "universal_tour_map.json",
+    "description": "位于厦门的历史文化主题目的地，标签覆盖古建、博物馆、人文、摄影，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_183",
+    "name": "北京历史文化体验区183",
+    "city": "北京",
+    "category": "历史文化",
+    "tags": [
+      "轻徒步",
+      "博物馆",
+      "夜景",
+      "讲解"
+    ],
+    "rating": 4.64,
+    "views": 75424,
+    "ticket_price": 5,
+    "recommended_hours": 6,
+    "map_file": "universal_tour_map.json",
+    "description": "位于北京的历史文化主题目的地，标签覆盖古建、博物馆、人文、摄影，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_184",
+    "name": "昆明校园参观体验区184",
+    "city": "昆明",
+    "category": "校园参观",
+    "tags": [
+      "路线",
+      "校园",
+      "讲解",
+      "建筑"
+    ],
+    "rating": 3.92,
+    "views": 33129,
+    "ticket_price": 40,
+    "recommended_hours": 1.5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于昆明的校园参观主题目的地，标签覆盖校园、建筑、研学、图书馆，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_185",
+    "name": "重庆艺术展览体验区185",
+    "city": "重庆",
+    "category": "艺术展览",
+    "tags": [
+      "摄影",
+      "打卡",
+      "亲子",
+      "咖啡"
+    ],
+    "rating": 4.69,
+    "views": 73510,
+    "ticket_price": 5,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "位于重庆的艺术展览主题目的地，标签覆盖艺术、展览、摄影、咖啡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_186",
+    "name": "苏州校园参观体验区186",
+    "city": "苏州",
+    "category": "校园参观",
+    "tags": [
+      "路线",
+      "图书馆",
+      "建筑",
+      "讲解"
+    ],
+    "rating": 3.8,
+    "views": 67127,
+    "ticket_price": 30,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "位于苏州的校园参观主题目的地，标签覆盖校园、建筑、研学、图书馆，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_187",
+    "name": "杭州美食探索体验区187",
+    "city": "杭州",
+    "category": "美食探索",
+    "tags": [
+      "夜景",
+      "街区",
+      "打卡",
+      "打卡"
+    ],
+    "rating": 4.7,
+    "views": 21728,
+    "ticket_price": 0,
+    "recommended_hours": 4,
+    "map_file": "universal_tour_map.json",
+    "description": "位于杭州的美食探索主题目的地，标签覆盖美食、夜市、街区、打卡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_188",
+    "name": "杭州校园参观体验区188",
+    "city": "杭州",
+    "category": "校园参观",
+    "tags": [
+      "图书馆",
+      "路线",
+      "校园",
+      "讲解"
+    ],
+    "rating": 4.1,
+    "views": 65247,
+    "ticket_price": 80,
+    "recommended_hours": 4,
+    "map_file": "universal_tour_map.json",
+    "description": "位于杭州的校园参观主题目的地，标签覆盖校园、建筑、研学、图书馆，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_189",
+    "name": "深圳艺术展览体验区189",
+    "city": "深圳",
+    "category": "艺术展览",
+    "tags": [
+      "摄影",
+      "艺术",
+      "亲子",
+      "轻徒步"
+    ],
+    "rating": 4.01,
+    "views": 74116,
+    "ticket_price": 20,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "位于深圳的艺术展览主题目的地，标签覆盖艺术、展览、摄影、咖啡，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_190",
+    "name": "重庆城市漫游体验区190",
+    "city": "重庆",
+    "category": "城市漫游",
+    "tags": [
+      "夜景",
+      "亲子",
+      "夜景",
+      "街区"
+    ],
+    "rating": 4.33,
+    "views": 61403,
+    "ticket_price": 20,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于重庆的城市漫游主题目的地，标签覆盖夜景、美食、街区、购物，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_191",
+    "name": "长沙亲子休闲体验区191",
+    "city": "长沙",
+    "category": "亲子休闲",
+    "tags": [
+      "亲子",
+      "路线",
+      "休闲",
+      "讲解"
+    ],
+    "rating": 3.87,
+    "views": 50312,
+    "ticket_price": 120,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "位于长沙的亲子休闲主题目的地，标签覆盖亲子、乐园、休闲、科普，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_192",
+    "name": "厦门城市漫游体验区192",
+    "city": "厦门",
+    "category": "城市漫游",
+    "tags": [
+      "购物",
+      "街区",
+      "讲解",
+      "打卡"
+    ],
+    "rating": 4.56,
+    "views": 53186,
+    "ticket_price": 120,
+    "recommended_hours": 3,
+    "map_file": "universal_tour_map.json",
+    "description": "位于厦门的城市漫游主题目的地，标签覆盖夜景、美食、街区、购物，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_193",
+    "name": "深圳亲子休闲体验区193",
+    "city": "深圳",
+    "category": "亲子休闲",
+    "tags": [
+      "夜景",
+      "科普",
+      "亲子",
+      "轻徒步"
+    ],
+    "rating": 4.57,
+    "views": 51083,
+    "ticket_price": 40,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "位于深圳的亲子休闲主题目的地，标签覆盖亲子、乐园、休闲、科普，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_194",
+    "name": "西安历史文化体验区194",
+    "city": "西安",
+    "category": "历史文化",
+    "tags": [
+      "博物馆",
+      "轻徒步",
+      "打卡",
+      "夜景"
+    ],
+    "rating": 4.42,
+    "views": 6356,
+    "ticket_price": 60,
+    "recommended_hours": 1.5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于西安的历史文化主题目的地，标签覆盖古建、博物馆、人文、摄影，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_195",
+    "name": "天津城市漫游体验区195",
+    "city": "天津",
+    "category": "城市漫游",
+    "tags": [
+      "夜景",
+      "打卡",
+      "街区",
+      "夜景"
+    ],
+    "rating": 4.01,
+    "views": 76622,
+    "ticket_price": 20,
+    "recommended_hours": 6,
+    "map_file": "universal_tour_map.json",
+    "description": "位于天津的城市漫游主题目的地，标签覆盖夜景、美食、街区、购物，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_196",
+    "name": "上海校园参观体验区196",
+    "city": "上海",
+    "category": "校园参观",
+    "tags": [
+      "路线",
+      "打卡",
+      "建筑",
+      "图书馆"
+    ],
+    "rating": 4.02,
+    "views": 5577,
+    "ticket_price": 60,
+    "recommended_hours": 2,
+    "map_file": "universal_tour_map.json",
+    "description": "位于上海的校园参观主题目的地，标签覆盖校园、建筑、研学、图书馆，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_197",
+    "name": "厦门城市漫游体验区197",
+    "city": "厦门",
+    "category": "城市漫游",
+    "tags": [
+      "亲子",
+      "夜景",
+      "轻徒步",
+      "打卡"
+    ],
+    "rating": 4.88,
+    "views": 3111,
+    "ticket_price": 5,
+    "recommended_hours": 1.5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于厦门的城市漫游主题目的地，标签覆盖夜景、美食、街区、购物，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_198",
+    "name": "重庆历史文化体验区198",
+    "city": "重庆",
+    "category": "历史文化",
+    "tags": [
+      "打卡",
+      "路线",
+      "人文",
+      "亲子"
+    ],
+    "rating": 4.06,
+    "views": 38049,
+    "ticket_price": 20,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于重庆的历史文化主题目的地，标签覆盖古建、博物馆、人文、摄影，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_199",
+    "name": "哈尔滨亲子休闲体验区199",
+    "city": "哈尔滨",
+    "category": "亲子休闲",
+    "tags": [
+      "休闲",
+      "打卡",
+      "亲子",
+      "亲子"
+    ],
+    "rating": 3.91,
+    "views": 64047,
+    "ticket_price": 10,
+    "recommended_hours": 5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于哈尔滨的亲子休闲主题目的地，标签覆盖亲子、乐园、休闲、科普，可用于推荐排序、路线规划和游记交流演示。"
+  },
+  {
+    "id": "dest_200",
+    "name": "杭州历史文化体验区200",
+    "city": "杭州",
+    "category": "历史文化",
+    "tags": [
+      "摄影",
+      "路线",
+      "轻徒步",
+      "博物馆"
+    ],
+    "rating": 4.26,
+    "views": 53978,
+    "ticket_price": 120,
+    "recommended_hours": 1.5,
+    "map_file": "universal_tour_map.json",
+    "description": "位于杭州的历史文化主题目的地，标签覆盖古建、博物馆、人文、摄影，可用于推荐排序、路线规划和游记交流演示。"
+  }
+]

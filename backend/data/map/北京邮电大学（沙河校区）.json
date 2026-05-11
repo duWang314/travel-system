@@ -1,20 +1,33 @@
 {
-  "destination_name": "北京邮电大学（沙河校区）",
+  "map_name": "北京邮电大学（沙河校区）",
+  "width": 1180,
+  "height": 720,
   "nodes": [
     {
-      "node_id": 6418965229,
-      "name": "路口",
-      "lon": 116.28444,
-      "lat": 40.15866,
-      "type": "intersection",
+      "node_id": "u002",
+      "name": "景观节点002",
+      "x": 132,
+      "y": 80,
+      "type": "viewpoint",
+      "description": "通用旅游道路图中的景观节点002，用于路线规划、设施查询与算法演示。",
       "is_indoor": false,
-      "indoor_info": {}
+      "indoor_building_id": null
     },
     {
-      "node_id": 6418982134,
+      "node_id": "u003",
+      "name": "3",
+      "x": 216.28444,
+      "y": 80.15866,
+      "type": "viewpoint",
+      "is_indoor": false,
+      "description": "通用旅游道路图中的景观节点002，用于路线规划、设施查询与算法演示。",
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "6418982134",
       "name": "路口",
-      "lon": 116.28684,
-      "lat": 40.15798,
+      "x": 116.28684,
+      "y": 40.15798,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -22,8 +35,8 @@
     {
       "node_id": 6418986342,
       "name": "路口",
-      "lon": 116.28323,
-      "lat": 40.15702,
+      "x": 116.28323,
+      "y": 40.15702,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -31,8 +44,8 @@
     {
       "node_id": 6418986343,
       "name": "路口",
-      "lon": 116.28437,
-      "lat": 40.15454,
+      "x": 116.28437,
+      "y": 40.15454,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -40,8 +53,8 @@
     {
       "node_id": 6418986344,
       "name": "路口",
-      "lon": 116.28127,
-      "lat": 40.15753,
+      "x": 116.28127,
+      "y": 40.15753,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -49,8 +62,8 @@
     {
       "node_id": 6418986345,
       "name": "路口",
-      "lon": 116.28284,
-      "lat": 40.15787,
+      "x": 116.28284,
+      "y": 40.15787,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -58,8 +71,8 @@
     {
       "node_id": 6418986346,
       "name": "路口",
-      "lon": 116.28268,
-      "lat": 40.15824,
+      "x": 116.28268,
+      "y": 40.15824,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -67,8 +80,8 @@
     {
       "node_id": 8110987458,
       "name": "路口",
-      "lon": 116.2873,
-      "lat": 40.15685,
+      "x": 116.2873,
+      "y": 40.15685,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -76,8 +89,8 @@
     {
       "node_id": 8110987459,
       "name": "路口",
-      "lon": 116.28749,
-      "lat": 40.1569,
+      "x": 116.28749,
+      "y": 40.1569,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -85,8 +98,8 @@
     {
       "node_id": 8522784569,
       "name": "路口",
-      "lon": 116.28171,
-      "lat": 40.15662,
+      "x": 116.28171,
+      "y": 40.15662,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -94,8 +107,8 @@
     {
       "node_id": 8527950728,
       "name": "路口",
-      "lon": 116.285,
-      "lat": 40.15748,
+      "x": 116.285,
+      "y": 40.15748,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -103,8 +116,8 @@
     {
       "node_id": 8527950730,
       "name": "路口",
-      "lon": 116.28175,
-      "lat": 40.15655,
+      "x": 116.28175,
+      "y": 40.15655,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -112,8 +125,8 @@
     {
       "node_id": 8527950731,
       "name": "路口",
-      "lon": 116.28327,
-      "lat": 40.15695,
+      "x": 116.28327,
+      "y": 40.15695,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -121,8 +134,8 @@
     {
       "node_id": 8527950732,
       "name": "路口",
-      "lon": 116.28505,
-      "lat": 40.15739,
+      "x": 116.28505,
+      "y": 40.15739,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -130,8 +143,8 @@
     {
       "node_id": 8527950733,
       "name": "路口",
-      "lon": 116.28689,
-      "lat": 40.15789,
+      "x": 116.28689,
+      "y": 40.15789,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -139,8 +152,8 @@
     {
       "node_id": 8535810879,
       "name": "路口",
-      "lon": 116.28199,
-      "lat": 40.15605,
+      "x": 116.28199,
+      "y": 40.15605,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -148,8 +161,8 @@
     {
       "node_id": 8535810881,
       "name": "路口",
-      "lon": 116.28312,
-      "lat": 40.15647,
+      "x": 116.28312,
+      "y": 40.15647,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -157,8 +170,8 @@
     {
       "node_id": 8535810896,
       "name": "路口",
-      "lon": 116.28275,
-      "lat": 40.15574,
+      "x": 116.28275,
+      "y": 40.15574,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -166,8 +179,8 @@
     {
       "node_id": 8535810899,
       "name": "路口",
-      "lon": 116.28366,
-      "lat": 40.15608,
+      "x": 116.28366,
+      "y": 40.15608,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -175,8 +188,8 @@
     {
       "node_id": 8535810900,
       "name": "路口",
-      "lon": 116.28272,
-      "lat": 40.15527,
+      "x": 116.28272,
+      "y": 40.15527,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -184,8 +197,8 @@
     {
       "node_id": 8535810902,
       "name": "路口",
-      "lon": 116.28343,
-      "lat": 40.15532,
+      "x": 116.28343,
+      "y": 40.15532,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -193,8 +206,8 @@
     {
       "node_id": 8535810903,
       "name": "路口",
-      "lon": 116.28151,
-      "lat": 40.15704,
+      "x": 116.28151,
+      "y": 40.15704,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -202,8 +215,8 @@
     {
       "node_id": 8577255874,
       "name": "路口",
-      "lon": 116.28287,
-      "lat": 40.15781,
+      "x": 116.28287,
+      "y": 40.15781,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -211,8 +224,8 @@
     {
       "node_id": 8577255875,
       "name": "路口",
-      "lon": 116.28463,
-      "lat": 40.15826,
+      "x": 116.28463,
+      "y": 40.15826,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -220,8 +233,8 @@
     {
       "node_id": 8577255876,
       "name": "路口",
-      "lon": 116.28368,
-      "lat": 40.15803,
+      "x": 116.28368,
+      "y": 40.15803,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -229,8 +242,8 @@
     {
       "node_id": 8577255877,
       "name": "路口",
-      "lon": 116.28351,
-      "lat": 40.15844,
+      "x": 116.28351,
+      "y": 40.15844,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -238,8 +251,8 @@
     {
       "node_id": 8577255878,
       "name": "路口",
-      "lon": 116.2834,
-      "lat": 40.15841,
+      "x": 116.2834,
+      "y": 40.15841,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -247,8 +260,8 @@
     {
       "node_id": 8577255884,
       "name": "路口",
-      "lon": 116.28383,
-      "lat": 40.15852,
+      "x": 116.28383,
+      "y": 40.15852,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -256,8 +269,8 @@
     {
       "node_id": 8577255887,
       "name": "路口",
-      "lon": 116.28356,
-      "lat": 40.158,
+      "x": 116.28356,
+      "y": 40.158,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -265,8 +278,8 @@
     {
       "node_id": 8577255890,
       "name": "路口",
-      "lon": 116.28426,
-      "lat": 40.15754,
+      "x": 116.28426,
+      "y": 40.15754,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -274,8 +287,8 @@
     {
       "node_id": 8577255891,
       "name": "路口",
-      "lon": 116.28098,
-      "lat": 40.15813,
+      "x": 116.28098,
+      "y": 40.15813,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -283,8 +296,8 @@
     {
       "node_id": 8577255892,
       "name": "路口",
-      "lon": 116.28439,
-      "lat": 40.15877,
+      "x": 116.28439,
+      "y": 40.15877,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -292,8 +305,8 @@
     {
       "node_id": 8626106846,
       "name": "路口",
-      "lon": 116.2843,
-      "lat": 40.15472,
+      "x": 116.2843,
+      "y": 40.15472,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -301,8 +314,8 @@
     {
       "node_id": 8626106848,
       "name": "路口",
-      "lon": 116.28293,
-      "lat": 40.15641,
+      "x": 116.28293,
+      "y": 40.15641,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -310,8 +323,8 @@
     {
       "node_id": 8626106849,
       "name": "路口",
-      "lon": 116.28301,
-      "lat": 40.15622,
+      "x": 116.28301,
+      "y": 40.15622,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -319,8 +332,8 @@
     {
       "node_id": 9708517233,
       "name": "路口",
-      "lon": 116.28759,
-      "lat": 40.15674,
+      "x": 116.28759,
+      "y": 40.15674,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -328,8 +341,8 @@
     {
       "node_id": 9708517234,
       "name": "路口",
-      "lon": 116.28559,
-      "lat": 40.15621,
+      "x": 116.28559,
+      "y": 40.15621,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -337,8 +350,8 @@
     {
       "node_id": 9708517235,
       "name": "路口",
-      "lon": 116.28382,
-      "lat": 40.15574,
+      "x": 116.28382,
+      "y": 40.15574,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -346,8 +359,8 @@
     {
       "node_id": 9708517238,
       "name": "路口",
-      "lon": 116.28163,
-      "lat": 40.1566,
+      "x": 116.28163,
+      "y": 40.1566,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -355,8 +368,8 @@
     {
       "node_id": 9708517239,
       "name": "路口",
-      "lon": 116.28166,
-      "lat": 40.15653,
+      "x": 116.28166,
+      "y": 40.15653,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -364,8 +377,8 @@
     {
       "node_id": 9708517243,
       "name": "路口",
-      "lon": 116.28796,
-      "lat": 40.15606,
+      "x": 116.28796,
+      "y": 40.15606,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -373,8 +386,8 @@
     {
       "node_id": 9708517244,
       "name": "路口",
-      "lon": 116.28592,
-      "lat": 40.15551,
+      "x": 116.28592,
+      "y": 40.15551,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -382,8 +395,8 @@
     {
       "node_id": 10074826083,
       "name": "路口",
-      "lon": 116.28263,
-      "lat": 40.15601,
+      "x": 116.28263,
+      "y": 40.15601,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -391,8 +404,8 @@
     {
       "node_id": 10082060514,
       "name": "路口",
-      "lon": 116.28684,
-      "lat": 40.15653,
+      "x": 116.28684,
+      "y": 40.15653,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -400,8 +413,8 @@
     {
       "node_id": 10082096728,
       "name": "路口",
-      "lon": 116.28581,
-      "lat": 40.15573,
+      "x": 116.28581,
+      "y": 40.15573,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -409,8 +422,8 @@
     {
       "node_id": 10082096729,
       "name": "路口",
-      "lon": 116.28701,
-      "lat": 40.15627,
+      "x": 116.28701,
+      "y": 40.15627,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -418,8 +431,8 @@
     {
       "node_id": 10082096733,
       "name": "路口",
-      "lon": 116.28732,
-      "lat": 40.15643,
+      "x": 116.28732,
+      "y": 40.15643,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -427,8 +440,8 @@
     {
       "node_id": 10082096736,
       "name": "路口",
-      "lon": 116.28741,
-      "lat": 40.15632,
+      "x": 116.28741,
+      "y": 40.15632,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -436,8 +449,8 @@
     {
       "node_id": 10082096741,
       "name": "路口",
-      "lon": 116.28752,
-      "lat": 40.15619,
+      "x": 116.28752,
+      "y": 40.15619,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -445,8 +458,8 @@
     {
       "node_id": 10082096744,
       "name": "路口",
-      "lon": 116.28743,
-      "lat": 40.15605,
+      "x": 116.28743,
+      "y": 40.15605,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -454,8 +467,8 @@
     {
       "node_id": 10082096759,
       "name": "路口",
-      "lon": 116.28671,
-      "lat": 40.15572,
+      "x": 116.28671,
+      "y": 40.15572,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -463,8 +476,8 @@
     {
       "node_id": 10082096760,
       "name": "路口",
-      "lon": 116.28445,
-      "lat": 40.1559,
+      "x": 116.28445,
+      "y": 40.1559,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -472,8 +485,8 @@
     {
       "node_id": 10082096765,
       "name": "路口",
-      "lon": 116.28454,
-      "lat": 40.15562,
+      "x": 116.28454,
+      "y": 40.15562,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -481,8 +494,8 @@
     {
       "node_id": 10082096766,
       "name": "路口",
-      "lon": 116.28468,
-      "lat": 40.15563,
+      "x": 116.28468,
+      "y": 40.15563,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -490,8 +503,8 @@
     {
       "node_id": 10082096771,
       "name": "路口",
-      "lon": 116.28485,
-      "lat": 40.15558,
+      "x": 116.28485,
+      "y": 40.15558,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -499,8 +512,8 @@
     {
       "node_id": 10082096783,
       "name": "路口",
-      "lon": 116.28402,
-      "lat": 40.15579,
+      "x": 116.28402,
+      "y": 40.15579,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -508,8 +521,8 @@
     {
       "node_id": 12075108536,
       "name": "路口",
-      "lon": 116.28413,
-      "lat": 40.15505,
+      "x": 116.28413,
+      "y": 40.15505,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -517,8 +530,8 @@
     {
       "node_id": 12740928703,
       "name": "路口",
-      "lon": 116.28213,
-      "lat": 40.15717,
+      "x": 116.28213,
+      "y": 40.15717,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -526,8 +539,8 @@
     {
       "node_id": 12740928708,
       "name": "路口",
-      "lon": 116.28193,
-      "lat": 40.15767,
+      "x": 116.28193,
+      "y": 40.15767,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -535,8 +548,8 @@
     {
       "node_id": 12740928709,
       "name": "路口",
-      "lon": 116.28207,
-      "lat": 40.15731,
+      "x": 116.28207,
+      "y": 40.15731,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -544,8 +557,8 @@
     {
       "node_id": 12740928710,
       "name": "路口",
-      "lon": 116.28296,
-      "lat": 40.15762,
+      "x": 116.28296,
+      "y": 40.15762,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -553,8 +566,8 @@
     {
       "node_id": 12740928711,
       "name": "路口",
-      "lon": 116.28256,
-      "lat": 40.15748,
+      "x": 116.28256,
+      "y": 40.15748,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -562,8 +575,8 @@
     {
       "node_id": 12740928726,
       "name": "路口",
-      "lon": 116.28262,
-      "lat": 40.1575,
+      "x": 116.28262,
+      "y": 40.1575,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -571,8 +584,8 @@
     {
       "node_id": 12740928734,
       "name": "路口",
-      "lon": 116.28241,
-      "lat": 40.15778,
+      "x": 116.28241,
+      "y": 40.15778,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -580,8 +593,8 @@
     {
       "node_id": 12740928739,
       "name": "路口",
-      "lon": 116.28219,
-      "lat": 40.15844,
+      "x": 116.28219,
+      "y": 40.15844,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -589,17 +602,17 @@
     {
       "node_id": 12740928744,
       "name": "路口",
-      "lon": 116.28227,
-      "lat": 40.15687,
+      "x": 116.28227,
+      "y": 40.15687,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
     },
     {
-      "node_id": "poi_('relation', 18964523)",
+      "node_id": "poi_('reyion', 18964523)",
       "name": "雁北园1",
-      "lon": 116.28232,
-      "lat": 40.15736,
+      "x": 116.28232,
+      "y": 40.15736,
       "type": "supermarket",
       "is_indoor": false,
       "indoor_info": {}
@@ -607,8 +620,8 @@
     {
       "node_id": "node_1776067977120_4020",
       "name": "教工食堂",
-      "lon": 116.283315,
-      "lat": 40.157656,
+      "x": 116.283315,
+      "y": 40.157656,
       "type": "restaurant_cn",
       "is_indoor": false,
       "indoor_info": {}
@@ -616,8 +629,8 @@
     {
       "node_id": "node_1776067985512_467",
       "name": "风味餐厅",
-      "lon": 116.283218,
-      "lat": 40.158139,
+      "x": 116.283218,
+      "y": 40.158139,
       "is_indoor": false,
       "indoor_info": {},
       "type": "restaurant_we"
@@ -625,8 +638,8 @@
     {
       "node_id": "node_1776067995656_3777",
       "name": "学生活动中心",
-      "lon": 116.284136,
-      "lat": 40.15777,
+      "x": 116.284136,
+      "y": 40.15777,
       "type": "supermarket",
       "is_indoor": false,
       "indoor_info": {}
@@ -634,8 +647,8 @@
     {
       "node_id": "node_1776067999351_8212",
       "name": "行政办公楼",
-      "lon": 116.283964,
-      "lat": 40.158295,
+      "x": 116.283964,
+      "y": 40.158295,
       "type": "toilet",
       "is_indoor": false,
       "indoor_info": {}
@@ -643,8 +656,8 @@
     {
       "node_id": "node_1776068002271_773",
       "name": "图书馆",
-      "lon": 116.28553,
-      "lat": 40.158295,
+      "x": 116.28553,
+      "y": 40.158295,
       "type": "toilet",
       "is_indoor": false,
       "indoor_info": {}
@@ -652,8 +665,8 @@
     {
       "node_id": "node_1776068005951_4493",
       "name": "数媒学院楼",
-      "lon": 116.287161,
-      "lat": 40.158385,
+      "x": 116.287161,
+      "y": 40.158385,
       "type": "toilet",
       "is_indoor": false,
       "indoor_info": {}
@@ -661,8 +674,8 @@
     {
       "node_id": "node_1776068008435_9958",
       "name": "网安学院楼",
-      "lon": 116.287665,
-      "lat": 40.158771,
+      "x": 116.287665,
+      "y": 40.158771,
       "type": "toilet",
       "is_indoor": false,
       "indoor_info": {}
@@ -670,8 +683,8 @@
     {
       "node_id": "node_1776068032544_7305",
       "name": "学生餐厅",
-      "lon": 116.284742,
-      "lat": 40.154868,
+      "x": 116.284742,
+      "y": 40.154868,
       "type": "restaurant_cn",
       "is_indoor": false,
       "indoor_info": {}
@@ -679,8 +692,8 @@
     {
       "node_id": "node_1776068040966_3331",
       "name": "雁南园S5",
-      "lon": 116.283991,
-      "lat": 40.155056,
+      "x": 116.283991,
+      "y": 40.155056,
       "type": "toilet",
       "is_indoor": false,
       "indoor_info": {}
@@ -688,8 +701,8 @@
     {
       "node_id": "node_1776068052478_2990",
       "name": "雁南园S4",
-      "lon": 116.283674,
-      "lat": 40.155688,
+      "x": 116.283674,
+      "y": 40.155688,
       "type": "toilet",
       "is_indoor": false,
       "indoor_info": {}
@@ -697,8 +710,8 @@
     {
       "node_id": "node_1776068055166_2960",
       "name": "雁南园S3",
-      "lon": 116.283481,
-      "lat": 40.156139,
+      "x": 116.283481,
+      "y": 40.156139,
       "type": "toilet",
       "is_indoor": false,
       "indoor_info": {}
@@ -706,8 +719,8 @@
     {
       "node_id": "node_1776068058902_2576",
       "name": "雁南园S2",
-      "lon": 116.283116,
-      "lat": 40.156622,
+      "x": 116.283116,
+      "y": 40.156622,
       "type": "toilet",
       "is_indoor": false,
       "indoor_info": {}
@@ -715,8 +728,8 @@
     {
       "node_id": "node_1776068067902_391",
       "name": "新路口",
-      "lon": 116.283395,
-      "lat": 40.156688,
+      "x": 116.283395,
+      "y": 40.156688,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -724,8 +737,8 @@
     {
       "node_id": "node_1776068101829_8652",
       "name": "新路口",
-      "lon": 116.28361,
-      "lat": 40.156188,
+      "x": 116.28361,
+      "y": 40.156188,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -733,8 +746,8 @@
     {
       "node_id": "node_1776068128993_3852",
       "name": "新路口",
-      "lon": 116.284592,
-      "lat": 40.155171,
+      "x": 116.284592,
+      "y": 40.155171,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -742,8 +755,8 @@
     {
       "node_id": "node_1776068151946_3537",
       "name": "教学实验楼S1",
-      "lon": 116.287848,
-      "lat": 40.157787,
+      "x": 116.287848,
+      "y": 40.157787,
       "type": "toilet",
       "is_indoor": false,
       "indoor_info": {}
@@ -751,8 +764,8 @@
     {
       "node_id": "node_1776068156707_976",
       "name": "教学实验楼S2",
-      "lon": 116.288137,
-      "lat": 40.157319,
+      "x": 116.288137,
+      "y": 40.157319,
       "type": "toilet",
       "is_indoor": false,
       "indoor_info": {}
@@ -760,8 +773,8 @@
     {
       "node_id": "node_1776068159433_6472",
       "name": "教学实验楼S3",
-      "lon": 116.288588,
-      "lat": 40.156524,
+      "x": 116.288588,
+      "y": 40.156524,
       "type": "toilet",
       "is_indoor": false,
       "indoor_info": {}
@@ -769,8 +782,8 @@
     {
       "node_id": "node_1776068161804_6659",
       "name": "理学院楼",
-      "lon": 116.289028,
-      "lat": 40.155712,
+      "x": 116.289028,
+      "y": 40.155712,
       "type": "toilet",
       "is_indoor": false,
       "indoor_info": {}
@@ -778,8 +791,8 @@
     {
       "node_id": "node_1776068277875_3312",
       "name": "雁北园2",
-      "lon": 116.282102,
-      "lat": 40.158107,
+      "x": 116.282102,
+      "y": 40.158107,
       "type": "toilet",
       "is_indoor": false,
       "indoor_info": {}
@@ -787,8 +800,8 @@
     {
       "node_id": "node_1776068445199_6511",
       "name": "新路口",
-      "lon": 116.287998,
-      "lat": 40.158271,
+      "x": 116.287998,
+      "y": 40.158271,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -796,8 +809,8 @@
     {
       "node_id": "node_1776068618261_7745",
       "name": "沙河校医室",
-      "lon": 116.283599,
-      "lat": 40.158759,
+      "x": 116.283599,
+      "y": 40.158759,
       "type": "none",
       "is_indoor": false,
       "indoor_info": {}
@@ -805,8 +818,8 @@
     {
       "node_id": "node_1776068789904_7114",
       "name": "田径场",
-      "lon": 116.280155,
-      "lat": 40.15741,
+      "x": 116.280155,
+      "y": 40.15741,
       "type": "none",
       "is_indoor": false,
       "indoor_info": {}
@@ -814,8 +827,8 @@
     {
       "node_id": "node_1776068798728_3523",
       "name": "外卖柜",
-      "lon": 116.279104,
-      "lat": 40.155737,
+      "x": 116.279104,
+      "y": 40.155737,
       "type": "none",
       "is_indoor": false,
       "indoor_info": {}
@@ -823,8 +836,8 @@
     {
       "node_id": "node_1776068806192_2410",
       "name": "菜鸟驿站",
-      "lon": 116.278487,
-      "lat": 40.155971,
+      "x": 116.278487,
+      "y": 40.155971,
       "type": "none",
       "is_indoor": false,
       "indoor_info": {}
@@ -832,8 +845,8 @@
     {
       "node_id": "node_1776068815732_3162",
       "name": "新路口",
-      "lon": 116.278578,
-      "lat": 40.15579,
+      "x": 116.278578,
+      "y": 40.15579,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -841,8 +854,8 @@
     {
       "node_id": "node_1776068825736_6281",
       "name": "新路口",
-      "lon": 116.279061,
-      "lat": 40.155831,
+      "x": 116.279061,
+      "y": 40.155831,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -850,8 +863,8 @@
     {
       "node_id": "node_1776068846823_3748",
       "name": "校园西门",
-      "lon": 116.27795,
-      "lat": 40.155585,
+      "x": 116.27795,
+      "y": 40.155585,
       "type": "none",
       "is_indoor": false,
       "indoor_info": {}
@@ -859,8 +872,8 @@
     {
       "node_id": "node_1776069034045_2417",
       "name": "校园南门",
-      "lon": 116.286539,
-      "lat": 40.154261,
+      "x": 116.286539,
+      "y": 40.154261,
       "type": "sight_other",
       "is_indoor": false,
       "indoor_info": {}
@@ -868,8 +881,8 @@
     {
       "node_id": "node_1776069078820_6121",
       "name": "公共教学楼",
-      "lon": 116.284431,
-      "lat": 40.15645,
+      "x": 116.284431,
+      "y": 40.15645,
       "type": "toilet",
       "is_indoor": false,
       "indoor_info": {}
@@ -877,8 +890,8 @@
     {
       "node_id": "node_1776069081597_5585",
       "name": "教学楼南",
-      "lon": 116.286378,
-      "lat": 40.156852,
+      "x": 116.286378,
+      "y": 40.156852,
       "type": "toilet",
       "is_indoor": false,
       "indoor_info": {}
@@ -886,8 +899,8 @@
     {
       "node_id": "node_1776069083835_8063",
       "name": "教学楼北",
-      "lon": 116.28612,
-      "lat": 40.157344,
+      "x": 116.28612,
+      "y": 40.157344,
       "type": "toilet",
       "is_indoor": false,
       "indoor_info": {}
@@ -895,8 +908,8 @@
     {
       "node_id": "node_1776071242377_25",
       "name": "新路口",
-      "lon": 116.285927,
-      "lat": 40.157631,
+      "x": 116.285927,
+      "y": 40.157631,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -904,8 +917,8 @@
     {
       "node_id": "node_1776081420532_9412",
       "name": "新路口",
-      "lon": 116.285182,
-      "lat": 40.157106,
+      "x": 116.285182,
+      "y": 40.157106,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -913,8 +926,8 @@
     {
       "node_id": "node_1776081433490_2536",
       "name": "新路口",
-      "lon": 116.285407,
-      "lat": 40.156594,
+      "x": 116.285407,
+      "y": 40.156594,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -922,8 +935,8 @@
     {
       "node_id": "node_1776084420523_8697",
       "name": "新路口",
-      "lon": 116.284109,
-      "lat": 40.157155,
+      "x": 116.284109,
+      "y": 40.157155,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -931,8 +944,8 @@
     {
       "node_id": "node_1776084506608_2756",
       "name": "北邮之光信号塔",
-      "lon": 116.284361,
-      "lat": 40.15882,
+      "x": 116.284361,
+      "y": 40.15882,
       "type": "sight_other",
       "is_indoor": false,
       "indoor_info": {}
@@ -940,8 +953,8 @@
     {
       "node_id": "node_1776084576858_9977",
       "name": "新路口",
-      "lon": 116.286067,
-      "lat": 40.159259,
+      "x": 116.286067,
+      "y": 40.159259,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -949,8 +962,8 @@
     {
       "node_id": "node_1776084609914_9529",
       "name": "新路口",
-      "lon": 116.286437,
-      "lat": 40.158652,
+      "x": 116.286437,
+      "y": 40.158652,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -958,8 +971,8 @@
     {
       "node_id": "node_1776084654615_47",
       "name": "新路口",
-      "lon": 116.287107,
-      "lat": 40.158718,
+      "x": 116.287107,
+      "y": 40.158718,
       "type": "intersection",
       "is_indoor": false,
       "indoor_info": {}
@@ -1011,7 +1024,7 @@
       "is_stairs": false
     },
     {
-      "source_id": "poi_('relation', 12463933)",
+      "source_id": "poi_('reyion', 12463933)",
       "target_id": 10082060514,
       "length_meters": 5,
       "allows": [
@@ -1022,7 +1035,7 @@
       "is_stairs": false
     },
     {
-      "source_id": "poi_('relation', 12464003)",
+      "source_id": "poi_('reyion', 12464003)",
       "target_id": 8110987459,
       "length_meters": 5,
       "allows": [
@@ -1033,7 +1046,7 @@
       "is_stairs": false
     },
     {
-      "source_id": "poi_('relation', 12575678)",
+      "source_id": "poi_('reyion', 12575678)",
       "target_id": 8535810902,
       "length_meters": 5,
       "allows": [
@@ -1044,7 +1057,7 @@
       "is_stairs": false
     },
     {
-      "source_id": "poi_('relation', 12575710)",
+      "source_id": "poi_('reyion', 12575710)",
       "target_id": 12740928739,
       "length_meters": 5,
       "allows": [
@@ -1055,7 +1068,7 @@
       "is_stairs": false
     },
     {
-      "source_id": "poi_('relation', 18964523)",
+      "source_id": "poi_('reyion', 18964523)",
       "target_id": 12740928709,
       "length_meters": 5,
       "allows": [

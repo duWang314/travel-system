@@ -1,0 +1,6607 @@
+{
+  "map_name": "通用景区校园内部道路图",
+  "width": 1180,
+  "height": 720,
+  "description": "包含 220 个道路/服务节点和 414 条道路边，所有目的地均可复用该内部图，符合题目中景区和校园内部可以一致的要求。",
+  "nodes": [
+    {
+      "node_id": "u001",
+      "name": "景观节点001",
+      "x": 80,
+      "y": 80,
+      "type": "landmark",
+      "description": "通用旅游道路图中的景观节点001，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u002",
+      "name": "景观节点002",
+      "x": 132,
+      "y": 80,
+      "type": "viewpoint",
+      "description": "通用旅游道路图中的景观节点002，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u003",
+      "name": "景观节点003",
+      "x": 184,
+      "y": 80,
+      "type": "museum",
+      "description": "通用旅游道路图中的景观节点003，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u004",
+      "name": "便利超市004",
+      "x": 236,
+      "y": 80,
+      "type": "supermarket",
+      "description": "通用旅游道路图中的便利超市004，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u005",
+      "name": "景观节点005",
+      "x": 288,
+      "y": 80,
+      "type": "lake",
+      "description": "通用旅游道路图中的景观节点005，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u006",
+      "name": "景观节点006",
+      "x": 340,
+      "y": 80,
+      "type": "square",
+      "description": "通用旅游道路图中的景观节点006，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u007",
+      "name": "景观节点007",
+      "x": 392,
+      "y": 80,
+      "type": "classroom",
+      "description": "通用旅游道路图中的景观节点007，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u008",
+      "name": "中餐厅008",
+      "x": 444,
+      "y": 80,
+      "type": "restaurant_cn",
+      "description": "通用旅游道路图中的中餐厅008，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u009",
+      "name": "景观节点009",
+      "x": 496,
+      "y": 80,
+      "type": "lab",
+      "description": "通用旅游道路图中的景观节点009，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u010",
+      "name": "景观节点010",
+      "x": 548,
+      "y": 80,
+      "type": "gate",
+      "description": "通用旅游道路图中的景观节点010，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u011",
+      "name": "景观节点011",
+      "x": 600,
+      "y": 80,
+      "type": "landmark",
+      "description": "通用旅游道路图中的景观节点011，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u012",
+      "name": "西餐厅012",
+      "x": 652,
+      "y": 80,
+      "type": "restaurant_we",
+      "description": "通用旅游道路图中的西餐厅012，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u013",
+      "name": "景观节点013",
+      "x": 704,
+      "y": 80,
+      "type": "museum",
+      "description": "通用旅游道路图中的景观节点013，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u014",
+      "name": "景观节点014",
+      "x": 756,
+      "y": 80,
+      "type": "garden",
+      "description": "通用旅游道路图中的景观节点014，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u015",
+      "name": "景观节点015",
+      "x": 808,
+      "y": 80,
+      "type": "lake",
+      "description": "通用旅游道路图中的景观节点015，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u016",
+      "name": "咖啡休息区016",
+      "x": 860,
+      "y": 80,
+      "type": "coffee",
+      "description": "通用旅游道路图中的咖啡休息区016，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u017",
+      "name": "景观节点017",
+      "x": 912,
+      "y": 80,
+      "type": "classroom",
+      "description": "通用旅游道路图中的景观节点017，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u018",
+      "name": "景观节点018",
+      "x": 964,
+      "y": 80,
+      "type": "dorm",
+      "description": "通用旅游道路图中的景观节点018，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u019",
+      "name": "景观节点019",
+      "x": 1016,
+      "y": 80,
+      "type": "lab",
+      "description": "通用旅游道路图中的景观节点019，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u020",
+      "name": "文创商店020",
+      "x": 1068,
+      "y": 80,
+      "type": "shop",
+      "description": "通用旅游道路图中的文创商店020，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u021",
+      "name": "景观节点021",
+      "x": 92,
+      "y": 132,
+      "type": "landmark",
+      "description": "通用旅游道路图中的景观节点021，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u022",
+      "name": "景观节点022",
+      "x": 144,
+      "y": 132,
+      "type": "viewpoint",
+      "description": "通用旅游道路图中的景观节点022，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u023",
+      "name": "景观节点023",
+      "x": 196,
+      "y": 132,
+      "type": "museum",
+      "description": "通用旅游道路图中的景观节点023，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u024",
+      "name": "游客阅读区024",
+      "x": 248,
+      "y": 132,
+      "type": "library",
+      "description": "通用旅游道路图中的游客阅读区024，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u025",
+      "name": "景观节点025",
+      "x": 300,
+      "y": 132,
+      "type": "lake",
+      "description": "通用旅游道路图中的景观节点025，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u026",
+      "name": "景观节点026",
+      "x": 352,
+      "y": 132,
+      "type": "square",
+      "description": "通用旅游道路图中的景观节点026，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u027",
+      "name": "景观节点027",
+      "x": 404,
+      "y": 132,
+      "type": "classroom",
+      "description": "通用旅游道路图中的景观节点027，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u028",
+      "name": "校园食堂028",
+      "x": 456,
+      "y": 132,
+      "type": "canteen",
+      "description": "通用旅游道路图中的校园食堂028，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u029",
+      "name": "景观节点029",
+      "x": 508,
+      "y": 132,
+      "type": "lab",
+      "description": "通用旅游道路图中的景观节点029，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u030",
+      "name": "景观节点030",
+      "x": 560,
+      "y": 132,
+      "type": "gate",
+      "description": "通用旅游道路图中的景观节点030，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u031",
+      "name": "景观节点031",
+      "x": 612,
+      "y": 132,
+      "type": "landmark",
+      "description": "通用旅游道路图中的景观节点031，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u032",
+      "name": "公共卫生间032",
+      "x": 664,
+      "y": 132,
+      "type": "toilet",
+      "description": "通用旅游道路图中的公共卫生间032，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u033",
+      "name": "景观节点033",
+      "x": 716,
+      "y": 132,
+      "type": "museum",
+      "description": "通用旅游道路图中的景观节点033，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u034",
+      "name": "景观节点034",
+      "x": 768,
+      "y": 132,
+      "type": "garden",
+      "description": "通用旅游道路图中的景观节点034，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u035",
+      "name": "景观节点035",
+      "x": 820,
+      "y": 132,
+      "type": "lake",
+      "description": "通用旅游道路图中的景观节点035，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u036",
+      "name": "便利超市036",
+      "x": 872,
+      "y": 132,
+      "type": "supermarket",
+      "description": "通用旅游道路图中的便利超市036，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u037",
+      "name": "景观节点037",
+      "x": 924,
+      "y": 132,
+      "type": "classroom",
+      "description": "通用旅游道路图中的景观节点037，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u038",
+      "name": "景观节点038",
+      "x": 976,
+      "y": 132,
+      "type": "dorm",
+      "description": "通用旅游道路图中的景观节点038，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u039",
+      "name": "景观节点039",
+      "x": 1028,
+      "y": 132,
+      "type": "lab",
+      "description": "通用旅游道路图中的景观节点039，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u040",
+      "name": "中餐厅040",
+      "x": 1080,
+      "y": 132,
+      "type": "restaurant_cn",
+      "description": "通用旅游道路图中的中餐厅040，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u041",
+      "name": "景观节点041",
+      "x": 80,
+      "y": 184,
+      "type": "landmark",
+      "description": "通用旅游道路图中的景观节点041，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u042",
+      "name": "景观节点042",
+      "x": 132,
+      "y": 184,
+      "type": "viewpoint",
+      "description": "通用旅游道路图中的景观节点042，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u043",
+      "name": "景观节点043",
+      "x": 184,
+      "y": 184,
+      "type": "museum",
+      "description": "通用旅游道路图中的景观节点043，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u044",
+      "name": "西餐厅044",
+      "x": 236,
+      "y": 184,
+      "type": "restaurant_we",
+      "description": "通用旅游道路图中的西餐厅044，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u045",
+      "name": "景观节点045",
+      "x": 288,
+      "y": 184,
+      "type": "lake",
+      "description": "通用旅游道路图中的景观节点045，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u046",
+      "name": "景观节点046",
+      "x": 340,
+      "y": 184,
+      "type": "square",
+      "description": "通用旅游道路图中的景观节点046，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u047",
+      "name": "景观节点047",
+      "x": 392,
+      "y": 184,
+      "type": "classroom",
+      "description": "通用旅游道路图中的景观节点047，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u048",
+      "name": "咖啡休息区048",
+      "x": 444,
+      "y": 184,
+      "type": "coffee",
+      "description": "通用旅游道路图中的咖啡休息区048，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u049",
+      "name": "景观节点049",
+      "x": 496,
+      "y": 184,
+      "type": "lab",
+      "description": "通用旅游道路图中的景观节点049，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u050",
+      "name": "景观节点050",
+      "x": 548,
+      "y": 184,
+      "type": "gate",
+      "description": "通用旅游道路图中的景观节点050，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u051",
+      "name": "景观节点051",
+      "x": 600,
+      "y": 184,
+      "type": "landmark",
+      "description": "通用旅游道路图中的景观节点051，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u052",
+      "name": "文创商店052",
+      "x": 652,
+      "y": 184,
+      "type": "shop",
+      "description": "通用旅游道路图中的文创商店052，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u053",
+      "name": "景观节点053",
+      "x": 704,
+      "y": 184,
+      "type": "museum",
+      "description": "通用旅游道路图中的景观节点053，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u054",
+      "name": "景观节点054",
+      "x": 756,
+      "y": 184,
+      "type": "garden",
+      "description": "通用旅游道路图中的景观节点054，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u055",
+      "name": "景观节点055",
+      "x": 808,
+      "y": 184,
+      "type": "lake",
+      "description": "通用旅游道路图中的景观节点055，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u056",
+      "name": "游客阅读区056",
+      "x": 860,
+      "y": 184,
+      "type": "library",
+      "description": "通用旅游道路图中的游客阅读区056，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u057",
+      "name": "景观节点057",
+      "x": 912,
+      "y": 184,
+      "type": "classroom",
+      "description": "通用旅游道路图中的景观节点057，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u058",
+      "name": "景观节点058",
+      "x": 964,
+      "y": 184,
+      "type": "dorm",
+      "description": "通用旅游道路图中的景观节点058，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u059",
+      "name": "景观节点059",
+      "x": 1016,
+      "y": 184,
+      "type": "lab",
+      "description": "通用旅游道路图中的景观节点059，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u060",
+      "name": "校园食堂060",
+      "x": 1068,
+      "y": 184,
+      "type": "canteen",
+      "description": "通用旅游道路图中的校园食堂060，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u061",
+      "name": "景观节点061",
+      "x": 92,
+      "y": 236,
+      "type": "landmark",
+      "description": "通用旅游道路图中的景观节点061，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u062",
+      "name": "景观节点062",
+      "x": 144,
+      "y": 236,
+      "type": "viewpoint",
+      "description": "通用旅游道路图中的景观节点062，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u063",
+      "name": "景观节点063",
+      "x": 196,
+      "y": 236,
+      "type": "museum",
+      "description": "通用旅游道路图中的景观节点063，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u064",
+      "name": "公共卫生间064",
+      "x": 248,
+      "y": 236,
+      "type": "toilet",
+      "description": "通用旅游道路图中的公共卫生间064，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u065",
+      "name": "景观节点065",
+      "x": 300,
+      "y": 236,
+      "type": "lake",
+      "description": "通用旅游道路图中的景观节点065，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u066",
+      "name": "景观节点066",
+      "x": 352,
+      "y": 236,
+      "type": "square",
+      "description": "通用旅游道路图中的景观节点066，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u067",
+      "name": "景观节点067",
+      "x": 404,
+      "y": 236,
+      "type": "classroom",
+      "description": "通用旅游道路图中的景观节点067，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u068",
+      "name": "便利超市068",
+      "x": 456,
+      "y": 236,
+      "type": "supermarket",
+      "description": "通用旅游道路图中的便利超市068，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u069",
+      "name": "景观节点069",
+      "x": 508,
+      "y": 236,
+      "type": "lab",
+      "description": "通用旅游道路图中的景观节点069，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u070",
+      "name": "景观节点070",
+      "x": 560,
+      "y": 236,
+      "type": "gate",
+      "description": "通用旅游道路图中的景观节点070，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u071",
+      "name": "景观节点071",
+      "x": 612,
+      "y": 236,
+      "type": "landmark",
+      "description": "通用旅游道路图中的景观节点071，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u072",
+      "name": "中餐厅072",
+      "x": 664,
+      "y": 236,
+      "type": "restaurant_cn",
+      "description": "通用旅游道路图中的中餐厅072，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u073",
+      "name": "景观节点073",
+      "x": 716,
+      "y": 236,
+      "type": "museum",
+      "description": "通用旅游道路图中的景观节点073，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u074",
+      "name": "景观节点074",
+      "x": 768,
+      "y": 236,
+      "type": "garden",
+      "description": "通用旅游道路图中的景观节点074，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u075",
+      "name": "景观节点075",
+      "x": 820,
+      "y": 236,
+      "type": "lake",
+      "description": "通用旅游道路图中的景观节点075，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u076",
+      "name": "西餐厅076",
+      "x": 872,
+      "y": 236,
+      "type": "restaurant_we",
+      "description": "通用旅游道路图中的西餐厅076，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u077",
+      "name": "景观节点077",
+      "x": 924,
+      "y": 236,
+      "type": "classroom",
+      "description": "通用旅游道路图中的景观节点077，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u078",
+      "name": "景观节点078",
+      "x": 976,
+      "y": 236,
+      "type": "dorm",
+      "description": "通用旅游道路图中的景观节点078，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u079",
+      "name": "景观节点079",
+      "x": 1028,
+      "y": 236,
+      "type": "lab",
+      "description": "通用旅游道路图中的景观节点079，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u080",
+      "name": "咖啡休息区080",
+      "x": 1080,
+      "y": 236,
+      "type": "coffee",
+      "description": "通用旅游道路图中的咖啡休息区080，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u081",
+      "name": "景观节点081",
+      "x": 80,
+      "y": 288,
+      "type": "landmark",
+      "description": "通用旅游道路图中的景观节点081，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u082",
+      "name": "景观节点082",
+      "x": 132,
+      "y": 288,
+      "type": "viewpoint",
+      "description": "通用旅游道路图中的景观节点082，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u083",
+      "name": "景观节点083",
+      "x": 184,
+      "y": 288,
+      "type": "museum",
+      "description": "通用旅游道路图中的景观节点083，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u084",
+      "name": "文创商店084",
+      "x": 236,
+      "y": 288,
+      "type": "shop",
+      "description": "通用旅游道路图中的文创商店084，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u085",
+      "name": "景观节点085",
+      "x": 288,
+      "y": 288,
+      "type": "lake",
+      "description": "通用旅游道路图中的景观节点085，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u086",
+      "name": "景观节点086",
+      "x": 340,
+      "y": 288,
+      "type": "square",
+      "description": "通用旅游道路图中的景观节点086，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u087",
+      "name": "景观节点087",
+      "x": 392,
+      "y": 288,
+      "type": "classroom",
+      "description": "通用旅游道路图中的景观节点087，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u088",
+      "name": "游客阅读区088",
+      "x": 444,
+      "y": 288,
+      "type": "library",
+      "description": "通用旅游道路图中的游客阅读区088，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u089",
+      "name": "景观节点089",
+      "x": 496,
+      "y": 288,
+      "type": "lab",
+      "description": "通用旅游道路图中的景观节点089，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u090",
+      "name": "景观节点090",
+      "x": 548,
+      "y": 288,
+      "type": "gate",
+      "description": "通用旅游道路图中的景观节点090，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u091",
+      "name": "景观节点091",
+      "x": 600,
+      "y": 288,
+      "type": "landmark",
+      "description": "通用旅游道路图中的景观节点091，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u092",
+      "name": "校园食堂092",
+      "x": 652,
+      "y": 288,
+      "type": "canteen",
+      "description": "通用旅游道路图中的校园食堂092，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u093",
+      "name": "景观节点093",
+      "x": 704,
+      "y": 288,
+      "type": "museum",
+      "description": "通用旅游道路图中的景观节点093，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u094",
+      "name": "景观节点094",
+      "x": 756,
+      "y": 288,
+      "type": "garden",
+      "description": "通用旅游道路图中的景观节点094，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u095",
+      "name": "景观节点095",
+      "x": 808,
+      "y": 288,
+      "type": "lake",
+      "description": "通用旅游道路图中的景观节点095，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u096",
+      "name": "公共卫生间096",
+      "x": 860,
+      "y": 288,
+      "type": "toilet",
+      "description": "通用旅游道路图中的公共卫生间096，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u097",
+      "name": "景观节点097",
+      "x": 912,
+      "y": 288,
+      "type": "classroom",
+      "description": "通用旅游道路图中的景观节点097，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u098",
+      "name": "景观节点098",
+      "x": 964,
+      "y": 288,
+      "type": "dorm",
+      "description": "通用旅游道路图中的景观节点098，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u099",
+      "name": "景观节点099",
+      "x": 1016,
+      "y": 288,
+      "type": "lab",
+      "description": "通用旅游道路图中的景观节点099，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u100",
+      "name": "便利超市100",
+      "x": 1068,
+      "y": 288,
+      "type": "supermarket",
+      "description": "通用旅游道路图中的便利超市100，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u101",
+      "name": "景观节点101",
+      "x": 92,
+      "y": 340,
+      "type": "landmark",
+      "description": "通用旅游道路图中的景观节点101，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u102",
+      "name": "景观节点102",
+      "x": 144,
+      "y": 340,
+      "type": "viewpoint",
+      "description": "通用旅游道路图中的景观节点102，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u103",
+      "name": "景观节点103",
+      "x": 196,
+      "y": 340,
+      "type": "museum",
+      "description": "通用旅游道路图中的景观节点103，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u104",
+      "name": "中餐厅104",
+      "x": 248,
+      "y": 340,
+      "type": "restaurant_cn",
+      "description": "通用旅游道路图中的中餐厅104，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u105",
+      "name": "景观节点105",
+      "x": 300,
+      "y": 340,
+      "type": "lake",
+      "description": "通用旅游道路图中的景观节点105，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u106",
+      "name": "景观节点106",
+      "x": 352,
+      "y": 340,
+      "type": "square",
+      "description": "通用旅游道路图中的景观节点106，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u107",
+      "name": "景观节点107",
+      "x": 404,
+      "y": 340,
+      "type": "classroom",
+      "description": "通用旅游道路图中的景观节点107，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u108",
+      "name": "西餐厅108",
+      "x": 456,
+      "y": 340,
+      "type": "restaurant_we",
+      "description": "通用旅游道路图中的西餐厅108，用于路线规划、设施查询与算法演示。",
+      "is_indoor": true,
+      "indoor_building_id": "public_teaching_building"
+    },
+    {
+      "node_id": "u109",
+      "name": "景观节点109",
+      "x": 508,
+      "y": 340,
+      "type": "lab",
+      "description": "通用旅游道路图中的景观节点109，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u110",
+      "name": "景观节点110",
+      "x": 560,
+      "y": 340,
+      "type": "gate",
+      "description": "通用旅游道路图中的景观节点110，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u111",
+      "name": "景观节点111",
+      "x": 612,
+      "y": 340,
+      "type": "landmark",
+      "description": "通用旅游道路图中的景观节点111，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u112",
+      "name": "咖啡休息区112",
+      "x": 664,
+      "y": 340,
+      "type": "coffee",
+      "description": "通用旅游道路图中的咖啡休息区112，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u113",
+      "name": "景观节点113",
+      "x": 716,
+      "y": 340,
+      "type": "museum",
+      "description": "通用旅游道路图中的景观节点113，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u114",
+      "name": "景观节点114",
+      "x": 768,
+      "y": 340,
+      "type": "garden",
+      "description": "通用旅游道路图中的景观节点114，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u115",
+      "name": "景观节点115",
+      "x": 820,
+      "y": 340,
+      "type": "lake",
+      "description": "通用旅游道路图中的景观节点115，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u116",
+      "name": "文创商店116",
+      "x": 872,
+      "y": 340,
+      "type": "shop",
+      "description": "通用旅游道路图中的文创商店116，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u117",
+      "name": "景观节点117",
+      "x": 924,
+      "y": 340,
+      "type": "classroom",
+      "description": "通用旅游道路图中的景观节点117，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u118",
+      "name": "景观节点118",
+      "x": 976,
+      "y": 340,
+      "type": "dorm",
+      "description": "通用旅游道路图中的景观节点118，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u119",
+      "name": "景观节点119",
+      "x": 1028,
+      "y": 340,
+      "type": "lab",
+      "description": "通用旅游道路图中的景观节点119，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u120",
+      "name": "游客阅读区120",
+      "x": 1080,
+      "y": 340,
+      "type": "library",
+      "description": "通用旅游道路图中的游客阅读区120，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u121",
+      "name": "景观节点121",
+      "x": 80,
+      "y": 392,
+      "type": "landmark",
+      "description": "通用旅游道路图中的景观节点121，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u122",
+      "name": "景观节点122",
+      "x": 132,
+      "y": 392,
+      "type": "viewpoint",
+      "description": "通用旅游道路图中的景观节点122，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u123",
+      "name": "景观节点123",
+      "x": 184,
+      "y": 392,
+      "type": "museum",
+      "description": "通用旅游道路图中的景观节点123，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u124",
+      "name": "校园食堂124",
+      "x": 236,
+      "y": 392,
+      "type": "canteen",
+      "description": "通用旅游道路图中的校园食堂124，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u125",
+      "name": "景观节点125",
+      "x": 288,
+      "y": 392,
+      "type": "lake",
+      "description": "通用旅游道路图中的景观节点125，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u126",
+      "name": "景观节点126",
+      "x": 340,
+      "y": 392,
+      "type": "square",
+      "description": "通用旅游道路图中的景观节点126，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u127",
+      "name": "景观节点127",
+      "x": 392,
+      "y": 392,
+      "type": "classroom",
+      "description": "通用旅游道路图中的景观节点127，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u128",
+      "name": "公共卫生间128",
+      "x": 444,
+      "y": 392,
+      "type": "toilet",
+      "description": "通用旅游道路图中的公共卫生间128，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u129",
+      "name": "景观节点129",
+      "x": 496,
+      "y": 392,
+      "type": "lab",
+      "description": "通用旅游道路图中的景观节点129，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u130",
+      "name": "景观节点130",
+      "x": 548,
+      "y": 392,
+      "type": "gate",
+      "description": "通用旅游道路图中的景观节点130，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u131",
+      "name": "景观节点131",
+      "x": 600,
+      "y": 392,
+      "type": "landmark",
+      "description": "通用旅游道路图中的景观节点131，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u132",
+      "name": "便利超市132",
+      "x": 652,
+      "y": 392,
+      "type": "supermarket",
+      "description": "通用旅游道路图中的便利超市132，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u133",
+      "name": "景观节点133",
+      "x": 704,
+      "y": 392,
+      "type": "museum",
+      "description": "通用旅游道路图中的景观节点133，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u134",
+      "name": "景观节点134",
+      "x": 756,
+      "y": 392,
+      "type": "garden",
+      "description": "通用旅游道路图中的景观节点134，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u135",
+      "name": "景观节点135",
+      "x": 808,
+      "y": 392,
+      "type": "lake",
+      "description": "通用旅游道路图中的景观节点135，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u136",
+      "name": "中餐厅136",
+      "x": 860,
+      "y": 392,
+      "type": "restaurant_cn",
+      "description": "通用旅游道路图中的中餐厅136，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u137",
+      "name": "景观节点137",
+      "x": 912,
+      "y": 392,
+      "type": "classroom",
+      "description": "通用旅游道路图中的景观节点137，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u138",
+      "name": "景观节点138",
+      "x": 964,
+      "y": 392,
+      "type": "dorm",
+      "description": "通用旅游道路图中的景观节点138，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u139",
+      "name": "景观节点139",
+      "x": 1016,
+      "y": 392,
+      "type": "lab",
+      "description": "通用旅游道路图中的景观节点139，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u140",
+      "name": "西餐厅140",
+      "x": 1068,
+      "y": 392,
+      "type": "restaurant_we",
+      "description": "通用旅游道路图中的西餐厅140，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u141",
+      "name": "景观节点141",
+      "x": 92,
+      "y": 444,
+      "type": "landmark",
+      "description": "通用旅游道路图中的景观节点141，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u142",
+      "name": "景观节点142",
+      "x": 144,
+      "y": 444,
+      "type": "viewpoint",
+      "description": "通用旅游道路图中的景观节点142，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u143",
+      "name": "景观节点143",
+      "x": 196,
+      "y": 444,
+      "type": "museum",
+      "description": "通用旅游道路图中的景观节点143，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u144",
+      "name": "咖啡休息区144",
+      "x": 248,
+      "y": 444,
+      "type": "coffee",
+      "description": "通用旅游道路图中的咖啡休息区144，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u145",
+      "name": "景观节点145",
+      "x": 300,
+      "y": 444,
+      "type": "lake",
+      "description": "通用旅游道路图中的景观节点145，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u146",
+      "name": "景观节点146",
+      "x": 352,
+      "y": 444,
+      "type": "square",
+      "description": "通用旅游道路图中的景观节点146，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u147",
+      "name": "景观节点147",
+      "x": 404,
+      "y": 444,
+      "type": "classroom",
+      "description": "通用旅游道路图中的景观节点147，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u148",
+      "name": "文创商店148",
+      "x": 456,
+      "y": 444,
+      "type": "shop",
+      "description": "通用旅游道路图中的文创商店148，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u149",
+      "name": "景观节点149",
+      "x": 508,
+      "y": 444,
+      "type": "lab",
+      "description": "通用旅游道路图中的景观节点149，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u150",
+      "name": "景观节点150",
+      "x": 560,
+      "y": 444,
+      "type": "gate",
+      "description": "通用旅游道路图中的景观节点150，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u151",
+      "name": "景观节点151",
+      "x": 612,
+      "y": 444,
+      "type": "landmark",
+      "description": "通用旅游道路图中的景观节点151，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u152",
+      "name": "游客阅读区152",
+      "x": 664,
+      "y": 444,
+      "type": "library",
+      "description": "通用旅游道路图中的游客阅读区152，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u153",
+      "name": "景观节点153",
+      "x": 716,
+      "y": 444,
+      "type": "museum",
+      "description": "通用旅游道路图中的景观节点153，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u154",
+      "name": "景观节点154",
+      "x": 768,
+      "y": 444,
+      "type": "garden",
+      "description": "通用旅游道路图中的景观节点154，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u155",
+      "name": "景观节点155",
+      "x": 820,
+      "y": 444,
+      "type": "lake",
+      "description": "通用旅游道路图中的景观节点155，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u156",
+      "name": "校园食堂156",
+      "x": 872,
+      "y": 444,
+      "type": "canteen",
+      "description": "通用旅游道路图中的校园食堂156，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u157",
+      "name": "景观节点157",
+      "x": 924,
+      "y": 444,
+      "type": "classroom",
+      "description": "通用旅游道路图中的景观节点157，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u158",
+      "name": "景观节点158",
+      "x": 976,
+      "y": 444,
+      "type": "dorm",
+      "description": "通用旅游道路图中的景观节点158，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u159",
+      "name": "景观节点159",
+      "x": 1028,
+      "y": 444,
+      "type": "lab",
+      "description": "通用旅游道路图中的景观节点159，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u160",
+      "name": "公共卫生间160",
+      "x": 1080,
+      "y": 444,
+      "type": "toilet",
+      "description": "通用旅游道路图中的公共卫生间160，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u161",
+      "name": "景观节点161",
+      "x": 80,
+      "y": 496,
+      "type": "landmark",
+      "description": "通用旅游道路图中的景观节点161，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u162",
+      "name": "景观节点162",
+      "x": 132,
+      "y": 496,
+      "type": "viewpoint",
+      "description": "通用旅游道路图中的景观节点162，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u163",
+      "name": "景观节点163",
+      "x": 184,
+      "y": 496,
+      "type": "museum",
+      "description": "通用旅游道路图中的景观节点163，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u164",
+      "name": "便利超市164",
+      "x": 236,
+      "y": 496,
+      "type": "supermarket",
+      "description": "通用旅游道路图中的便利超市164，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u165",
+      "name": "景观节点165",
+      "x": 288,
+      "y": 496,
+      "type": "lake",
+      "description": "通用旅游道路图中的景观节点165，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u166",
+      "name": "景观节点166",
+      "x": 340,
+      "y": 496,
+      "type": "square",
+      "description": "通用旅游道路图中的景观节点166，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u167",
+      "name": "景观节点167",
+      "x": 392,
+      "y": 496,
+      "type": "classroom",
+      "description": "通用旅游道路图中的景观节点167，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u168",
+      "name": "中餐厅168",
+      "x": 444,
+      "y": 496,
+      "type": "restaurant_cn",
+      "description": "通用旅游道路图中的中餐厅168，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u169",
+      "name": "景观节点169",
+      "x": 496,
+      "y": 496,
+      "type": "lab",
+      "description": "通用旅游道路图中的景观节点169，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u170",
+      "name": "景观节点170",
+      "x": 548,
+      "y": 496,
+      "type": "gate",
+      "description": "通用旅游道路图中的景观节点170，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u171",
+      "name": "景观节点171",
+      "x": 600,
+      "y": 496,
+      "type": "landmark",
+      "description": "通用旅游道路图中的景观节点171，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u172",
+      "name": "西餐厅172",
+      "x": 652,
+      "y": 496,
+      "type": "restaurant_we",
+      "description": "通用旅游道路图中的西餐厅172，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u173",
+      "name": "景观节点173",
+      "x": 704,
+      "y": 496,
+      "type": "museum",
+      "description": "通用旅游道路图中的景观节点173，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u174",
+      "name": "景观节点174",
+      "x": 756,
+      "y": 496,
+      "type": "garden",
+      "description": "通用旅游道路图中的景观节点174，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u175",
+      "name": "景观节点175",
+      "x": 808,
+      "y": 496,
+      "type": "lake",
+      "description": "通用旅游道路图中的景观节点175，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u176",
+      "name": "咖啡休息区176",
+      "x": 860,
+      "y": 496,
+      "type": "coffee",
+      "description": "通用旅游道路图中的咖啡休息区176，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u177",
+      "name": "景观节点177",
+      "x": 912,
+      "y": 496,
+      "type": "classroom",
+      "description": "通用旅游道路图中的景观节点177，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u178",
+      "name": "景观节点178",
+      "x": 964,
+      "y": 496,
+      "type": "dorm",
+      "description": "通用旅游道路图中的景观节点178，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u179",
+      "name": "景观节点179",
+      "x": 1016,
+      "y": 496,
+      "type": "lab",
+      "description": "通用旅游道路图中的景观节点179，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u180",
+      "name": "文创商店180",
+      "x": 1068,
+      "y": 496,
+      "type": "shop",
+      "description": "通用旅游道路图中的文创商店180，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u181",
+      "name": "景观节点181",
+      "x": 92,
+      "y": 548,
+      "type": "landmark",
+      "description": "通用旅游道路图中的景观节点181，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u182",
+      "name": "景观节点182",
+      "x": 144,
+      "y": 548,
+      "type": "viewpoint",
+      "description": "通用旅游道路图中的景观节点182，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u183",
+      "name": "景观节点183",
+      "x": 196,
+      "y": 548,
+      "type": "museum",
+      "description": "通用旅游道路图中的景观节点183，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u184",
+      "name": "游客阅读区184",
+      "x": 248,
+      "y": 548,
+      "type": "library",
+      "description": "通用旅游道路图中的游客阅读区184，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u185",
+      "name": "景观节点185",
+      "x": 300,
+      "y": 548,
+      "type": "lake",
+      "description": "通用旅游道路图中的景观节点185，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u186",
+      "name": "景观节点186",
+      "x": 352,
+      "y": 548,
+      "type": "square",
+      "description": "通用旅游道路图中的景观节点186，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u187",
+      "name": "景观节点187",
+      "x": 404,
+      "y": 548,
+      "type": "classroom",
+      "description": "通用旅游道路图中的景观节点187，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u188",
+      "name": "校园食堂188",
+      "x": 456,
+      "y": 548,
+      "type": "canteen",
+      "description": "通用旅游道路图中的校园食堂188，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u189",
+      "name": "景观节点189",
+      "x": 508,
+      "y": 548,
+      "type": "lab",
+      "description": "通用旅游道路图中的景观节点189，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u190",
+      "name": "景观节点190",
+      "x": 560,
+      "y": 548,
+      "type": "gate",
+      "description": "通用旅游道路图中的景观节点190，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u191",
+      "name": "景观节点191",
+      "x": 612,
+      "y": 548,
+      "type": "landmark",
+      "description": "通用旅游道路图中的景观节点191，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u192",
+      "name": "公共卫生间192",
+      "x": 664,
+      "y": 548,
+      "type": "toilet",
+      "description": "通用旅游道路图中的公共卫生间192，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u193",
+      "name": "景观节点193",
+      "x": 716,
+      "y": 548,
+      "type": "museum",
+      "description": "通用旅游道路图中的景观节点193，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u194",
+      "name": "景观节点194",
+      "x": 768,
+      "y": 548,
+      "type": "garden",
+      "description": "通用旅游道路图中的景观节点194，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u195",
+      "name": "景观节点195",
+      "x": 820,
+      "y": 548,
+      "type": "lake",
+      "description": "通用旅游道路图中的景观节点195，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u196",
+      "name": "便利超市196",
+      "x": 872,
+      "y": 548,
+      "type": "supermarket",
+      "description": "通用旅游道路图中的便利超市196，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u197",
+      "name": "景观节点197",
+      "x": 924,
+      "y": 548,
+      "type": "classroom",
+      "description": "通用旅游道路图中的景观节点197，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u198",
+      "name": "景观节点198",
+      "x": 976,
+      "y": 548,
+      "type": "dorm",
+      "description": "通用旅游道路图中的景观节点198，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u199",
+      "name": "景观节点199",
+      "x": 1028,
+      "y": 548,
+      "type": "lab",
+      "description": "通用旅游道路图中的景观节点199，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u200",
+      "name": "中餐厅200",
+      "x": 1080,
+      "y": 548,
+      "type": "restaurant_cn",
+      "description": "通用旅游道路图中的中餐厅200，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u201",
+      "name": "景观节点201",
+      "x": 80,
+      "y": 600,
+      "type": "landmark",
+      "description": "通用旅游道路图中的景观节点201，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u202",
+      "name": "景观节点202",
+      "x": 132,
+      "y": 600,
+      "type": "viewpoint",
+      "description": "通用旅游道路图中的景观节点202，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u203",
+      "name": "景观节点203",
+      "x": 184,
+      "y": 600,
+      "type": "museum",
+      "description": "通用旅游道路图中的景观节点203，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u204",
+      "name": "西餐厅204",
+      "x": 236,
+      "y": 600,
+      "type": "restaurant_we",
+      "description": "通用旅游道路图中的西餐厅204，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u205",
+      "name": "景观节点205",
+      "x": 288,
+      "y": 600,
+      "type": "lake",
+      "description": "通用旅游道路图中的景观节点205，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u206",
+      "name": "景观节点206",
+      "x": 340,
+      "y": 600,
+      "type": "square",
+      "description": "通用旅游道路图中的景观节点206，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u207",
+      "name": "景观节点207",
+      "x": 392,
+      "y": 600,
+      "type": "classroom",
+      "description": "通用旅游道路图中的景观节点207，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u208",
+      "name": "咖啡休息区208",
+      "x": 444,
+      "y": 600,
+      "type": "coffee",
+      "description": "通用旅游道路图中的咖啡休息区208，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u209",
+      "name": "景观节点209",
+      "x": 496,
+      "y": 600,
+      "type": "lab",
+      "description": "通用旅游道路图中的景观节点209，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u210",
+      "name": "景观节点210",
+      "x": 548,
+      "y": 600,
+      "type": "gate",
+      "description": "通用旅游道路图中的景观节点210，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u211",
+      "name": "景观节点211",
+      "x": 600,
+      "y": 600,
+      "type": "landmark",
+      "description": "通用旅游道路图中的景观节点211，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u212",
+      "name": "文创商店212",
+      "x": 652,
+      "y": 600,
+      "type": "shop",
+      "description": "通用旅游道路图中的文创商店212，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u213",
+      "name": "景观节点213",
+      "x": 704,
+      "y": 600,
+      "type": "museum",
+      "description": "通用旅游道路图中的景观节点213，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u214",
+      "name": "景观节点214",
+      "x": 756,
+      "y": 600,
+      "type": "garden",
+      "description": "通用旅游道路图中的景观节点214，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u215",
+      "name": "景观节点215",
+      "x": 808,
+      "y": 600,
+      "type": "lake",
+      "description": "通用旅游道路图中的景观节点215，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u216",
+      "name": "游客阅读区216",
+      "x": 860,
+      "y": 600,
+      "type": "library",
+      "description": "通用旅游道路图中的游客阅读区216，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u217",
+      "name": "景观节点217",
+      "x": 912,
+      "y": 600,
+      "type": "classroom",
+      "description": "通用旅游道路图中的景观节点217，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u218",
+      "name": "景观节点218",
+      "x": 964,
+      "y": 600,
+      "type": "dorm",
+      "description": "通用旅游道路图中的景观节点218，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u219",
+      "name": "景观节点219",
+      "x": 1016,
+      "y": 600,
+      "type": "lab",
+      "description": "通用旅游道路图中的景观节点219，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    },
+    {
+      "node_id": "u220",
+      "name": "校园食堂220",
+      "x": 1068,
+      "y": 600,
+      "type": "canteen",
+      "description": "通用旅游道路图中的校园食堂220，用于路线规划、设施查询与算法演示。",
+      "is_indoor": false,
+      "indoor_building_id": null
+    }
+  ],
+  "edges": [
+    {
+      "edge_id": "e0001",
+      "source_id": "u001",
+      "target_id": "u002",
+      "length_meters": 53,
+      "congestion": 0.87,
+      "allows": [
+        "walk",
+        "bike",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0002",
+      "source_id": "u001",
+      "target_id": "u021",
+      "length_meters": 69,
+      "congestion": 0.97,
+      "allows": [
+        "walk",
+        "bike",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0003",
+      "source_id": "u002",
+      "target_id": "u003",
+      "length_meters": 52,
+      "congestion": 0.99,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0004",
+      "source_id": "u002",
+      "target_id": "u022",
+      "length_meters": 61,
+      "congestion": 0.64,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0005",
+      "source_id": "u003",
+      "target_id": "u004",
+      "length_meters": 46,
+      "congestion": 0.96,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0006",
+      "source_id": "u003",
+      "target_id": "u023",
+      "length_meters": 53,
+      "congestion": 0.89,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0007",
+      "source_id": "u004",
+      "target_id": "u005",
+      "length_meters": 49,
+      "congestion": 0.91,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0008",
+      "source_id": "u004",
+      "target_id": "u024",
+      "length_meters": 69,
+      "congestion": 0.75,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0009",
+      "source_id": "u005",
+      "target_id": "u006",
+      "length_meters": 54,
+      "congestion": 0.89,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0010",
+      "source_id": "u005",
+      "target_id": "u025",
+      "length_meters": 64,
+      "congestion": 1.0,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0011",
+      "source_id": "u006",
+      "target_id": "u007",
+      "length_meters": 47,
+      "congestion": 0.74,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0012",
+      "source_id": "u006",
+      "target_id": "u026",
+      "length_meters": 60,
+      "congestion": 0.84,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0013",
+      "source_id": "u007",
+      "target_id": "u008",
+      "length_meters": 52,
+      "congestion": 0.77,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0014",
+      "source_id": "u007",
+      "target_id": "u027",
+      "length_meters": 53,
+      "congestion": 0.73,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0015",
+      "source_id": "u008",
+      "target_id": "u009",
+      "length_meters": 46,
+      "congestion": 0.71,
+      "allows": [
+        "walk",
+        "bike",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0016",
+      "source_id": "u008",
+      "target_id": "u028",
+      "length_meters": 60,
+      "congestion": 0.81,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0017",
+      "source_id": "u009",
+      "target_id": "u010",
+      "length_meters": 60,
+      "congestion": 0.68,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0018",
+      "source_id": "u009",
+      "target_id": "u029",
+      "length_meters": 64,
+      "congestion": 0.74,
+      "allows": [
+        "walk",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0019",
+      "source_id": "u010",
+      "target_id": "u011",
+      "length_meters": 60,
+      "congestion": 0.93,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0020",
+      "source_id": "u010",
+      "target_id": "u030",
+      "length_meters": 66,
+      "congestion": 0.77,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0021",
+      "source_id": "u011",
+      "target_id": "u012",
+      "length_meters": 54,
+      "congestion": 0.7,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0022",
+      "source_id": "u011",
+      "target_id": "u031",
+      "length_meters": 51,
+      "congestion": 0.87,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0023",
+      "source_id": "u012",
+      "target_id": "u013",
+      "length_meters": 57,
+      "congestion": 0.94,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0024",
+      "source_id": "u012",
+      "target_id": "u032",
+      "length_meters": 69,
+      "congestion": 0.64,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0025",
+      "source_id": "u013",
+      "target_id": "u014",
+      "length_meters": 47,
+      "congestion": 0.79,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0026",
+      "source_id": "u013",
+      "target_id": "u033",
+      "length_meters": 52,
+      "congestion": 0.84,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0027",
+      "source_id": "u014",
+      "target_id": "u015",
+      "length_meters": 46,
+      "congestion": 0.69,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0028",
+      "source_id": "u014",
+      "target_id": "u034",
+      "length_meters": 56,
+      "congestion": 0.66,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0029",
+      "source_id": "u015",
+      "target_id": "u016",
+      "length_meters": 58,
+      "congestion": 0.92,
+      "allows": [
+        "walk",
+        "bike",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0030",
+      "source_id": "u015",
+      "target_id": "u035",
+      "length_meters": 62,
+      "congestion": 0.67,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0031",
+      "source_id": "u016",
+      "target_id": "u017",
+      "length_meters": 63,
+      "congestion": 0.99,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0032",
+      "source_id": "u016",
+      "target_id": "u036",
+      "length_meters": 53,
+      "congestion": 0.84,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0033",
+      "source_id": "u017",
+      "target_id": "u018",
+      "length_meters": 50,
+      "congestion": 0.89,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0034",
+      "source_id": "u017",
+      "target_id": "u037",
+      "length_meters": 61,
+      "congestion": 0.86,
+      "allows": [
+        "walk",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0035",
+      "source_id": "u018",
+      "target_id": "u019",
+      "length_meters": 62,
+      "congestion": 0.71,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0036",
+      "source_id": "u018",
+      "target_id": "u038",
+      "length_meters": 59,
+      "congestion": 0.68,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0037",
+      "source_id": "u019",
+      "target_id": "u020",
+      "length_meters": 56,
+      "congestion": 0.96,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0038",
+      "source_id": "u019",
+      "target_id": "u039",
+      "length_meters": 64,
+      "congestion": 0.79,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0039",
+      "source_id": "u020",
+      "target_id": "u040",
+      "length_meters": 54,
+      "congestion": 0.64,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0040",
+      "source_id": "u021",
+      "target_id": "u022",
+      "length_meters": 60,
+      "congestion": 0.77,
+      "allows": [
+        "walk",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0041",
+      "source_id": "u021",
+      "target_id": "u041",
+      "length_meters": 50,
+      "congestion": 0.9,
+      "allows": [
+        "walk",
+        "bike",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0042",
+      "source_id": "u022",
+      "target_id": "u023",
+      "length_meters": 55,
+      "congestion": 0.8,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0043",
+      "source_id": "u022",
+      "target_id": "u042",
+      "length_meters": 59,
+      "congestion": 0.76,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0044",
+      "source_id": "u023",
+      "target_id": "u024",
+      "length_meters": 53,
+      "congestion": 0.88,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0045",
+      "source_id": "u023",
+      "target_id": "u043",
+      "length_meters": 55,
+      "congestion": 0.79,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0046",
+      "source_id": "u024",
+      "target_id": "u025",
+      "length_meters": 47,
+      "congestion": 0.77,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0047",
+      "source_id": "u024",
+      "target_id": "u044",
+      "length_meters": 68,
+      "congestion": 0.91,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0048",
+      "source_id": "u025",
+      "target_id": "u026",
+      "length_meters": 45,
+      "congestion": 0.88,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0049",
+      "source_id": "u025",
+      "target_id": "u045",
+      "length_meters": 58,
+      "congestion": 0.93,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0050",
+      "source_id": "u026",
+      "target_id": "u027",
+      "length_meters": 56,
+      "congestion": 1.0,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0051",
+      "source_id": "u026",
+      "target_id": "u046",
+      "length_meters": 56,
+      "congestion": 0.88,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0052",
+      "source_id": "u027",
+      "target_id": "u028",
+      "length_meters": 57,
+      "congestion": 0.85,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0053",
+      "source_id": "u027",
+      "target_id": "u047",
+      "length_meters": 55,
+      "congestion": 0.74,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0054",
+      "source_id": "u028",
+      "target_id": "u029",
+      "length_meters": 49,
+      "congestion": 0.72,
+      "allows": [
+        "walk",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0055",
+      "source_id": "u028",
+      "target_id": "u048",
+      "length_meters": 61,
+      "congestion": 0.82,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0056",
+      "source_id": "u029",
+      "target_id": "u030",
+      "length_meters": 56,
+      "congestion": 0.77,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0057",
+      "source_id": "u029",
+      "target_id": "u049",
+      "length_meters": 57,
+      "congestion": 0.76,
+      "allows": [
+        "walk",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0058",
+      "source_id": "u030",
+      "target_id": "u031",
+      "length_meters": 49,
+      "congestion": 0.81,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0059",
+      "source_id": "u030",
+      "target_id": "u050",
+      "length_meters": 51,
+      "congestion": 0.85,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0060",
+      "source_id": "u031",
+      "target_id": "u032",
+      "length_meters": 56,
+      "congestion": 0.75,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0061",
+      "source_id": "u031",
+      "target_id": "u051",
+      "length_meters": 57,
+      "congestion": 0.62,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0062",
+      "source_id": "u032",
+      "target_id": "u033",
+      "length_meters": 56,
+      "congestion": 0.69,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0063",
+      "source_id": "u032",
+      "target_id": "u052",
+      "length_meters": 52,
+      "congestion": 0.75,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0064",
+      "source_id": "u033",
+      "target_id": "u034",
+      "length_meters": 62,
+      "congestion": 0.72,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0065",
+      "source_id": "u033",
+      "target_id": "u053",
+      "length_meters": 59,
+      "congestion": 0.67,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0066",
+      "source_id": "u034",
+      "target_id": "u035",
+      "length_meters": 45,
+      "congestion": 0.78,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0067",
+      "source_id": "u034",
+      "target_id": "u054",
+      "length_meters": 63,
+      "congestion": 0.81,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0068",
+      "source_id": "u035",
+      "target_id": "u036",
+      "length_meters": 61,
+      "congestion": 0.74,
+      "allows": [
+        "walk",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0069",
+      "source_id": "u035",
+      "target_id": "u055",
+      "length_meters": 53,
+      "congestion": 0.64,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0070",
+      "source_id": "u036",
+      "target_id": "u037",
+      "length_meters": 45,
+      "congestion": 0.77,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0071",
+      "source_id": "u036",
+      "target_id": "u056",
+      "length_meters": 69,
+      "congestion": 0.76,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0072",
+      "source_id": "u037",
+      "target_id": "u038",
+      "length_meters": 63,
+      "congestion": 0.95,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0073",
+      "source_id": "u037",
+      "target_id": "u057",
+      "length_meters": 65,
+      "congestion": 0.93,
+      "allows": [
+        "walk",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0074",
+      "source_id": "u038",
+      "target_id": "u039",
+      "length_meters": 45,
+      "congestion": 0.8,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0075",
+      "source_id": "u038",
+      "target_id": "u058",
+      "length_meters": 55,
+      "congestion": 0.92,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0076",
+      "source_id": "u039",
+      "target_id": "u040",
+      "length_meters": 52,
+      "congestion": 0.77,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0077",
+      "source_id": "u039",
+      "target_id": "u059",
+      "length_meters": 68,
+      "congestion": 0.76,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0078",
+      "source_id": "u040",
+      "target_id": "u060",
+      "length_meters": 70,
+      "congestion": 0.64,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0079",
+      "source_id": "u041",
+      "target_id": "u042",
+      "length_meters": 51,
+      "congestion": 0.96,
+      "allows": [
+        "walk",
+        "bike",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0080",
+      "source_id": "u041",
+      "target_id": "u061",
+      "length_meters": 63,
+      "congestion": 0.95,
+      "allows": [
+        "walk",
+        "bike",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0081",
+      "source_id": "u042",
+      "target_id": "u043",
+      "length_meters": 49,
+      "congestion": 0.94,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0082",
+      "source_id": "u042",
+      "target_id": "u062",
+      "length_meters": 66,
+      "congestion": 0.72,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0083",
+      "source_id": "u043",
+      "target_id": "u044",
+      "length_meters": 50,
+      "congestion": 0.71,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0084",
+      "source_id": "u043",
+      "target_id": "u063",
+      "length_meters": 56,
+      "congestion": 0.98,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0085",
+      "source_id": "u044",
+      "target_id": "u045",
+      "length_meters": 57,
+      "congestion": 0.91,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0086",
+      "source_id": "u044",
+      "target_id": "u064",
+      "length_meters": 53,
+      "congestion": 0.77,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0087",
+      "source_id": "u045",
+      "target_id": "u046",
+      "length_meters": 61,
+      "congestion": 0.87,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0088",
+      "source_id": "u045",
+      "target_id": "u065",
+      "length_meters": 57,
+      "congestion": 0.84,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0089",
+      "source_id": "u046",
+      "target_id": "u047",
+      "length_meters": 52,
+      "congestion": 0.86,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0090",
+      "source_id": "u046",
+      "target_id": "u066",
+      "length_meters": 53,
+      "congestion": 0.97,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0091",
+      "source_id": "u047",
+      "target_id": "u048",
+      "length_meters": 47,
+      "congestion": 0.73,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0092",
+      "source_id": "u047",
+      "target_id": "u067",
+      "length_meters": 60,
+      "congestion": 0.95,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0093",
+      "source_id": "u048",
+      "target_id": "u049",
+      "length_meters": 62,
+      "congestion": 0.88,
+      "allows": [
+        "walk",
+        "bike",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0094",
+      "source_id": "u048",
+      "target_id": "u068",
+      "length_meters": 61,
+      "congestion": 0.89,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0095",
+      "source_id": "u049",
+      "target_id": "u050",
+      "length_meters": 51,
+      "congestion": 0.99,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0096",
+      "source_id": "u049",
+      "target_id": "u069",
+      "length_meters": 66,
+      "congestion": 0.85,
+      "allows": [
+        "walk",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0097",
+      "source_id": "u050",
+      "target_id": "u051",
+      "length_meters": 53,
+      "congestion": 0.78,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0098",
+      "source_id": "u050",
+      "target_id": "u070",
+      "length_meters": 50,
+      "congestion": 0.77,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0099",
+      "source_id": "u051",
+      "target_id": "u052",
+      "length_meters": 54,
+      "congestion": 0.71,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0100",
+      "source_id": "u051",
+      "target_id": "u071",
+      "length_meters": 69,
+      "congestion": 0.83,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0101",
+      "source_id": "u052",
+      "target_id": "u053",
+      "length_meters": 48,
+      "congestion": 0.93,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0102",
+      "source_id": "u052",
+      "target_id": "u072",
+      "length_meters": 65,
+      "congestion": 0.97,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0103",
+      "source_id": "u053",
+      "target_id": "u054",
+      "length_meters": 49,
+      "congestion": 0.91,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0104",
+      "source_id": "u053",
+      "target_id": "u073",
+      "length_meters": 51,
+      "congestion": 0.65,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0105",
+      "source_id": "u054",
+      "target_id": "u055",
+      "length_meters": 46,
+      "congestion": 0.78,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0106",
+      "source_id": "u054",
+      "target_id": "u074",
+      "length_meters": 54,
+      "congestion": 0.68,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0107",
+      "source_id": "u055",
+      "target_id": "u056",
+      "length_meters": 58,
+      "congestion": 0.93,
+      "allows": [
+        "walk",
+        "bike",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0108",
+      "source_id": "u055",
+      "target_id": "u075",
+      "length_meters": 58,
+      "congestion": 0.83,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0109",
+      "source_id": "u056",
+      "target_id": "u057",
+      "length_meters": 46,
+      "congestion": 0.81,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0110",
+      "source_id": "u056",
+      "target_id": "u076",
+      "length_meters": 57,
+      "congestion": 0.78,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0111",
+      "source_id": "u057",
+      "target_id": "u058",
+      "length_meters": 49,
+      "congestion": 0.93,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0112",
+      "source_id": "u057",
+      "target_id": "u077",
+      "length_meters": 69,
+      "congestion": 0.89,
+      "allows": [
+        "walk",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0113",
+      "source_id": "u058",
+      "target_id": "u059",
+      "length_meters": 47,
+      "congestion": 0.98,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0114",
+      "source_id": "u058",
+      "target_id": "u078",
+      "length_meters": 54,
+      "congestion": 0.96,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0115",
+      "source_id": "u059",
+      "target_id": "u060",
+      "length_meters": 54,
+      "congestion": 0.8,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0116",
+      "source_id": "u059",
+      "target_id": "u079",
+      "length_meters": 65,
+      "congestion": 0.66,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0117",
+      "source_id": "u060",
+      "target_id": "u080",
+      "length_meters": 69,
+      "congestion": 0.98,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0118",
+      "source_id": "u061",
+      "target_id": "u062",
+      "length_meters": 62,
+      "congestion": 0.88,
+      "allows": [
+        "walk",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0119",
+      "source_id": "u061",
+      "target_id": "u081",
+      "length_meters": 58,
+      "congestion": 1.0,
+      "allows": [
+        "walk",
+        "bike",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0120",
+      "source_id": "u062",
+      "target_id": "u063",
+      "length_meters": 59,
+      "congestion": 0.76,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0121",
+      "source_id": "u062",
+      "target_id": "u082",
+      "length_meters": 53,
+      "congestion": 0.77,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0122",
+      "source_id": "u063",
+      "target_id": "u064",
+      "length_meters": 60,
+      "congestion": 0.81,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0123",
+      "source_id": "u063",
+      "target_id": "u083",
+      "length_meters": 64,
+      "congestion": 0.94,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0124",
+      "source_id": "u064",
+      "target_id": "u065",
+      "length_meters": 48,
+      "congestion": 0.94,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0125",
+      "source_id": "u064",
+      "target_id": "u084",
+      "length_meters": 53,
+      "congestion": 0.75,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0126",
+      "source_id": "u065",
+      "target_id": "u066",
+      "length_meters": 59,
+      "congestion": 0.9,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0127",
+      "source_id": "u065",
+      "target_id": "u085",
+      "length_meters": 53,
+      "congestion": 0.99,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0128",
+      "source_id": "u066",
+      "target_id": "u067",
+      "length_meters": 55,
+      "congestion": 0.97,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0129",
+      "source_id": "u066",
+      "target_id": "u086",
+      "length_meters": 54,
+      "congestion": 0.73,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0130",
+      "source_id": "u067",
+      "target_id": "u068",
+      "length_meters": 51,
+      "congestion": 0.72,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0131",
+      "source_id": "u067",
+      "target_id": "u087",
+      "length_meters": 65,
+      "congestion": 0.65,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0132",
+      "source_id": "u068",
+      "target_id": "u069",
+      "length_meters": 52,
+      "congestion": 0.69,
+      "allows": [
+        "walk",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0133",
+      "source_id": "u068",
+      "target_id": "u088",
+      "length_meters": 51,
+      "congestion": 0.76,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0134",
+      "source_id": "u069",
+      "target_id": "u070",
+      "length_meters": 51,
+      "congestion": 0.74,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0135",
+      "source_id": "u069",
+      "target_id": "u089",
+      "length_meters": 67,
+      "congestion": 0.97,
+      "allows": [
+        "walk",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0136",
+      "source_id": "u070",
+      "target_id": "u071",
+      "length_meters": 55,
+      "congestion": 0.97,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0137",
+      "source_id": "u070",
+      "target_id": "u090",
+      "length_meters": 69,
+      "congestion": 0.8,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0138",
+      "source_id": "u071",
+      "target_id": "u072",
+      "length_meters": 56,
+      "congestion": 0.84,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0139",
+      "source_id": "u071",
+      "target_id": "u091",
+      "length_meters": 61,
+      "congestion": 0.78,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0140",
+      "source_id": "u072",
+      "target_id": "u073",
+      "length_meters": 48,
+      "congestion": 0.99,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0141",
+      "source_id": "u072",
+      "target_id": "u092",
+      "length_meters": 58,
+      "congestion": 0.95,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0142",
+      "source_id": "u073",
+      "target_id": "u074",
+      "length_meters": 63,
+      "congestion": 0.88,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0143",
+      "source_id": "u073",
+      "target_id": "u093",
+      "length_meters": 68,
+      "congestion": 0.63,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0144",
+      "source_id": "u074",
+      "target_id": "u075",
+      "length_meters": 45,
+      "congestion": 0.72,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0145",
+      "source_id": "u074",
+      "target_id": "u094",
+      "length_meters": 58,
+      "congestion": 0.8,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0146",
+      "source_id": "u075",
+      "target_id": "u076",
+      "length_meters": 49,
+      "congestion": 0.95,
+      "allows": [
+        "walk",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0147",
+      "source_id": "u075",
+      "target_id": "u095",
+      "length_meters": 66,
+      "congestion": 0.9,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0148",
+      "source_id": "u076",
+      "target_id": "u077",
+      "length_meters": 51,
+      "congestion": 0.89,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0149",
+      "source_id": "u076",
+      "target_id": "u096",
+      "length_meters": 53,
+      "congestion": 0.79,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0150",
+      "source_id": "u077",
+      "target_id": "u078",
+      "length_meters": 48,
+      "congestion": 0.95,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0151",
+      "source_id": "u077",
+      "target_id": "u097",
+      "length_meters": 69,
+      "congestion": 0.89,
+      "allows": [
+        "walk",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0152",
+      "source_id": "u078",
+      "target_id": "u079",
+      "length_meters": 61,
+      "congestion": 0.86,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0153",
+      "source_id": "u078",
+      "target_id": "u098",
+      "length_meters": 55,
+      "congestion": 0.66,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0154",
+      "source_id": "u079",
+      "target_id": "u080",
+      "length_meters": 59,
+      "congestion": 0.69,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0155",
+      "source_id": "u079",
+      "target_id": "u099",
+      "length_meters": 70,
+      "congestion": 0.94,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0156",
+      "source_id": "u080",
+      "target_id": "u100",
+      "length_meters": 68,
+      "congestion": 0.84,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0157",
+      "source_id": "u081",
+      "target_id": "u082",
+      "length_meters": 46,
+      "congestion": 0.76,
+      "allows": [
+        "walk",
+        "bike",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0158",
+      "source_id": "u081",
+      "target_id": "u101",
+      "length_meters": 65,
+      "congestion": 0.69,
+      "allows": [
+        "walk",
+        "bike",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0159",
+      "source_id": "u082",
+      "target_id": "u083",
+      "length_meters": 52,
+      "congestion": 0.9,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0160",
+      "source_id": "u082",
+      "target_id": "u102",
+      "length_meters": 51,
+      "congestion": 0.67,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0161",
+      "source_id": "u083",
+      "target_id": "u084",
+      "length_meters": 55,
+      "congestion": 0.73,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0162",
+      "source_id": "u083",
+      "target_id": "u103",
+      "length_meters": 56,
+      "congestion": 0.63,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0163",
+      "source_id": "u084",
+      "target_id": "u085",
+      "length_meters": 63,
+      "congestion": 0.95,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0164",
+      "source_id": "u084",
+      "target_id": "u104",
+      "length_meters": 53,
+      "congestion": 0.98,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0165",
+      "source_id": "u085",
+      "target_id": "u086",
+      "length_meters": 59,
+      "congestion": 0.72,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0166",
+      "source_id": "u085",
+      "target_id": "u105",
+      "length_meters": 62,
+      "congestion": 0.68,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0167",
+      "source_id": "u086",
+      "target_id": "u087",
+      "length_meters": 51,
+      "congestion": 1.0,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0168",
+      "source_id": "u086",
+      "target_id": "u106",
+      "length_meters": 65,
+      "congestion": 0.92,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0169",
+      "source_id": "u087",
+      "target_id": "u088",
+      "length_meters": 53,
+      "congestion": 0.86,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0170",
+      "source_id": "u087",
+      "target_id": "u107",
+      "length_meters": 53,
+      "congestion": 0.99,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0171",
+      "source_id": "u088",
+      "target_id": "u089",
+      "length_meters": 61,
+      "congestion": 0.78,
+      "allows": [
+        "walk",
+        "bike",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0172",
+      "source_id": "u088",
+      "target_id": "u108",
+      "length_meters": 52,
+      "congestion": 0.88,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0173",
+      "source_id": "u089",
+      "target_id": "u090",
+      "length_meters": 57,
+      "congestion": 0.87,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0174",
+      "source_id": "u089",
+      "target_id": "u109",
+      "length_meters": 63,
+      "congestion": 0.81,
+      "allows": [
+        "walk",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0175",
+      "source_id": "u090",
+      "target_id": "u091",
+      "length_meters": 47,
+      "congestion": 0.84,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0176",
+      "source_id": "u090",
+      "target_id": "u110",
+      "length_meters": 68,
+      "congestion": 0.65,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0177",
+      "source_id": "u091",
+      "target_id": "u092",
+      "length_meters": 61,
+      "congestion": 0.92,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0178",
+      "source_id": "u091",
+      "target_id": "u111",
+      "length_meters": 61,
+      "congestion": 0.85,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0179",
+      "source_id": "u092",
+      "target_id": "u093",
+      "length_meters": 50,
+      "congestion": 0.76,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0180",
+      "source_id": "u092",
+      "target_id": "u112",
+      "length_meters": 61,
+      "congestion": 0.9,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0181",
+      "source_id": "u093",
+      "target_id": "u094",
+      "length_meters": 47,
+      "congestion": 0.79,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0182",
+      "source_id": "u093",
+      "target_id": "u113",
+      "length_meters": 60,
+      "congestion": 0.78,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0183",
+      "source_id": "u094",
+      "target_id": "u095",
+      "length_meters": 45,
+      "congestion": 0.84,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0184",
+      "source_id": "u094",
+      "target_id": "u114",
+      "length_meters": 60,
+      "congestion": 0.92,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0185",
+      "source_id": "u095",
+      "target_id": "u096",
+      "length_meters": 45,
+      "congestion": 0.99,
+      "allows": [
+        "walk",
+        "bike",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0186",
+      "source_id": "u095",
+      "target_id": "u115",
+      "length_meters": 56,
+      "congestion": 0.91,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0187",
+      "source_id": "u096",
+      "target_id": "u097",
+      "length_meters": 58,
+      "congestion": 0.7,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0188",
+      "source_id": "u096",
+      "target_id": "u116",
+      "length_meters": 55,
+      "congestion": 0.66,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0189",
+      "source_id": "u097",
+      "target_id": "u098",
+      "length_meters": 61,
+      "congestion": 0.9,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0190",
+      "source_id": "u097",
+      "target_id": "u117",
+      "length_meters": 52,
+      "congestion": 0.84,
+      "allows": [
+        "walk",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0191",
+      "source_id": "u098",
+      "target_id": "u099",
+      "length_meters": 50,
+      "congestion": 0.85,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0192",
+      "source_id": "u098",
+      "target_id": "u118",
+      "length_meters": 52,
+      "congestion": 0.79,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0193",
+      "source_id": "u099",
+      "target_id": "u100",
+      "length_meters": 58,
+      "congestion": 0.81,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0194",
+      "source_id": "u099",
+      "target_id": "u119",
+      "length_meters": 67,
+      "congestion": 0.74,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0195",
+      "source_id": "u100",
+      "target_id": "u120",
+      "length_meters": 69,
+      "congestion": 0.92,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0196",
+      "source_id": "u101",
+      "target_id": "u102",
+      "length_meters": 49,
+      "congestion": 0.87,
+      "allows": [
+        "walk",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0197",
+      "source_id": "u101",
+      "target_id": "u121",
+      "length_meters": 56,
+      "congestion": 0.7,
+      "allows": [
+        "walk",
+        "bike",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0198",
+      "source_id": "u102",
+      "target_id": "u103",
+      "length_meters": 53,
+      "congestion": 0.76,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0199",
+      "source_id": "u102",
+      "target_id": "u122",
+      "length_meters": 69,
+      "congestion": 0.87,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0200",
+      "source_id": "u103",
+      "target_id": "u104",
+      "length_meters": 46,
+      "congestion": 0.92,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0201",
+      "source_id": "u103",
+      "target_id": "u123",
+      "length_meters": 65,
+      "congestion": 0.99,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0202",
+      "source_id": "u104",
+      "target_id": "u105",
+      "length_meters": 47,
+      "congestion": 0.73,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0203",
+      "source_id": "u104",
+      "target_id": "u124",
+      "length_meters": 68,
+      "congestion": 0.75,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0204",
+      "source_id": "u105",
+      "target_id": "u106",
+      "length_meters": 47,
+      "congestion": 0.84,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0205",
+      "source_id": "u105",
+      "target_id": "u125",
+      "length_meters": 55,
+      "congestion": 0.92,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0206",
+      "source_id": "u106",
+      "target_id": "u107",
+      "length_meters": 52,
+      "congestion": 0.73,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0207",
+      "source_id": "u106",
+      "target_id": "u126",
+      "length_meters": 66,
+      "congestion": 0.82,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0208",
+      "source_id": "u107",
+      "target_id": "u108",
+      "length_meters": 62,
+      "congestion": 0.89,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0209",
+      "source_id": "u107",
+      "target_id": "u127",
+      "length_meters": 57,
+      "congestion": 0.93,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0210",
+      "source_id": "u108",
+      "target_id": "u109",
+      "length_meters": 49,
+      "congestion": 0.84,
+      "allows": [
+        "walk",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0211",
+      "source_id": "u108",
+      "target_id": "u128",
+      "length_meters": 65,
+      "congestion": 0.64,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0212",
+      "source_id": "u109",
+      "target_id": "u110",
+      "length_meters": 62,
+      "congestion": 0.68,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0213",
+      "source_id": "u109",
+      "target_id": "u129",
+      "length_meters": 56,
+      "congestion": 0.93,
+      "allows": [
+        "walk",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0214",
+      "source_id": "u110",
+      "target_id": "u111",
+      "length_meters": 55,
+      "congestion": 0.77,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0215",
+      "source_id": "u110",
+      "target_id": "u130",
+      "length_meters": 56,
+      "congestion": 0.86,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0216",
+      "source_id": "u111",
+      "target_id": "u112",
+      "length_meters": 63,
+      "congestion": 0.86,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0217",
+      "source_id": "u111",
+      "target_id": "u131",
+      "length_meters": 50,
+      "congestion": 0.96,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0218",
+      "source_id": "u112",
+      "target_id": "u113",
+      "length_meters": 47,
+      "congestion": 0.72,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0219",
+      "source_id": "u112",
+      "target_id": "u132",
+      "length_meters": 64,
+      "congestion": 0.89,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0220",
+      "source_id": "u113",
+      "target_id": "u114",
+      "length_meters": 59,
+      "congestion": 0.84,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0221",
+      "source_id": "u113",
+      "target_id": "u133",
+      "length_meters": 64,
+      "congestion": 0.63,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0222",
+      "source_id": "u114",
+      "target_id": "u115",
+      "length_meters": 52,
+      "congestion": 0.87,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0223",
+      "source_id": "u114",
+      "target_id": "u134",
+      "length_meters": 68,
+      "congestion": 0.94,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0224",
+      "source_id": "u115",
+      "target_id": "u116",
+      "length_meters": 46,
+      "congestion": 0.85,
+      "allows": [
+        "walk",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0225",
+      "source_id": "u115",
+      "target_id": "u135",
+      "length_meters": 59,
+      "congestion": 0.82,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0226",
+      "source_id": "u116",
+      "target_id": "u117",
+      "length_meters": 58,
+      "congestion": 0.86,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0227",
+      "source_id": "u116",
+      "target_id": "u136",
+      "length_meters": 52,
+      "congestion": 0.83,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0228",
+      "source_id": "u117",
+      "target_id": "u118",
+      "length_meters": 57,
+      "congestion": 0.93,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0229",
+      "source_id": "u117",
+      "target_id": "u137",
+      "length_meters": 55,
+      "congestion": 0.85,
+      "allows": [
+        "walk",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0230",
+      "source_id": "u118",
+      "target_id": "u119",
+      "length_meters": 60,
+      "congestion": 0.97,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0231",
+      "source_id": "u118",
+      "target_id": "u138",
+      "length_meters": 60,
+      "congestion": 0.98,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0232",
+      "source_id": "u119",
+      "target_id": "u120",
+      "length_meters": 50,
+      "congestion": 0.77,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0233",
+      "source_id": "u119",
+      "target_id": "u139",
+      "length_meters": 56,
+      "congestion": 0.9,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0234",
+      "source_id": "u120",
+      "target_id": "u140",
+      "length_meters": 61,
+      "congestion": 0.85,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0235",
+      "source_id": "u121",
+      "target_id": "u122",
+      "length_meters": 53,
+      "congestion": 0.79,
+      "allows": [
+        "walk",
+        "bike",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0236",
+      "source_id": "u121",
+      "target_id": "u141",
+      "length_meters": 65,
+      "congestion": 0.89,
+      "allows": [
+        "walk",
+        "bike",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0237",
+      "source_id": "u122",
+      "target_id": "u123",
+      "length_meters": 60,
+      "congestion": 0.69,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0238",
+      "source_id": "u122",
+      "target_id": "u142",
+      "length_meters": 52,
+      "congestion": 0.76,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0239",
+      "source_id": "u123",
+      "target_id": "u124",
+      "length_meters": 53,
+      "congestion": 0.94,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0240",
+      "source_id": "u123",
+      "target_id": "u143",
+      "length_meters": 55,
+      "congestion": 0.92,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0241",
+      "source_id": "u124",
+      "target_id": "u125",
+      "length_meters": 46,
+      "congestion": 0.96,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0242",
+      "source_id": "u124",
+      "target_id": "u144",
+      "length_meters": 61,
+      "congestion": 0.95,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0243",
+      "source_id": "u125",
+      "target_id": "u126",
+      "length_meters": 46,
+      "congestion": 0.74,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0244",
+      "source_id": "u125",
+      "target_id": "u145",
+      "length_meters": 51,
+      "congestion": 0.83,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0245",
+      "source_id": "u126",
+      "target_id": "u127",
+      "length_meters": 49,
+      "congestion": 0.96,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0246",
+      "source_id": "u126",
+      "target_id": "u146",
+      "length_meters": 70,
+      "congestion": 0.99,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0247",
+      "source_id": "u127",
+      "target_id": "u128",
+      "length_meters": 56,
+      "congestion": 0.99,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0248",
+      "source_id": "u127",
+      "target_id": "u147",
+      "length_meters": 66,
+      "congestion": 0.73,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0249",
+      "source_id": "u128",
+      "target_id": "u129",
+      "length_meters": 62,
+      "congestion": 0.91,
+      "allows": [
+        "walk",
+        "bike",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0250",
+      "source_id": "u128",
+      "target_id": "u148",
+      "length_meters": 58,
+      "congestion": 0.93,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0251",
+      "source_id": "u129",
+      "target_id": "u130",
+      "length_meters": 62,
+      "congestion": 0.99,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0252",
+      "source_id": "u129",
+      "target_id": "u149",
+      "length_meters": 67,
+      "congestion": 0.72,
+      "allows": [
+        "walk",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0253",
+      "source_id": "u130",
+      "target_id": "u131",
+      "length_meters": 47,
+      "congestion": 0.81,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0254",
+      "source_id": "u130",
+      "target_id": "u150",
+      "length_meters": 67,
+      "congestion": 0.73,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0255",
+      "source_id": "u131",
+      "target_id": "u132",
+      "length_meters": 49,
+      "congestion": 0.84,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0256",
+      "source_id": "u131",
+      "target_id": "u151",
+      "length_meters": 59,
+      "congestion": 0.96,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0257",
+      "source_id": "u132",
+      "target_id": "u133",
+      "length_meters": 62,
+      "congestion": 0.92,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0258",
+      "source_id": "u132",
+      "target_id": "u152",
+      "length_meters": 67,
+      "congestion": 0.7,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0259",
+      "source_id": "u133",
+      "target_id": "u134",
+      "length_meters": 52,
+      "congestion": 0.7,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0260",
+      "source_id": "u133",
+      "target_id": "u153",
+      "length_meters": 63,
+      "congestion": 0.97,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0261",
+      "source_id": "u134",
+      "target_id": "u135",
+      "length_meters": 60,
+      "congestion": 0.85,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0262",
+      "source_id": "u134",
+      "target_id": "u154",
+      "length_meters": 61,
+      "congestion": 0.74,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0263",
+      "source_id": "u135",
+      "target_id": "u136",
+      "length_meters": 46,
+      "congestion": 0.76,
+      "allows": [
+        "walk",
+        "bike",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0264",
+      "source_id": "u135",
+      "target_id": "u155",
+      "length_meters": 60,
+      "congestion": 0.69,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0265",
+      "source_id": "u136",
+      "target_id": "u137",
+      "length_meters": 48,
+      "congestion": 0.99,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0266",
+      "source_id": "u136",
+      "target_id": "u156",
+      "length_meters": 69,
+      "congestion": 0.94,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0267",
+      "source_id": "u137",
+      "target_id": "u138",
+      "length_meters": 61,
+      "congestion": 0.79,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0268",
+      "source_id": "u137",
+      "target_id": "u157",
+      "length_meters": 59,
+      "congestion": 0.72,
+      "allows": [
+        "walk",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0269",
+      "source_id": "u138",
+      "target_id": "u139",
+      "length_meters": 58,
+      "congestion": 0.79,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0270",
+      "source_id": "u138",
+      "target_id": "u158",
+      "length_meters": 61,
+      "congestion": 0.83,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0271",
+      "source_id": "u139",
+      "target_id": "u140",
+      "length_meters": 60,
+      "congestion": 0.74,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0272",
+      "source_id": "u139",
+      "target_id": "u159",
+      "length_meters": 52,
+      "congestion": 0.71,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0273",
+      "source_id": "u140",
+      "target_id": "u160",
+      "length_meters": 68,
+      "congestion": 0.96,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0274",
+      "source_id": "u141",
+      "target_id": "u142",
+      "length_meters": 49,
+      "congestion": 0.83,
+      "allows": [
+        "walk",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0275",
+      "source_id": "u141",
+      "target_id": "u161",
+      "length_meters": 56,
+      "congestion": 0.65,
+      "allows": [
+        "walk",
+        "bike",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0276",
+      "source_id": "u142",
+      "target_id": "u143",
+      "length_meters": 52,
+      "congestion": 0.97,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0277",
+      "source_id": "u142",
+      "target_id": "u162",
+      "length_meters": 52,
+      "congestion": 0.69,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0278",
+      "source_id": "u143",
+      "target_id": "u144",
+      "length_meters": 51,
+      "congestion": 0.87,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0279",
+      "source_id": "u143",
+      "target_id": "u163",
+      "length_meters": 67,
+      "congestion": 0.7,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0280",
+      "source_id": "u144",
+      "target_id": "u145",
+      "length_meters": 57,
+      "congestion": 0.82,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0281",
+      "source_id": "u144",
+      "target_id": "u164",
+      "length_meters": 69,
+      "congestion": 0.78,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0282",
+      "source_id": "u145",
+      "target_id": "u146",
+      "length_meters": 52,
+      "congestion": 0.75,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0283",
+      "source_id": "u145",
+      "target_id": "u165",
+      "length_meters": 63,
+      "congestion": 0.81,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0284",
+      "source_id": "u146",
+      "target_id": "u147",
+      "length_meters": 50,
+      "congestion": 0.7,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0285",
+      "source_id": "u146",
+      "target_id": "u166",
+      "length_meters": 61,
+      "congestion": 0.72,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0286",
+      "source_id": "u147",
+      "target_id": "u148",
+      "length_meters": 61,
+      "congestion": 0.7,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0287",
+      "source_id": "u147",
+      "target_id": "u167",
+      "length_meters": 58,
+      "congestion": 0.89,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0288",
+      "source_id": "u148",
+      "target_id": "u149",
+      "length_meters": 51,
+      "congestion": 0.68,
+      "allows": [
+        "walk",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0289",
+      "source_id": "u148",
+      "target_id": "u168",
+      "length_meters": 61,
+      "congestion": 0.81,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0290",
+      "source_id": "u149",
+      "target_id": "u150",
+      "length_meters": 52,
+      "congestion": 0.8,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0291",
+      "source_id": "u149",
+      "target_id": "u169",
+      "length_meters": 69,
+      "congestion": 0.85,
+      "allows": [
+        "walk",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0292",
+      "source_id": "u150",
+      "target_id": "u151",
+      "length_meters": 46,
+      "congestion": 0.9,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0293",
+      "source_id": "u150",
+      "target_id": "u170",
+      "length_meters": 69,
+      "congestion": 0.83,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0294",
+      "source_id": "u151",
+      "target_id": "u152",
+      "length_meters": 62,
+      "congestion": 0.7,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0295",
+      "source_id": "u151",
+      "target_id": "u171",
+      "length_meters": 55,
+      "congestion": 0.95,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0296",
+      "source_id": "u152",
+      "target_id": "u153",
+      "length_meters": 50,
+      "congestion": 0.79,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0297",
+      "source_id": "u152",
+      "target_id": "u172",
+      "length_meters": 53,
+      "congestion": 0.93,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0298",
+      "source_id": "u153",
+      "target_id": "u154",
+      "length_meters": 60,
+      "congestion": 0.99,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0299",
+      "source_id": "u153",
+      "target_id": "u173",
+      "length_meters": 70,
+      "congestion": 0.81,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0300",
+      "source_id": "u154",
+      "target_id": "u155",
+      "length_meters": 63,
+      "congestion": 0.93,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0301",
+      "source_id": "u154",
+      "target_id": "u174",
+      "length_meters": 66,
+      "congestion": 0.69,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0302",
+      "source_id": "u155",
+      "target_id": "u156",
+      "length_meters": 61,
+      "congestion": 0.93,
+      "allows": [
+        "walk",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0303",
+      "source_id": "u155",
+      "target_id": "u175",
+      "length_meters": 64,
+      "congestion": 0.82,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0304",
+      "source_id": "u156",
+      "target_id": "u157",
+      "length_meters": 46,
+      "congestion": 0.7,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0305",
+      "source_id": "u156",
+      "target_id": "u176",
+      "length_meters": 62,
+      "congestion": 0.99,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0306",
+      "source_id": "u157",
+      "target_id": "u158",
+      "length_meters": 56,
+      "congestion": 0.88,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0307",
+      "source_id": "u157",
+      "target_id": "u177",
+      "length_meters": 67,
+      "congestion": 0.92,
+      "allows": [
+        "walk",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0308",
+      "source_id": "u158",
+      "target_id": "u159",
+      "length_meters": 46,
+      "congestion": 0.72,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0309",
+      "source_id": "u158",
+      "target_id": "u178",
+      "length_meters": 66,
+      "congestion": 0.65,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0310",
+      "source_id": "u159",
+      "target_id": "u160",
+      "length_meters": 48,
+      "congestion": 0.71,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0311",
+      "source_id": "u159",
+      "target_id": "u179",
+      "length_meters": 65,
+      "congestion": 0.87,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0312",
+      "source_id": "u160",
+      "target_id": "u180",
+      "length_meters": 66,
+      "congestion": 0.64,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0313",
+      "source_id": "u161",
+      "target_id": "u162",
+      "length_meters": 49,
+      "congestion": 0.95,
+      "allows": [
+        "walk",
+        "bike",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0314",
+      "source_id": "u161",
+      "target_id": "u181",
+      "length_meters": 50,
+      "congestion": 0.93,
+      "allows": [
+        "walk",
+        "bike",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0315",
+      "source_id": "u162",
+      "target_id": "u163",
+      "length_meters": 50,
+      "congestion": 0.75,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0316",
+      "source_id": "u162",
+      "target_id": "u182",
+      "length_meters": 66,
+      "congestion": 0.8,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0317",
+      "source_id": "u163",
+      "target_id": "u164",
+      "length_meters": 59,
+      "congestion": 0.89,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0318",
+      "source_id": "u163",
+      "target_id": "u183",
+      "length_meters": 50,
+      "congestion": 0.85,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0319",
+      "source_id": "u164",
+      "target_id": "u165",
+      "length_meters": 50,
+      "congestion": 0.8,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0320",
+      "source_id": "u164",
+      "target_id": "u184",
+      "length_meters": 52,
+      "congestion": 0.7,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0321",
+      "source_id": "u165",
+      "target_id": "u166",
+      "length_meters": 51,
+      "congestion": 0.95,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0322",
+      "source_id": "u165",
+      "target_id": "u185",
+      "length_meters": 53,
+      "congestion": 0.72,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0323",
+      "source_id": "u166",
+      "target_id": "u167",
+      "length_meters": 63,
+      "congestion": 0.85,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0324",
+      "source_id": "u166",
+      "target_id": "u186",
+      "length_meters": 60,
+      "congestion": 0.95,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0325",
+      "source_id": "u167",
+      "target_id": "u168",
+      "length_meters": 58,
+      "congestion": 0.89,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0326",
+      "source_id": "u167",
+      "target_id": "u187",
+      "length_meters": 54,
+      "congestion": 0.81,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0327",
+      "source_id": "u168",
+      "target_id": "u169",
+      "length_meters": 48,
+      "congestion": 0.81,
+      "allows": [
+        "walk",
+        "bike",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0328",
+      "source_id": "u168",
+      "target_id": "u188",
+      "length_meters": 55,
+      "congestion": 0.75,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0329",
+      "source_id": "u169",
+      "target_id": "u170",
+      "length_meters": 63,
+      "congestion": 1.0,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0330",
+      "source_id": "u169",
+      "target_id": "u189",
+      "length_meters": 56,
+      "congestion": 0.62,
+      "allows": [
+        "walk",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0331",
+      "source_id": "u170",
+      "target_id": "u171",
+      "length_meters": 57,
+      "congestion": 0.93,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0332",
+      "source_id": "u170",
+      "target_id": "u190",
+      "length_meters": 65,
+      "congestion": 0.69,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0333",
+      "source_id": "u171",
+      "target_id": "u172",
+      "length_meters": 53,
+      "congestion": 0.97,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0334",
+      "source_id": "u171",
+      "target_id": "u191",
+      "length_meters": 55,
+      "congestion": 0.93,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0335",
+      "source_id": "u172",
+      "target_id": "u173",
+      "length_meters": 60,
+      "congestion": 0.68,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0336",
+      "source_id": "u172",
+      "target_id": "u192",
+      "length_meters": 55,
+      "congestion": 0.88,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0337",
+      "source_id": "u173",
+      "target_id": "u174",
+      "length_meters": 63,
+      "congestion": 0.98,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0338",
+      "source_id": "u173",
+      "target_id": "u193",
+      "length_meters": 55,
+      "congestion": 0.88,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0339",
+      "source_id": "u174",
+      "target_id": "u175",
+      "length_meters": 53,
+      "congestion": 0.91,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0340",
+      "source_id": "u174",
+      "target_id": "u194",
+      "length_meters": 56,
+      "congestion": 0.71,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0341",
+      "source_id": "u175",
+      "target_id": "u176",
+      "length_meters": 47,
+      "congestion": 0.82,
+      "allows": [
+        "walk",
+        "bike",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0342",
+      "source_id": "u175",
+      "target_id": "u195",
+      "length_meters": 67,
+      "congestion": 0.9,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0343",
+      "source_id": "u176",
+      "target_id": "u177",
+      "length_meters": 63,
+      "congestion": 0.97,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0344",
+      "source_id": "u176",
+      "target_id": "u196",
+      "length_meters": 57,
+      "congestion": 0.67,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0345",
+      "source_id": "u177",
+      "target_id": "u178",
+      "length_meters": 59,
+      "congestion": 1.0,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0346",
+      "source_id": "u177",
+      "target_id": "u197",
+      "length_meters": 57,
+      "congestion": 0.69,
+      "allows": [
+        "walk",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0347",
+      "source_id": "u178",
+      "target_id": "u179",
+      "length_meters": 45,
+      "congestion": 0.75,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0348",
+      "source_id": "u178",
+      "target_id": "u198",
+      "length_meters": 66,
+      "congestion": 0.73,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0349",
+      "source_id": "u179",
+      "target_id": "u180",
+      "length_meters": 51,
+      "congestion": 0.85,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0350",
+      "source_id": "u179",
+      "target_id": "u199",
+      "length_meters": 59,
+      "congestion": 0.84,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0351",
+      "source_id": "u180",
+      "target_id": "u200",
+      "length_meters": 64,
+      "congestion": 0.71,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0352",
+      "source_id": "u181",
+      "target_id": "u182",
+      "length_meters": 56,
+      "congestion": 0.74,
+      "allows": [
+        "walk",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0353",
+      "source_id": "u181",
+      "target_id": "u201",
+      "length_meters": 67,
+      "congestion": 0.74,
+      "allows": [
+        "walk",
+        "bike",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0354",
+      "source_id": "u182",
+      "target_id": "u183",
+      "length_meters": 58,
+      "congestion": 0.89,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0355",
+      "source_id": "u182",
+      "target_id": "u202",
+      "length_meters": 66,
+      "congestion": 0.89,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0356",
+      "source_id": "u183",
+      "target_id": "u184",
+      "length_meters": 57,
+      "congestion": 0.83,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0357",
+      "source_id": "u183",
+      "target_id": "u203",
+      "length_meters": 57,
+      "congestion": 0.91,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0358",
+      "source_id": "u184",
+      "target_id": "u185",
+      "length_meters": 50,
+      "congestion": 0.97,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0359",
+      "source_id": "u184",
+      "target_id": "u204",
+      "length_meters": 62,
+      "congestion": 0.68,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0360",
+      "source_id": "u185",
+      "target_id": "u186",
+      "length_meters": 56,
+      "congestion": 0.91,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0361",
+      "source_id": "u185",
+      "target_id": "u205",
+      "length_meters": 51,
+      "congestion": 0.87,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0362",
+      "source_id": "u186",
+      "target_id": "u187",
+      "length_meters": 50,
+      "congestion": 0.73,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0363",
+      "source_id": "u186",
+      "target_id": "u206",
+      "length_meters": 55,
+      "congestion": 0.92,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0364",
+      "source_id": "u187",
+      "target_id": "u188",
+      "length_meters": 52,
+      "congestion": 0.84,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0365",
+      "source_id": "u187",
+      "target_id": "u207",
+      "length_meters": 69,
+      "congestion": 0.68,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0366",
+      "source_id": "u188",
+      "target_id": "u189",
+      "length_meters": 51,
+      "congestion": 0.95,
+      "allows": [
+        "walk",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0367",
+      "source_id": "u188",
+      "target_id": "u208",
+      "length_meters": 70,
+      "congestion": 0.75,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0368",
+      "source_id": "u189",
+      "target_id": "u190",
+      "length_meters": 55,
+      "congestion": 0.79,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0369",
+      "source_id": "u189",
+      "target_id": "u209",
+      "length_meters": 54,
+      "congestion": 0.69,
+      "allows": [
+        "walk",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0370",
+      "source_id": "u190",
+      "target_id": "u191",
+      "length_meters": 47,
+      "congestion": 0.71,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0371",
+      "source_id": "u190",
+      "target_id": "u210",
+      "length_meters": 50,
+      "congestion": 0.91,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0372",
+      "source_id": "u191",
+      "target_id": "u192",
+      "length_meters": 59,
+      "congestion": 0.84,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0373",
+      "source_id": "u191",
+      "target_id": "u211",
+      "length_meters": 64,
+      "congestion": 0.88,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0374",
+      "source_id": "u192",
+      "target_id": "u193",
+      "length_meters": 58,
+      "congestion": 0.81,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0375",
+      "source_id": "u192",
+      "target_id": "u212",
+      "length_meters": 69,
+      "congestion": 0.82,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0376",
+      "source_id": "u193",
+      "target_id": "u194",
+      "length_meters": 53,
+      "congestion": 0.74,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0377",
+      "source_id": "u193",
+      "target_id": "u213",
+      "length_meters": 55,
+      "congestion": 0.81,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0378",
+      "source_id": "u194",
+      "target_id": "u195",
+      "length_meters": 48,
+      "congestion": 0.84,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0379",
+      "source_id": "u194",
+      "target_id": "u214",
+      "length_meters": 66,
+      "congestion": 0.97,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0380",
+      "source_id": "u195",
+      "target_id": "u196",
+      "length_meters": 48,
+      "congestion": 0.95,
+      "allows": [
+        "walk",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0381",
+      "source_id": "u195",
+      "target_id": "u215",
+      "length_meters": 66,
+      "congestion": 0.75,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0382",
+      "source_id": "u196",
+      "target_id": "u197",
+      "length_meters": 46,
+      "congestion": 0.8,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0383",
+      "source_id": "u196",
+      "target_id": "u216",
+      "length_meters": 56,
+      "congestion": 0.81,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0384",
+      "source_id": "u197",
+      "target_id": "u198",
+      "length_meters": 57,
+      "congestion": 0.78,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0385",
+      "source_id": "u197",
+      "target_id": "u217",
+      "length_meters": 61,
+      "congestion": 0.63,
+      "allows": [
+        "walk",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0386",
+      "source_id": "u198",
+      "target_id": "u199",
+      "length_meters": 57,
+      "congestion": 0.97,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0387",
+      "source_id": "u198",
+      "target_id": "u218",
+      "length_meters": 59,
+      "congestion": 0.68,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0388",
+      "source_id": "u199",
+      "target_id": "u200",
+      "length_meters": 55,
+      "congestion": 0.82,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0389",
+      "source_id": "u199",
+      "target_id": "u219",
+      "length_meters": 70,
+      "congestion": 0.89,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0390",
+      "source_id": "u200",
+      "target_id": "u220",
+      "length_meters": 52,
+      "congestion": 0.63,
+      "allows": [
+        "walk"
+      ]
+    },
+    {
+      "edge_id": "e0391",
+      "source_id": "u201",
+      "target_id": "u202",
+      "length_meters": 58,
+      "congestion": 0.91,
+      "allows": [
+        "walk",
+        "bike",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0392",
+      "source_id": "u202",
+      "target_id": "u203",
+      "length_meters": 57,
+      "congestion": 0.82,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0393",
+      "source_id": "u203",
+      "target_id": "u204",
+      "length_meters": 56,
+      "congestion": 0.93,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0394",
+      "source_id": "u204",
+      "target_id": "u205",
+      "length_meters": 49,
+      "congestion": 0.79,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0395",
+      "source_id": "u205",
+      "target_id": "u206",
+      "length_meters": 51,
+      "congestion": 0.7,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0396",
+      "source_id": "u206",
+      "target_id": "u207",
+      "length_meters": 58,
+      "congestion": 0.96,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0397",
+      "source_id": "u207",
+      "target_id": "u208",
+      "length_meters": 48,
+      "congestion": 0.83,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0398",
+      "source_id": "u208",
+      "target_id": "u209",
+      "length_meters": 63,
+      "congestion": 0.71,
+      "allows": [
+        "walk",
+        "bike",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0399",
+      "source_id": "u209",
+      "target_id": "u210",
+      "length_meters": 60,
+      "congestion": 0.8,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0400",
+      "source_id": "u210",
+      "target_id": "u211",
+      "length_meters": 58,
+      "congestion": 0.97,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0401",
+      "source_id": "u211",
+      "target_id": "u212",
+      "length_meters": 57,
+      "congestion": 0.93,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0402",
+      "source_id": "u212",
+      "target_id": "u213",
+      "length_meters": 45,
+      "congestion": 0.89,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0403",
+      "source_id": "u213",
+      "target_id": "u214",
+      "length_meters": 57,
+      "congestion": 0.84,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0404",
+      "source_id": "u214",
+      "target_id": "u215",
+      "length_meters": 60,
+      "congestion": 0.79,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0405",
+      "source_id": "u215",
+      "target_id": "u216",
+      "length_meters": 49,
+      "congestion": 0.69,
+      "allows": [
+        "walk",
+        "bike",
+        "cart"
+      ]
+    },
+    {
+      "edge_id": "e0406",
+      "source_id": "u216",
+      "target_id": "u217",
+      "length_meters": 60,
+      "congestion": 0.7,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0407",
+      "source_id": "u217",
+      "target_id": "u218",
+      "length_meters": 53,
+      "congestion": 0.92,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0408",
+      "source_id": "u218",
+      "target_id": "u219",
+      "length_meters": 48,
+      "congestion": 0.91,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0409",
+      "source_id": "u219",
+      "target_id": "u220",
+      "length_meters": 58,
+      "congestion": 0.91,
+      "allows": [
+        "walk",
+        "bike"
+      ]
+    },
+    {
+      "edge_id": "e0410",
+      "source_id": "u001",
+      "target_id": "u020",
+      "length_meters": 494,
+      "congestion": 0.9,
+      "allows": [
+        "walk",
+        "cart",
+        "ebus"
+      ]
+    },
+    {
+      "edge_id": "e0411",
+      "source_id": "u021",
+      "target_id": "u040",
+      "length_meters": 421,
+      "congestion": 0.94,
+      "allows": [
+        "walk",
+        "cart",
+        "ebus"
+      ]
+    },
+    {
+      "edge_id": "e0412",
+      "source_id": "u101",
+      "target_id": "u120",
+      "length_meters": 487,
+      "congestion": 0.89,
+      "allows": [
+        "walk",
+        "cart",
+        "ebus"
+      ]
+    },
+    {
+      "edge_id": "e0413",
+      "source_id": "u181",
+      "target_id": "u200",
+      "length_meters": 428,
+      "congestion": 0.79,
+      "allows": [
+        "walk",
+        "cart",
+        "ebus"
+      ]
+    },
+    {
+      "edge_id": "e0414",
+      "source_id": "u050",
+      "target_id": "u170",
+      "length_meters": 439,
+      "congestion": 0.92,
+      "allows": [
+        "walk",
+        "cart",
+        "ebus"
+      ]
+    }
+  ]
+}

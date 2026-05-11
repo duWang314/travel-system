@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#f5f5f7"/><stop offset="1" stop-color="#dfe9f8"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="22" stdDeviation="24" flood-color="#000" flood-opacity="0.18"/></filter></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<path d="M110 580 C260 380, 420 650, 590 430 S880 210, 1080 420" fill="none" stroke="#0071e3" stroke-width="10" stroke-linecap="round" opacity="0.8"/>
+<circle cx="590" cy="430" r="28" fill="#0071e3"/>
+<rect x="220" y="150" width="760" height="470" rx="34" fill="white" filter="url(#s)"/>
+<text x="600" y="315" font-family="Helvetica, Arial, sans-serif" font-size="56" font-weight="700" text-anchor="middle" fill="#1d1d1f">山水之间的轻徒步 7</text>
+<text x="600" y="385" font-family="Helvetica, Arial, sans-serif" font-size="28" text-anchor="middle" fill="#6e6e73">北京大学</text>
+<text x="600" y="470" font-family="Helvetica, Arial, sans-serif" font-size="24" text-anchor="middle" fill="#86868b">湖景 · 北京大学 · 今天按照系统推荐的路线游览了北京大学 · 从入口出发后 · 先经过安静的景观节点 · 再前往服务区补给</text>
+</svg>
